@@ -1,0 +1,30 @@
+// Font Family
+$font-family-primary: 'Inter', sans-serif;
+
+// Font Sizes
+$font-size-h1: 25px;
+$font-size-h2: 20px;
+$font-size-button: 18px;
+$font-size-body: 14px;
+$font-size-small: 10px;
+
+// Font Weights
+$font-weight-regular: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+
+// Letter Spacing
+$letter-spacing-default: 0.20px;
+
+:export {
+  fontFamilyPrimary: $font-family-primary;
+  fontSizeH1: $font-size-h1;
+  fontSizeH2: $font-size-h2;
+  fontSizeButton: $font-size-button;
+  fontSizeBody: $font-size-body;
+  fontSizeSmall: $font-size-small;
+  fontWeightRegular: $font-weight-regular;
+  fontWeightMedium: $font-weight-medium;
+  fontWeightSemibold: $font-weight-semibold;
+  letterSpacingDefault: $letter-spacing-default;
+}

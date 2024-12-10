@@ -1,0 +1,2440 @@
+/* Finalizar comprar - Cartão de Credito */
+
+position: relative;
+width: 1440px;
+height: 1049px;
+
+background: #FFFFFF;
+
+
+/* Navbar */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 656px;
+top: 77px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 656px;
+top: 77px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 656px;
+top: 77px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Produto */
+
+position: absolute;
+width: 1199px;
+height: 340px;
+left: 120px;
+top: 148px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1199px;
+height: 340px;
+left: 120px;
+top: 148px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Group 101 */
+
+position: absolute;
+width: 1156px;
+height: 136px;
+left: 139px;
+top: 163px;
+
+
+
+/* Group 92 */
+
+position: absolute;
+width: 1108px;
+height: 15px;
+left: 139px;
+top: 163px;
+
+
+
+/* Quantidade */
+
+position: absolute;
+width: 68px;
+height: 15px;
+left: 1050px;
+top: 163px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Preço */
+
+position: absolute;
+width: 34px;
+height: 15px;
+left: 1213px;
+top: 163px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Produto */
+
+position: absolute;
+width: 47px;
+height: 15px;
+left: 139px;
+top: 163px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Produto */
+
+position: absolute;
+width: 1156px;
+height: 100px;
+left: 139px;
+top: 199px;
+
+
+
+/* Group 93 */
+
+position: absolute;
+width: 82px;
+height: 17px;
+left: 1213px;
+top: 231px;
+
+
+
+/* R$ 2.700,00 */
+
+position: absolute;
+width: 82px;
+height: 17px;
+left: 1213px;
+top: 231px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* + = */
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1062px;
+top: 219px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1062px;
+top: 219px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 1 */
+
+position: absolute;
+width: 10px;
+height: 24px;
+left: 1079px;
+top: 229px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Produto */
+
+position: absolute;
+width: 441px;
+height: 100px;
+left: 139px;
+top: 199px;
+
+
+
+/* Group 69 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 139px;
+top: 199px;
+
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 139px;
+top: 199px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 72.94px;
+height: 75.66px;
+left: 153.12px;
+top: 211.94px;
+
+background: url(image-removebg-preview (10).png);
+
+
+/* Bomba de Alta Pressão CP3 Cummins ISB 0445020007 / 0445020175 AFTERMARKET */
+
+position: absolute;
+width: 313px;
+height: 34px;
+left: 267px;
+top: 215px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Marca: Ford */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 267px;
+top: 265px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Código: AF-0445020175 */
+
+position: absolute;
+width: 168px;
+height: 17px;
+left: 368px;
+top: 265px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* image */
+
+position: absolute;
+width: 1199px;
+height: 1px;
+left: 120px;
+top: 332px;
+
+background: #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+position: absolute;
+width: 1199px;
+height: 1px;
+left: 120px;
+top: 429px;
+
+background: #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+position: absolute;
+width: 1199px;
+height: 1px;
+left: 120px;
+top: 382px;
+
+background: #EDEDED;
+border-radius: 5px;
+
+
+/* Group 103 */
+
+position: absolute;
+width: 163px;
+height: 17px;
+left: 1132px;
+top: 352px;
+
+
+
+/* Subtotal: */
+
+position: absolute;
+width: 53px;
+height: 15px;
+left: 1132px;
+top: 353px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 2.700,00 */
+
+position: absolute;
+width: 82px;
+height: 17px;
+left: 1213px;
+top: 352px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Group 102 */
+
+position: absolute;
+width: 163px;
+height: 17px;
+left: 1132px;
+top: 396px;
+
+
+
+/* Frete: */
+
+position: absolute;
+width: 34px;
+height: 15px;
+left: 1132px;
+top: 397px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 44,42 */
+
+position: absolute;
+width: 63px;
+height: 17px;
+left: 1232px;
+top: 396px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Group 104 */
+
+position: absolute;
+width: 163px;
+height: 17px;
+left: 1132px;
+top: 450px;
+
+
+
+/* Total: */
+
+position: absolute;
+width: 33px;
+height: 15px;
+left: 1132px;
+top: 451px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 2.744,42 */
+
+position: absolute;
+width: 82px;
+height: 17px;
+left: 1213px;
+top: 450px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 1199px;
+height: 511px;
+left: 120px;
+top: 515px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 290px;
+height: 239px;
+left: 120px;
+top: 515px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 136px;
+height: 17px;
+left: 140px;
+top: 630px;
+
+
+
+/* João Pedro */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 199px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome: */
+
+position: absolute;
+width: 45px;
+height: 17px;
+left: 140px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 128px;
+height: 17px;
+left: 140px;
+top: 659px;
+
+
+
+/* Masculino */
+
+position: absolute;
+width: 69px;
+height: 17px;
+left: 199px;
+top: 659px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Sexo: */
+
+position: absolute;
+width: 38px;
+height: 17px;
+left: 140px;
+top: 659px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 173px;
+height: 17px;
+left: 140px;
+top: 717px;
+
+
+
+/* (21) 97133-6065 */
+
+position: absolute;
+width: 114px;
+height: 17px;
+left: 199px;
+top: 717px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Celular: */
+
+position: absolute;
+width: 53px;
+height: 17px;
+left: 140px;
+top: 717px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 185px;
+height: 17px;
+left: 140px;
+top: 688px;
+
+
+
+/* 26/07/2004 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 244px;
+top: 688px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nascimento: */
+
+position: absolute;
+width: 86px;
+height: 17px;
+left: 140px;
+top: 688px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 85px;
+height: 17px;
+left: 140px;
+top: 535px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Dados Cadastrais */
+
+position: absolute;
+width: 121px;
+height: 17px;
+left: 140px;
+top: 587px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 328px;
+height: 132px;
+left: 430px;
+top: 515px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 328px;
+height: 132px;
+left: 430px;
+top: 515px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 181px;
+height: 17px;
+left: 450px;
+top: 576px;
+
+
+
+/* Pessoa Física */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 538px;
+top: 576px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cadastro: */
+
+position: absolute;
+width: 67px;
+height: 17px;
+left: 450px;
+top: 576px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 141px;
+height: 17px;
+left: 450px;
+top: 605px;
+
+
+
+/* 161.05.412.61 */
+
+position: absolute;
+width: 91px;
+height: 17px;
+left: 500px;
+top: 605px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* CPF: */
+
+position: absolute;
+width: 33px;
+height: 17px;
+left: 450px;
+top: 605px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Tipo de cadastro */
+
+position: absolute;
+width: 116px;
+height: 17px;
+left: 450px;
+top: 535px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 541px;
+height: 511px;
+left: 778px;
+top: 515px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 541px;
+height: 511px;
+left: 778px;
+top: 515px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Group 104 */
+
+position: absolute;
+width: 163px;
+height: 17px;
+left: 1132px;
+top: 866px;
+
+
+
+/* Total: */
+
+position: absolute;
+width: 33px;
+height: 15px;
+left: 1132px;
+top: 867px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 2.744,42 */
+
+position: absolute;
+width: 82px;
+height: 17px;
+left: 1213px;
+top: 866px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 497px;
+height: 39px;
+left: 798px;
+top: 576px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 497px;
+height: 39px;
+left: 798px;
+top: 576px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 812px;
+top: 590px;
+
+background: #58D899;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* DinersClub */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: calc(50% - 22px/2 + 281px);
+top: calc(50% - 22px/2 + 71.5px);
+
+
+
+/* Union */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 15.23%;
+bottom: 15.36%;
+
+/* Credit cards/Diners Club/1 */
+background: #0069AA;
+
+
+/* JCB */
+
+position: absolute;
+left: 71.18%;
+right: 27.29%;
+top: 55.77%;
+bottom: 42.14%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 11.52%;
+bottom: 11.46%;
+
+background: #FFFFFF;
+
+
+/* Union */
+
+position: absolute;
+left: 66.99%;
+right: 5.56%;
+top: 16.72%;
+bottom: 16.59%;
+
+background: #05A551;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.5%;
+right: 67.05%;
+top: 16.72%;
+bottom: 16.65%;
+
+background: #0A4EA1;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.31%;
+right: 36.24%;
+top: 16.72%;
+bottom: 16.53%;
+
+background: #EE1C24;
+
+
+/* Visa */
+
+position: absolute;
+left: 61.46%;
+right: 37.01%;
+top: 55.77%;
+bottom: 42.14%;
+
+
+
+/* Text */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 33.79%;
+bottom: 33.92%;
+
+/* Credit cards/VISA/1 */
+background: #1434CB;
+
+
+/* AmericanExpress */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: calc(50% - 22px/2 + 211px);
+top: calc(50% - 22px/2 + 71.5px);
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 22px;
+height: 8.04px;
+left: 0px;
+top: 6.96px;
+
+
+
+/* EXPRESS */
+
+position: absolute;
+left: 19.89%;
+right: 0%;
+top: 31.65%;
+bottom: 31.82%;
+
+/* Credit cards/AmericanExpress/1 */
+background: #006FCF;
+
+
+/* AMERICAN */
+
+position: absolute;
+left: 0%;
+right: 4.65%;
+top: 31.64%;
+bottom: 52%;
+
+/* Credit cards/AmericanExpress/1 */
+background: #006FCF;
+
+
+/* Subtract */
+
+position: absolute;
+left: 22.43%;
+right: 0%;
+top: 54.13%;
+bottom: 32.6%;
+
+background: #FFFFFF;
+
+
+/* AMERICAN */
+
+position: absolute;
+left: 0.04%;
+right: 7.16%;
+top: 33.95%;
+bottom: 54.33%;
+
+background: #FFFFFF;
+
+
+/* Discover */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: calc(50% - 22px/2 + 246px);
+top: calc(50% - 22px/2 + 71.5px);
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 22px;
+height: 3.52px;
+left: 0px;
+top: 9.24px;
+
+
+
+/* Fill 13 */
+
+position: absolute;
+left: 0%;
+right: 86.87%;
+top: 42.34%;
+bottom: 42.4%;
+
+/* Credit cards/Discover/2 */
+background: #201D1C;
+
+
+/* Fill 14 */
+
+position: absolute;
+left: 14.57%;
+right: 82.33%;
+top: 42.34%;
+bottom: 42.4%;
+
+/* Credit cards/Discover/2 */
+background: #201D1C;
+
+
+/* Fill 15 */
+
+position: absolute;
+left: 18.85%;
+right: 70.13%;
+top: 42.08%;
+bottom: 42.03%;
+
+/* Credit cards/Discover/2 */
+background: #201D1C;
+
+
+/* Fill 16 */
+
+position: absolute;
+left: 30.86%;
+right: 56.82%;
+top: 41.99%;
+bottom: 42.06%;
+
+/* Credit cards/Discover/2 */
+background: #201D1C;
+
+
+/* Fill 17 */
+
+position: absolute;
+left: 60.73%;
+right: 23.94%;
+top: 42.34%;
+bottom: 42.01%;
+
+/* Credit cards/Discover/2 */
+background: #201D1C;
+
+
+/* Fill 18 */
+
+position: absolute;
+left: 77.48%;
+right: 13.7%;
+top: 42.34%;
+bottom: 42.4%;
+
+/* Credit cards/Discover/2 */
+background: #201D1C;
+
+
+/* Fill 19 */
+
+position: absolute;
+left: 88.35%;
+right: 0%;
+top: 42.34%;
+bottom: 42.4%;
+
+/* Credit cards/Discover/2 */
+background: #201D1C;
+
+
+/* Fill 20 */
+
+position: absolute;
+left: 44.54%;
+right: 38.83%;
+top: 42.05%;
+bottom: 42.03%;
+
+/* Credit cards/Discover/1 */
+background: radial-gradient(53.99% 53.99% at 61.01% 70.8%, rgba(234, 157, 44, 0) 0%, rgba(223, 118, 36, 0) 32.81%, rgba(191, 75, 35, 0.75) 76.02%, #7D3017 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, linear-gradient(139.13deg, #E6772F 14.03%, #EA9D2C 85%);
+
+
+/* MasterCard */
+
+position: absolute;
+left: 59.03%;
+right: 39.44%;
+top: 55.77%;
+bottom: 42.14%;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 22px;
+height: 17.11px;
+left: 0px;
+top: 2.45px;
+
+
+
+/* Text */
+
+position: absolute;
+left: 5.18%;
+right: 1.02%;
+top: 76.98%;
+bottom: 11.08%;
+
+/* Credit cards/Mastercard/4 */
+background: #231F20;
+
+
+/* Symbol */
+
+position: absolute;
+width: 22px;
+height: 13.6px;
+left: 0px;
+top: 2.45px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 36.48%;
+right: 36.48%;
+top: 17.74%;
+bottom: 33.67%;
+
+/* Credit cards/Mastercard/3 */
+background: #FF5F00;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 50%;
+top: 11.13%;
+bottom: 27.06%;
+
+/* Credit cards/Mastercard/1 */
+background: #EB001B;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 0%;
+top: 11.13%;
+bottom: 27.06%;
+
+/* Credit cards/Mastercard/2 */
+background: #F79E1B;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.43%;
+right: 0.97%;
+top: 59.99%;
+bottom: 38.82%;
+
+/* Payment Methods/MasterCard/3 */
+background: #F79E1B;
+
+
+/* Group 105 */
+
+position: absolute;
+width: 242px;
+height: 59px;
+left: 798px;
+top: 632px;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 242px;
+height: 39px;
+left: 798px;
+top: 652px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 39px;
+left: 798px;
+top: 652px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Número do cartão */
+
+position: absolute;
+width: 89px;
+height: 12px;
+left: 798px;
+top: 632px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* **** **** **** **** */
+
+position: absolute;
+width: 93px;
+height: 12px;
+left: 811px;
+top: 666px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 107 */
+
+position: absolute;
+width: 497px;
+height: 59px;
+left: 798px;
+top: 708px;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 497px;
+height: 39px;
+left: 798px;
+top: 728px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 497px;
+height: 39px;
+left: 798px;
+top: 728px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Nome do Titular (Como escrito no cartão) */
+
+position: absolute;
+width: 205px;
+height: 12px;
+left: 798px;
+top: 708px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome */
+
+position: absolute;
+width: 29px;
+height: 12px;
+left: 811px;
+top: 742px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 108 */
+
+position: absolute;
+width: 242px;
+height: 59px;
+left: 798px;
+top: 784px;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 242px;
+height: 39px;
+left: 798px;
+top: 804px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 39px;
+left: 798px;
+top: 804px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cód. de Segurança */
+
+position: absolute;
+width: 94px;
+height: 12px;
+left: 798px;
+top: 784px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* CVV */
+
+position: absolute;
+width: 22px;
+height: 12px;
+left: 811px;
+top: 818px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 109 */
+
+position: absolute;
+width: 242px;
+height: 59px;
+left: 1053px;
+top: 784px;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 242px;
+height: 39px;
+left: 1053px;
+top: 804px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 39px;
+left: 1053px;
+top: 804px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Icons */
+
+position: absolute;
+left: 88.33%;
+right: 11.11%;
+top: 78.17%;
+bottom: 21.07%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.23%;
+right: 6.2%;
+top: 24.96%;
+bottom: 28.12%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Parcelas */
+
+position: absolute;
+width: 42px;
+height: 12px;
+left: 1053px;
+top: 784px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Selecione o número de parcelas */
+
+position: absolute;
+width: 157px;
+height: 12px;
+left: 1066px;
+top: 818px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 106 */
+
+position: absolute;
+width: 242px;
+height: 59px;
+left: 1053px;
+top: 632px;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 242px;
+height: 39px;
+left: 1053px;
+top: 652px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 39px;
+left: 1053px;
+top: 652px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Validade */
+
+position: absolute;
+width: 42px;
+height: 12px;
+left: 1053px;
+top: 632px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* MM/AA */
+
+position: absolute;
+width: 36px;
+height: 12px;
+left: 1066px;
+top: 666px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 497px;
+height: 39px;
+left: 798px;
+top: 906px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 497px;
+height: 39px;
+left: 798px;
+top: 906px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Alterar forma de pagamento */
+
+position: absolute;
+width: 194px;
+height: 17px;
+left: 952px;
+top: 917px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Pagamento */
+
+position: absolute;
+width: 78px;
+height: 17px;
+left: 798px;
+top: 535px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 99 */
+
+position: absolute;
+width: 497px;
+height: 37px;
+left: 798px;
+top: 968px;
+
+
+
+/* image */
+
+position: absolute;
+width: 497px;
+height: 37px;
+left: 798px;
+top: 968px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Finalizar Compra */
+
+position: absolute;
+width: 115px;
+height: 17px;
+left: 989px;
+top: 978px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 328px;
+height: 132px;
+left: 430px;
+top: 665px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 328px;
+height: 132px;
+left: 430px;
+top: 665px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Group 95 */
+
+position: absolute;
+width: 289px;
+height: 17px;
+left: 450px;
+top: 764px;
+
+
+
+/* 7 dias úteis R$ 33,37 Lalamoove - Express */
+
+position: absolute;
+width: 289px;
+height: 17px;
+left: 450px;
+top: 764px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 113px;
+height: 17px;
+left: 450px;
+top: 726px;
+
+
+
+/* Tipo de entrega: */
+
+position: absolute;
+width: 113px;
+height: 17px;
+left: 450px;
+top: 726px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Entrega */
+
+position: absolute;
+width: 54px;
+height: 17px;
+left: 450px;
+top: 685px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 328px;
+height: 161px;
+left: 430px;
+top: 815px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 328px;
+height: 161px;
+left: 430px;
+top: 815px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 74px;
+left: 450px;
+top: 892px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 269px;
+height: 17px;
+left: 450px;
+top: 861px;
+
+
+
+/* Gostaria de enviar alguma observação? */
+
+position: absolute;
+width: 269px;
+height: 17px;
+left: 450px;
+top: 861px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Mensagem */
+
+position: absolute;
+width: 76px;
+height: 17px;
+left: 450px;
+top: 835px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 290px;
+height: 212px;
+left: 120px;
+top: 764px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 290px;
+height: 212px;
+left: 120px;
+top: 764px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Frame 84 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 24px;
+gap: 10px;
+
+position: absolute;
+width: 41px;
+height: 18px;
+left: 355px;
+top: 784px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Editar */
+
+width: 29px;
+height: 12px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cartões */
+
+position: absolute;
+width: 202px;
+height: 17px;
+left: 140px;
+top: 821px;
+
+
+
+/* Rua Sumida, 072 */
+
+position: absolute;
+width: 114px;
+height: 17px;
+left: 228px;
+top: 821px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Endereço: */
+
+position: absolute;
+width: 70px;
+height: 17px;
+left: 140px;
+top: 821px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 129px;
+height: 17px;
+left: 140px;
+top: 851px;
+
+
+
+/* São Listão */
+
+position: absolute;
+width: 71px;
+height: 17px;
+left: 198px;
+top: 851px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Bairro: */
+
+position: absolute;
+width: 45px;
+height: 17px;
+left: 140px;
+top: 851px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 164px;
+height: 17px;
+left: 140px;
+top: 881px;
+
+
+
+/* Rio de Janeiro */
+
+position: absolute;
+width: 97px;
+height: 17px;
+left: 207px;
+top: 881px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cidade: */
+
+position: absolute;
+width: 53px;
+height: 17px;
+left: 140px;
+top: 881px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 164px;
+height: 17px;
+left: 140px;
+top: 911px;
+
+
+
+/* Rio de Janeiro */
+
+position: absolute;
+width: 97px;
+height: 17px;
+left: 207px;
+top: 911px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Estado: */
+
+position: absolute;
+width: 52px;
+height: 17px;
+left: 140px;
+top: 911px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 123px;
+height: 17px;
+left: 140px;
+top: 941px;
+
+
+
+/* 12345-678 */
+
+position: absolute;
+width: 75px;
+height: 17px;
+left: 188px;
+top: 941px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cep: */
+
+position: absolute;
+width: 32px;
+height: 17px;
+left: 140px;
+top: 941px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Endereço Principal */
+
+position: absolute;
+width: 129px;
+height: 17px;
+left: 140px;
+top: 784px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+

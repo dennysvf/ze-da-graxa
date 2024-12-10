@@ -1,0 +1,92 @@
+@use "sass:math";
+
+.grid {
+  display: grid;
+  width: 100%;
+
+  // Columns
+  @for $i from 1 through 12 {
+    &.columns-#{$i} {
+      grid-template-columns: repeat($i, 1fr);
+    }
+  }
+
+  // Spacing
+  &.spacing-none { gap: 0; }
+  &.spacing-xs { gap: 4px; }
+  &.spacing-sm { gap: 8px; }
+  &.spacing-md { gap: 16px; }
+  &.spacing-lg { gap: 24px; }
+  &.spacing-xl { gap: 32px; }
+
+  // Alignment
+  &.align-start { align-items: start; }
+  &.align-center { align-items: center; }
+  &.align-end { align-items: end; }
+  &.align-stretch { align-items: stretch; }
+
+  // Justification
+  &.justify-start { justify-content: start; }
+  &.justify-center { justify-content: center; }
+  &.justify-end { justify-content: end; }
+  &.justify-between { justify-content: space-between; }
+  &.justify-around { justify-content: space-around; }
+
+  // Responsive behavior
+  &.responsive {
+    @media (max-width: 768px) {
+      grid-template-columns: 1fr;
+    }
+  }
+}
+
+.item {
+  min-width: 0; // Prevent overflow
+
+  // Span
+  @for $i from 1 through 12 {
+    &.span-#{$i} {
+      grid-column: span $i;
+    }
+  }
+
+  // Offset
+  @for $i from 1 through 11 {
+    &.offset-#{$i} {
+      grid-column-start: $i + 1;
+    }
+  }
+
+  // Responsive breakpoints
+  @media (min-width: 640px) {
+    @for $i from 1 through 12 {
+      &.sm-#{$i} {
+        grid-column: span $i;
+      }
+    }
+  }
+
+  @media (min-width: 768px) {
+    @for $i from 1 through 12 {
+      &.md-#{$i} {
+        grid-column: span $i;
+      }
+    }
+  }
+
+  @media (min-width: 1024px) {
+    @for $i from 1 through 12 {
+      &.lg-#{$i} {
+        grid-column: span $i;
+      }
+    }
+  }
+
+  @media (min-width: 1280px) {
+    @for $i from 1 through 12 {
+      &.xl-#{$i} {
+        grid-column: span $i;
+      }
+    }
+  }
+}

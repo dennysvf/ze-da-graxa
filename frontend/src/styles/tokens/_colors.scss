@@ -1,0 +1,28 @@
+// Brand Colors
+$primary-green: #58D899;
+$primary-text: #616161;
+
+// Neutral Colors
+$white: #FFFFFF;
+$background: #F5F5F5;
+$border: #EDEDED;
+
+// Text Colors
+$text-primary: #616161;
+$text-placeholder: #9998A5;
+
+// State Colors
+$hover-opacity: 0.9;
+$disabled-opacity: 0.7;
+
+:export {
+  primaryGreen: $primary-green;
+  primaryText: $primary-text;
+  white: $white;
+  background: $background;
+  border: $border;
+  textPrimary: $text-primary;
+  textPlaceholder: $text-placeholder;
+  hoverOpacity: $hover-opacity;
+  disabledOpacity: $disabled-opacity;
+}

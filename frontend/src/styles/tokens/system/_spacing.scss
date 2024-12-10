@@ -1,0 +1,101 @@
+// Design System - Spacing Tokens
+// Este arquivo define a escala de espaçamento mantendo compatibilidade com o sistema atual
+
+// Função utilitária para converter px para rem
+@function px-to-rem($px) {
+  $base: 16px;
+  @return ($px / $base) * 1rem;
+}
+
+// Escala de espaçamento base
+$spacing-scale: (
+  '0': 0,
+  'px': 1px,
+  '0.5': px-to-rem(2px),
+  '1': px-to-rem(4px),
+  '2': px-to-rem(8px),
+  '3': px-to-rem(12px),
+  '4': px-to-rem(16px),
+  '5': px-to-rem(20px),
+  '6': px-to-rem(24px),
+  '8': px-to-rem(32px),
+  '10': px-to-rem(40px),
+  '12': px-to-rem(48px),
+  '16': px-to-rem(64px),
+  '20': px-to-rem(80px),
+  '24': px-to-rem(96px)
+);
+
+// Escala de containers
+$container-scale: (
+  'sm': 640px,
+  'md': 768px,
+  'lg': 1024px,
+  'xl': 1280px,
+  '2xl': 1440px
+);
+
+// Sistema de Aliases (Compatibilidade com sistema atual)
+$container-width: map-get($container-scale, '2xl');
+$content-max-width: map-get($container-scale, 'xl');
+$padding-container-top: map-get($spacing-scale, '20');
+$padding-container-bottom: px-to-rem(369px); // Valor específico mantido
+$padding-container-left: px-to-rem(172px);   // Valor específico mantido
+$padding-container-right: px-to-rem(902px);  // Valor específico mantido
+$gap-large: px-to-rem(138px);               // Valor específico mantido
+$gap-medium: px-to-rem(97px);               // Valor específico mantido
+$gap-small: map-get($spacing-scale, '4');
+$input-padding: px-to-rem(19px);            // Valor específico mantido
+$card-padding: px-to-rem(15px);             // Valor específico mantido
+
+// Border Radius
+$border-radius: (
+  'none': 0,
+  'sm': px-to-rem(2px),
+  'base': px-to-rem(4px),
+  'md': px-to-rem(6px),
+  'lg': px-to-rem(8px),
+  'xl': px-to-rem(12px),
+  '2xl': px-to-rem(16px),
+  'full': 9999px
+);
+
+$border-radius-default: map-get($border-radius, 'md');
+$border-radius-large: map-get($border-radius, 'xl');
+$border-width-default: 1px;
+
+// Exportação para JavaScript
+:export {
+  // Sistema atual (mantendo compatibilidade)
+  containerWidth: $container-width;
+  contentMaxWidth: $content-max-width;
+  paddingContainerTop: $padding-container-top;
+  paddingContainerBottom: $padding-container-bottom;
+  paddingContainerLeft: $padding-container-left;
+  paddingContainerRight: $padding-container-right;
+  gapLarge: $gap-large;
+  gapMedium: $gap-medium;
+  gapSmall: $gap-small;
+  inputPadding: $input-padding;
+  cardPadding: $card-padding;
+  borderRadiusDefault: $border-radius-default;
+  borderRadiusLarge: $border-radius-large;
+  borderWidthDefault: $border-width-default;
+  
+  // Novo sistema (escala completa)
+  spacing0: map-get($spacing-scale, '0');
+  spacingPx: map-get($spacing-scale, 'px');
+  spacing0_5: map-get($spacing-scale, '0.5');
+  spacing1: map-get($spacing-scale, '1');
+  spacing2: map-get($spacing-scale, '2');
+  spacing3: map-get($spacing-scale, '3');
+  spacing4: map-get($spacing-scale, '4');
+  spacing5: map-get($spacing-scale, '5');
+  spacing6: map-get($spacing-scale, '6');
+  spacing8: map-get($spacing-scale, '8');
+  spacing10: map-get($spacing-scale, '10');
+  spacing12: map-get($spacing-scale, '12');
+  spacing16: map-get($spacing-scale, '16');
+  spacing20: map-get($spacing-scale, '20');
+  spacing24: map-get($spacing-scale, '24');
+}

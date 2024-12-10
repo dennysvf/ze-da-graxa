@@ -1,0 +1,162 @@
+/* Finalizando */
+
+position: relative;
+width: 1440px;
+height: 1020px;
+
+background: #FFFFFF;
+
+
+/* Navbar */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Login */
+
+position: absolute;
+width: 366px;
+height: 188px;
+left: 172px;
+top: 416px;
+
+
+
+/* Texto */
+
+position: absolute;
+width: 360px;
+height: 188px;
+left: 175px;
+top: 416px;
+
+
+
+/* Obrigado por criar uma conta */
+
+position: absolute;
+width: 360px;
+height: 30px;
+left: 175px;
+top: 416px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Agora você pode acessar a plataforma */
+
+position: absolute;
+width: 263px;
+height: 17px;
+left: 224px;
+top: 459px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Ou aguarde 5 segundos para ser redirecionado */
+
+position: absolute;
+width: 320px;
+height: 17px;
+left: 195px;
+top: 587px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 75 */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 510px;
+
+
+
+/* image */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 510px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Voltar para o site */
+
+position: absolute;
+width: 150px;
+height: 22px;
+left: 280px;
+top: 527px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+

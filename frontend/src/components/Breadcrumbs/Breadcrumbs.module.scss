@@ -1,0 +1,70 @@
+@import '../../styles/tokens/colors';
+@import '../../styles/tokens/spacing';
+@import '../../styles/tokens/typography';
+
+.breadcrumbs {
+  width: 100%;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--spacing-2);
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-2);
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+}
+
+.link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-1);
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  transition: all 0.2s ease;
+
+  &:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+}
+
+.text {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-1);
+
+  &.current {
+    color: var(--color-text-primary);
+    font-weight: var(--font-weight-medium);
+  }
+
+  &[role="button"] {
+    cursor: pointer;
+    
+    &:hover {
+      color: var(--color-primary);
+      text-decoration: underline;
+    }
+  }
+}
+
+.separator {
+  color: var(--color-text-disabled);
+  margin: 0 var(--spacing-1);
+  user-select: none;
+}
+
+.icon {
+  font-size: var(--font-size-base);
+  color: currentColor;
+}

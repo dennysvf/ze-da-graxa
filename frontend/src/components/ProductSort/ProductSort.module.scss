@@ -1,0 +1,32 @@
+@import '../../styles/tokens';
+@import '../../styles/mixins';
+
+.sort {
+  display: flex;
+  align-items: center;
+  gap: $gap-small;
+
+  label {
+    font-size: $font-size-body;
+    color: $text-primary;
+    letter-spacing: $letter-spacing-default;
+  }
+
+  select {
+    height: 55px;
+    padding: $input-padding;
+    border: $border-width-default solid $border;
+    border-radius: $border-radius-default;
+    font-size: $font-size-body;
+    color: $text-primary;
+    background-color: $white;
+    cursor: pointer;
+    transition: $transition-fast;
+    letter-spacing: $letter-spacing-default;
+
+    &:focus {
+      outline: 2px solid $primary-green;
+      outline-offset: 2px;
+    }
+  }
+}

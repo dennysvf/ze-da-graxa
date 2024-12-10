@@ -1,0 +1,97 @@
+@import '../../styles/tokens';
+
+.home {
+  min-height: 100vh;
+}
+
+.benefits {
+  padding: var(--spacing-12) var(--spacing-4);
+  background-color: var(--color-gray-50);
+}
+
+.benefitsGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--spacing-6);
+  max-width: var(--container-max-width);
+  margin: 0 auto;
+
+  @media (max-width: 1024px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: 640px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.benefitCard {
+  text-align: center;
+  padding: var(--spacing-6);
+  background-color: var(--color-white);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.2s;
+
+  &:hover {
+    transform: translateY(-4px);
+  }
+
+  h3 {
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-text-primary);
+    margin: var(--spacing-3) 0;
+  }
+
+  p {
+    font-size: var(--font-size-base);
+    color: var(--color-text-secondary);
+  }
+}
+
+.benefitIcon {
+  font-size: var(--font-size-3xl);
+  margin-bottom: var(--spacing-2);
+}
+
+.cta {
+  padding: var(--spacing-16) var(--spacing-4);
+  background: linear-gradient(to right, var(--color-primary-600), var(--color-primary-700));
+  color: var(--color-white);
+}
+
+.ctaContent {
+  max-width: var(--container-max-width);
+  margin: 0 auto;
+  text-align: center;
+
+  h2 {
+    font-size: var(--font-size-3xl);
+    font-weight: var(--font-weight-bold);
+    margin-bottom: var(--spacing-4);
+  }
+
+  p {
+    font-size: var(--font-size-lg);
+    margin-bottom: var(--spacing-8);
+    opacity: 0.9;
+  }
+
+  button {
+    padding: var(--spacing-3) var(--spacing-8);
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-medium);
+    color: var(--color-primary-600);
+    background-color: var(--color-white);
+    border: none;
+    border-radius: var(--border-radius-full);
+    cursor: pointer;
+    transition: all 0.2s;
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-md);
+    }
+  }
+}

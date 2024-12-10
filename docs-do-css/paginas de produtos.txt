@@ -1,0 +1,4900 @@
+/* Página de produtos */
+
+position: relative;
+width: 1440px;
+height: 2710px;
+
+background: #FFFFFF;
+
+
+/* Catégorias */
+
+position: absolute;
+width: 1200px;
+height: 83px;
+left: 120px;
+top: 140px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 1200px;
+height: 1px;
+left: 120px;
+top: 140px;
+
+background: #F5FBF3;
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 1200px;
+height: 1px;
+left: 120px;
+top: 222px;
+
+background: #F5FBF3;
+
+
+/* Menus */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 50px;
+
+position: absolute;
+width: 693px;
+height: 15px;
+left: 373px;
+top: 174px;
+
+
+
+/* Acessórios */
+
+width: 75px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Motor */
+
+width: 41px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Suspensão */
+
+width: 75px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Freios */
+
+width: 42px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Transmissão */
+
+width: 86px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Direção Hidráulica */
+
+width: 124px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Navbar */
+
+position: absolute;
+width: 1200px;
+height: 32px;
+left: 120px;
+top: 74px;
+
+
+
+/* Icones */
+
+position: absolute;
+width: 230px;
+height: 25px;
+left: 1090px;
+top: 77px;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 121px;
+height: 25px;
+left: 1090px;
+top: 77px;
+
+
+
+/* Minha Conta */
+
+position: absolute;
+width: 86px;
+height: 15px;
+left: 1125px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* icon-park-outline:people */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 1090px;
+top: 77px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #616161;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 88px;
+height: 25px;
+left: 1232px;
+top: 77px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 85.56%;
+right: 12.71%;
+top: 2.84%;
+bottom: 96.24%;
+
+background: #616161;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 10.71px;
+height: 10.71px;
+left: 1246.29px;
+top: 77.71px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 10.71px;
+height: 10.71px;
+left: 1246.29px;
+top: 77.71px;
+
+background: #58D899;
+
+
+/* 5 */
+
+position: absolute;
+width: 5px;
+height: 8.57px;
+left: 1249.3px;
+top: 78px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* R$ 0,00 */
+
+position: absolute;
+width: 53px;
+height: 15px;
+left: 1267px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 120px;
+top: 74px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 120px;
+top: 74px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Footer */
+
+position: absolute;
+width: 1440px;
+height: 361px;
+left: 0px;
+top: 2349px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 1440px;
+height: 361px;
+left: 0px;
+top: 2349px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 32 */
+
+position: absolute;
+width: 1200px;
+height: 1px;
+left: 120px;
+top: 2606px;
+
+background: #F5FBF3;
+opacity: 0.34;
+
+
+/* Zé da graxa - 2024 © Todos os direitos reservados */
+
+position: absolute;
+width: 325px;
+height: 16px;
+left: 120px;
+top: 2639px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Categorias */
+
+position: absolute;
+width: 187px;
+height: 149px;
+left: 867px;
+top: 2412px;
+
+
+
+/* Conteúdo */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 867px;
+top: 2412px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Fale conosco */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 867px;
+top: 2441px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Garantias */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 867px;
+top: 2467px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Política de Privacidade */
+
+position: absolute;
+width: 146px;
+height: 16px;
+left: 867px;
+top: 2493px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Política de Troca e Devolução */
+
+position: absolute;
+width: 187px;
+height: 16px;
+left: 867px;
+top: 2519px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Quem somos */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 867px;
+top: 2545px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Categorias */
+
+position: absolute;
+width: 146px;
+height: 97px;
+left: 1113px;
+top: 2412px;
+
+
+
+/* Quem somos? */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 1113px;
+top: 2412px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Fale conosco */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 1113px;
+top: 2441px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Sobre nós */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 1113px;
+top: 2467px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Contatos */
+
+position: absolute;
+width: 146px;
+height: 16px;
+left: 1113px;
+top: 2493px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Sobre */
+
+position: absolute;
+width: 295px;
+height: 130px;
+left: 120px;
+top: 2412px;
+
+
+
+/* Peças Originais com o melhor preço e garantia para o seu veículo. Trabalhamos com os principais fornecedores de peças originais do mercado. Somos o maior estoque digital de peças do país! */
+
+position: absolute;
+width: 295px;
+height: 80px;
+left: 120px;
+top: 2462px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 120px;
+top: 2412px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 120px;
+top: 2412px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Home / Catégorias / Bombas / Bomba de Alta Pressão CP3 Cummins */
+
+position: absolute;
+width: 467px;
+height: 15px;
+left: 120px;
+top: 244px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Imagem */
+
+position: absolute;
+width: 612px;
+height: 548px;
+left: 120px;
+top: 314px;
+
+
+
+/* Group 67 */
+
+position: absolute;
+width: 491px;
+height: 534px;
+left: 120px;
+top: 314px;
+
+
+
+/* Rectangle 35 */
+
+position: absolute;
+width: 491px;
+height: 534px;
+left: 120px;
+top: 314px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 375px;
+height: 423.07px;
+left: 178px;
+top: 370.55px;
+
+background: url(image-removebg-preview (10).png);
+
+
+/* Group 68 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 627px;
+top: 314px;
+
+
+
+/* Rectangle 36 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 627px;
+top: 314px;
+
+background: #F5F5F5;
+border: 0.5px solid #58D899;
+border-radius: 5px;
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 62px;
+height: 64.31px;
+left: 639px;
+top: 325px;
+
+background: url(image-removebg-preview (10).png);
+
+
+/* Group 69 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 627px;
+top: 426px;
+
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 627px;
+top: 426px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 62px;
+height: 64.31px;
+left: 639px;
+top: 437px;
+
+background: url(image-removebg-preview (10).png);
+
+
+/* Group 70 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 627px;
+top: 538px;
+
+
+
+/* Rectangle 38 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 627px;
+top: 538px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 62px;
+height: 64.31px;
+left: 639px;
+top: 549px;
+
+background: url(image-removebg-preview (10).png);
+
+
+/* Group 71 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 627px;
+top: 650px;
+
+
+
+/* Rectangle 39 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 627px;
+top: 650px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 62px;
+height: 64.31px;
+left: 639px;
+top: 661px;
+
+background: url(image-removebg-preview (10).png);
+
+
+/* Group 72 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 627px;
+top: 762px;
+
+
+
+/* Rectangle 40 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 627px;
+top: 762px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 62px;
+height: 64.31px;
+left: 639px;
+top: 773px;
+
+background: url(image-removebg-preview (10).png);
+
+
+/* Rectangle 41 */
+
+position: absolute;
+width: 115px;
+height: 14px;
+left: 597px;
+top: 848px;
+
+background: #FFFFFF;
+
+
+/* Scroll */
+
+position: absolute;
+width: 3px;
+height: 533px;
+left: 729px;
+top: 314px;
+
+
+
+/* Rectangle 43 */
+
+position: absolute;
+width: 3px;
+height: 533px;
+left: 732px;
+top: 314px;
+
+background: #F5F5F5;
+border-radius: 15px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 44 */
+
+position: absolute;
+width: 3px;
+height: 29px;
+left: 732px;
+top: 314px;
+
+background: #DEDEDE;
+border-radius: 15px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 75 */
+
+position: absolute;
+width: 541px;
+height: 533px;
+left: 780px;
+top: 314px;
+
+
+
+/* Bomba de Alta Pressão CP3 Cummins ISB 0445020007 / 0445020175 AFTERMARKET */
+
+position: absolute;
+width: 541px;
+height: 60px;
+left: 780px;
+top: 314px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Marca: Ford */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 780px;
+top: 385px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Código: AF-0445020175 */
+
+position: absolute;
+width: 168px;
+height: 17px;
+left: 881px;
+top: 385px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Valor */
+
+position: absolute;
+width: 275px;
+height: 72px;
+left: 780px;
+top: 448px;
+
+
+
+/* R$ 2.700,00 no pix */
+
+position: absolute;
+width: 213px;
+height: 30px;
+left: 780px;
+top: 469px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* De R$ 3.000,00 */
+
+position: absolute;
+width: 108px;
+height: 17px;
+left: 780px;
+top: 448px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+opacity: 0.5;
+
+
+/* até 3x de R$ 270,00 ou no crédito do zé */
+
+position: absolute;
+width: 275px;
+height: 17px;
+left: 780px;
+top: 503px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Button */
+
+position: absolute;
+width: 540px;
+height: 82px;
+left: 780px;
+top: 549px;
+
+
+
+/* + = */
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 780px;
+top: 549px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 780px;
+top: 549px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 1 */
+
+position: absolute;
+width: 10px;
+height: 24px;
+left: 797px;
+top: 559px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* + */
+
+position: absolute;
+width: 4px;
+height: 4px;
+left: 815px;
+top: 555px;
+
+background: #616161;
+
+
+/* - */
+
+position: absolute;
+width: 4px;
+height: 1px;
+left: 815px;
+top: 582px;
+
+background: #616161;
+
+
+/* Button */
+
+position: absolute;
+width: 476px;
+height: 44px;
+left: 844px;
+top: 549px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 476px;
+height: 44px;
+left: 844px;
+top: 549px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.01%;
+right: 26.6%;
+top: 20.7%;
+bottom: 78.56%;
+
+background: #FFFFFF;
+
+
+/* Comprar */
+
+position: absolute;
+width: 59px;
+height: 17px;
+left: 1068px;
+top: 562px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* Restam apenas 15 unidades */
+
+position: absolute;
+width: 190px;
+height: 17px;
+left: 987px;
+top: 614px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 73 */
+
+position: absolute;
+width: 540px;
+height: 55px;
+left: 780px;
+top: 792px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 540px;
+height: 55px;
+left: 780px;
+top: 792px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Valor e prazo de entrega */
+
+position: absolute;
+width: 168px;
+height: 17px;
+left: 799px;
+top: 811px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* CEP */
+
+position: absolute;
+width: 285px;
+height: 33px;
+left: 1018px;
+top: 803px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 285px;
+height: 33px;
+left: 1018px;
+top: 803px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 68px;
+height: 33px;
+left: 1235px;
+top: 803px;
+
+background: #58D899;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* CEP */
+
+position: absolute;
+width: 28px;
+height: 17px;
+left: 1026px;
+top: 811px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Buscar */
+
+position: absolute;
+width: 47px;
+height: 17px;
+left: 1245px;
+top: 811px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* Infos */
+
+position: absolute;
+visibility: hidden;
+width: 1200px;
+height: 827px;
+left: 120px;
+top: 892px;
+
+
+
+/* Rectangle 45 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1200px;
+height: 827px;
+left: 120px;
+top: 892px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* Group 73 */
+
+position: absolute;
+width: 1150px;
+height: 55px;
+left: 145px;
+top: 1094px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1150px;
+height: 55px;
+left: 145px;
+top: 1094px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Montadora */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 221px;
+top: 1113px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Modelo */
+
+position: absolute;
+width: 51px;
+height: 17px;
+left: 533px;
+top: 1113px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Ano */
+
+position: absolute;
+width: 27px;
+height: 17px;
+left: 821px;
+top: 1113px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Motor */
+
+position: absolute;
+width: 41px;
+height: 17px;
+left: 1113px;
+top: 1113px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Quando receber seu produto, confira atentamente o seu pedido antes de assinar a confirmação de recebimento. Caso o produto apresente sinais de adulteração ou violação da embalagem e/ou da peça, recuse o seu recebimento imediatamente. Garantia: Todas as peças possuem pelo menos 3 meses de garantia contra defeitos de fabricação. Não nos responsabilizamos por mal uso da peça ou instalação por profissional não qualificado. Confira atentamente todos os procedimentos necessários no manual do seu veículo. Nosso departamento de garantia segue todos os procedimentos necessários e técnicos para uma análise de garantia. É indispensável a limpeza do sistema antes da instalação de qualquer peça nova, sinais de contaminação é um sinal de garantia improcedente.Confira atentamente todos os seus dados como endereço de entrega e ficha de cadastro para que não haja problemas na entrega. Não nos responsabilizamos por preenchimento errado do cadastro. Para maiores informações acesse: Prazo e entrega Política de Privacidade Garantia Trocas e Devoluções */
+
+position: absolute;
+width: 1151px;
+height: 288px;
+left: 145px;
+top: 1400px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 77 */
+
+position: absolute;
+width: 276px;
+height: 266px;
+left: 421px;
+top: 1094px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 276px;
+height: 266px;
+left: 421px;
+top: 1360px;
+
+border: 1px solid #EDEDED;
+border-radius: 5px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Cargo C 1317 E */
+
+position: absolute;
+width: 96px;
+height: 16px;
+left: 440px;
+top: 1167px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* MA 12.0 E-tronic */
+
+position: absolute;
+width: 105px;
+height: 16px;
+left: 440px;
+top: 1193px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* MT 12.0 LE/SB E-tronic */
+
+position: absolute;
+width: 146px;
+height: 16px;
+left: 440px;
+top: 1219px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 721 E */
+
+position: absolute;
+width: 34px;
+height: 16px;
+left: 440px;
+top: 1245px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 821 E */
+
+position: absolute;
+width: 35px;
+height: 16px;
+left: 440px;
+top: 1271px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* A8000 */
+
+position: absolute;
+width: 42px;
+height: 16px;
+left: 440px;
+top: 1297px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Puma 205 / 225 */
+
+position: absolute;
+width: 101px;
+height: 16px;
+left: 440px;
+top: 1323px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 78 */
+
+position: absolute;
+width: 276px;
+height: 266px;
+left: 697px;
+top: 1094px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 276px;
+height: 266px;
+left: 697px;
+top: 1360px;
+
+border: 1px solid #EDEDED;
+border-radius: 5px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* 2005-2009 */
+
+position: absolute;
+width: 72px;
+height: 16px;
+left: 716px;
+top: 1167px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 2005-2009 */
+
+position: absolute;
+width: 72px;
+height: 16px;
+left: 716px;
+top: 1193px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 2008 */
+
+position: absolute;
+width: 33px;
+height: 16px;
+left: 716px;
+top: 1219px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 2007 */
+
+position: absolute;
+width: 32px;
+height: 16px;
+left: 716px;
+top: 1245px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 2009 */
+
+position: absolute;
+width: 33px;
+height: 16px;
+left: 716px;
+top: 1271px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 2017 */
+
+position: absolute;
+width: 31px;
+height: 16px;
+left: 716px;
+top: 1297px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 2015 */
+
+position: absolute;
+width: 31px;
+height: 16px;
+left: 716px;
+top: 1323px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 79 */
+
+position: absolute;
+width: 322px;
+height: 266px;
+left: 973px;
+top: 1094px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 266px;
+left: 973px;
+top: 1360px;
+
+border: 1px solid #EDEDED;
+border-radius: 5px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* ISBe4 */
+
+position: absolute;
+width: 37px;
+height: 16px;
+left: 992px;
+top: 1167px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* ISBe4 / ISBe6 */
+
+position: absolute;
+width: 87px;
+height: 16px;
+left: 992px;
+top: 1193px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 667TA/EED */
+
+position: absolute;
+width: 71px;
+height: 16px;
+left: 992px;
+top: 1219px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 667TA/EBD */
+
+position: absolute;
+width: 72px;
+height: 16px;
+left: 992px;
+top: 1245px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* CURSOR9 */
+
+position: absolute;
+width: 64px;
+height: 16px;
+left: 992px;
+top: 1271px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* ISBe4 */
+
+position: absolute;
+width: 37px;
+height: 16px;
+left: 992px;
+top: 1297px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* ISBe4 */
+
+position: absolute;
+width: 37px;
+height: 16px;
+left: 992px;
+top: 1323px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 76 */
+
+position: absolute;
+width: 1150px;
+height: 211px;
+left: 145px;
+top: 1149px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 276px;
+height: 211px;
+left: 145px;
+top: 1360px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 276px;
+height: 40px;
+left: 145px;
+top: 1189px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1150px;
+height: 26px;
+left: 145px;
+top: 1189px;
+
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1150px;
+height: 27px;
+left: 145px;
+top: 1241px;
+
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1150px;
+height: 24px;
+left: 145px;
+top: 1292px;
+
+border: 1px solid #EDEDED;
+border-radius: 5px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1150px;
+height: 28px;
+left: 145px;
+top: 1292px;
+
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 276px;
+height: 40px;
+left: 145px;
+top: 1360px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1150px;
+height: 26px;
+left: 145px;
+top: 1241px;
+
+border: 1px solid #EDEDED;
+border-radius: 5px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Ford */
+
+position: absolute;
+width: 29px;
+height: 16px;
+left: 164px;
+top: 1167px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* CASE */
+
+position: absolute;
+width: 35px;
+height: 16px;
+left: 164px;
+top: 1193px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Agrale */
+
+position: absolute;
+width: 41px;
+height: 16px;
+left: 164px;
+top: 1219px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Iveco */
+
+position: absolute;
+width: 34px;
+height: 16px;
+left: 164px;
+top: 1245px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* New Holand */
+
+position: absolute;
+width: 77px;
+height: 16px;
+left: 164px;
+top: 1271px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Volkswagen */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 164px;
+top: 1297px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Volkswagen */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 164px;
+top: 1323px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Bomba de Alta Pressão CP3 Cummins ISB 0445020007 WTEK Referência: 0445020007 / 5801382396 / 84385110 / 5801799074 Marca: Aftermarket (Novo) Garantia: 3 Meses contra defeitos de fabricação */
+
+position: absolute;
+width: 510px;
+height: 133px;
+left: 145px;
+top: 917px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 1200px;
+height: 697px;
+left: 120px;
+top: 892px;
+
+
+
+/* Rectangle 45 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 906px;
+height: 697px;
+left: 120px;
+top: 892px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* Group 124 */
+
+position: absolute;
+width: 277px;
+height: 697px;
+left: 1043px;
+top: 892px;
+
+
+
+/* Rectangle 48 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 277px;
+height: 697px;
+left: 1043px;
+top: 892px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* CEP */
+
+position: absolute;
+width: 239px;
+height: 33px;
+left: 1064px;
+top: 992px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 239px;
+height: 33px;
+left: 1064px;
+top: 992px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 68px;
+height: 33px;
+left: 1235px;
+top: 992px;
+
+background: #58D899;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Pesquisar */
+
+position: absolute;
+width: 67px;
+height: 17px;
+left: 1074px;
+top: 1000px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Buscar */
+
+position: absolute;
+width: 47px;
+height: 17px;
+left: 1245px;
+top: 1000px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* Aplicação */
+
+position: absolute;
+width: 76px;
+height: 19px;
+left: 1064px;
+top: 917px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Confira em quais veiculos esse produto pode ser aplicado */
+
+position: absolute;
+width: 197px;
+height: 24px;
+left: 1064px;
+top: 944px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 116 */
+
+position: absolute;
+width: 906px;
+height: 58px;
+left: 120px;
+top: 1111px;
+
+
+
+/* Rectangle 48 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 906px;
+height: 58px;
+left: 120px;
+top: 1111px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* Kit Amortecedor: As marcas podem variar: Coxim, coifa e batente */
+
+position: absolute;
+width: 446px;
+height: 17px;
+left: 145px;
+top: 1131px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 117 */
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1168px;
+
+
+
+/* Rectangle 48 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1168px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* Posição: Dianteiro, Traseiro */
+
+position: absolute;
+width: 186px;
+height: 17px;
+left: 145px;
+top: 1190px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 118 */
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1228px;
+
+
+
+/* Rectangle 48 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1228px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* Prazo de garantia: 3 meses */
+
+position: absolute;
+width: 186px;
+height: 17px;
+left: 145px;
+top: 1250px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 119 */
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1288px;
+
+
+
+/* Rectangle 48 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1288px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* Modelo de amortecedor: Pressurizado */
+
+position: absolute;
+width: 260px;
+height: 17px;
+left: 145px;
+top: 1310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 120 */
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1348px;
+
+
+
+/* Rectangle 48 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1348px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* Código de barras (EAN): 490928193719312 */
+
+position: absolute;
+width: 296px;
+height: 17px;
+left: 145px;
+top: 1370px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 121 */
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1408px;
+
+
+
+/* Rectangle 48 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1408px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* Tipo de Veículos: Carros */
+
+position: absolute;
+width: 166px;
+height: 17px;
+left: 145px;
+top: 1430px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 122 */
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1468px;
+
+
+
+/* Rectangle 48 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1468px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* Modelo: City */
+
+position: absolute;
+width: 86px;
+height: 17px;
+left: 145px;
+top: 1490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 123 */
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1528px;
+
+
+
+/* Rectangle 48 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 906px;
+height: 61px;
+left: 120px;
+top: 1528px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* Comprimento aberto: 486,4 mm */
+
+position: absolute;
+width: 218px;
+height: 17px;
+left: 145px;
+top: 1550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Conteúdo da embalagem: 2 Amortecedor Dianteiro 2 Amortecedor Traseiro 4 Certificado de garantia */
+
+position: absolute;
+width: 241px;
+height: 85px;
+left: 146px;
+top: 995px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 46 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 906px;
+height: 1px;
+left: 120px;
+top: 965px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 115px;
+height: 1px;
+left: 146px;
+top: 949px;
+
+background: #58D899;
+
+
+/* Especificações */
+
+position: absolute;
+width: 116px;
+height: 19px;
+left: 145px;
+top: 917px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Similares */
+
+position: absolute;
+width: 70px;
+height: 19px;
+left: 324px;
+top: 917px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Sobre o produto */
+
+position: absolute;
+width: 126px;
+height: 19px;
+left: 457px;
+top: 917px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Produto */
+
+position: absolute;
+width: 414px;
+height: 44px;
+left: 120px;
+top: 1666px;
+
+
+
+/* Group 61 */
+
+position: absolute;
+width: 414px;
+height: 44px;
+left: 120px;
+top: 1666px;
+
+
+
+/* Produtos mais Similares */
+
+position: absolute;
+width: 237px;
+height: 24px;
+left: 120px;
+top: 1666px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Aqui você encontra os produtos mais similares pelos clientes */
+
+position: absolute;
+width: 414px;
+height: 17px;
+left: 120px;
+top: 1693px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Button */
+
+position: absolute;
+width: 540px;
+height: 38px;
+left: 780px;
+top: 669px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 540px;
+height: 38px;
+left: 780px;
+top: 669px;
+
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Adicionar ao carrinho */
+
+position: absolute;
+width: 145px;
+height: 17px;
+left: 977px;
+top: 680px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Button */
+
+position: absolute;
+width: 540px;
+height: 38px;
+left: 780px;
+top: 724px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 540px;
+height: 38px;
+left: 780px;
+top: 724px;
+
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Comprar pelo Whatsapp */
+
+position: absolute;
+width: 165px;
+height: 17px;
+left: 982px;
+top: 734px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* ic:baseline-whatsapp */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 952px;
+top: 733px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.54%;
+right: 8.54%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Produtos com descontos */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 1200px;
+height: 562px;
+left: 120px;
+top: 1757px;
+
+
+
+/* Produto */
+
+width: 288px;
+height: 562px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 112 */
+
+position: absolute;
+width: 288px;
+height: 562px;
+left: 0px;
+top: 0px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 365px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 312px;
+left: 0px;
+top: 250px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* + = */
+
+position: absolute;
+width: 35px;
+height: 30px;
+left: 15px;
+top: 438px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 35px;
+height: 30px;
+left: 15px;
+top: 438px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 1 */
+
+position: absolute;
+width: 7px;
+height: 17px;
+left: 27px;
+top: 444px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* + */
+
+position: absolute;
+width: 4px;
+height: 4px;
+left: 41px;
+top: 444px;
+
+background: #616161;
+
+
+/* - */
+
+position: absolute;
+width: 4px;
+height: 1px;
+left: 41px;
+top: 458px;
+
+background: #616161;
+
+
+/* Injetor Hilux 2.5 2005 a 2010 */
+
+position: absolute;
+width: 226px;
+height: 19px;
+left: 15px;
+top: 271px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 095000-7761 2367030300 / 0L010 DAP */
+
+position: absolute;
+width: 197px;
+height: 12px;
+left: 15px;
+top: 293px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Especificação: */
+
+position: absolute;
+width: 71px;
+height: 12px;
+left: 15px;
+top: 317px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Valor */
+
+position: absolute;
+width: 196px;
+height: 64px;
+left: 15px;
+top: 356px;
+
+
+
+/* R$ 1.390,00 no pix */
+
+position: absolute;
+width: 137px;
+height: 19px;
+left: 15px;
+top: 372px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* De R$ 2.000,00 */
+
+position: absolute;
+width: 78px;
+height: 12px;
+left: 15px;
+top: 356px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+opacity: 0.5;
+
+
+/* até 3x de R$ 139,00 e no boleto abaixo. */
+
+position: absolute;
+width: 196px;
+height: 12px;
+left: 15px;
+top: 392px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Pix com desconto */
+
+position: absolute;
+width: 88px;
+height: 12px;
+left: 15px;
+top: 408px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Button */
+
+position: absolute;
+width: 208px;
+height: 30px;
+left: 65px;
+top: 438px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 208px;
+height: 30px;
+left: 65px;
+top: 438px;
+
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Adicionar ao carrinho */
+
+position: absolute;
+width: 145px;
+height: 17px;
+left: 97px;
+top: 444px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Button */
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 15px;
+top: 478px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 15px;
+top: 478px;
+
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Comprar pelo Whatsapp */
+
+position: absolute;
+width: 165px;
+height: 17px;
+left: 77px;
+top: 484px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* ic:baseline-whatsapp */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 47px;
+top: 483px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.54%;
+right: 8.54%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Button */
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 15px;
+top: 518px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 15px;
+top: 518px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.83%;
+right: 91.5%;
+top: 93.06%;
+bottom: 3.38%;
+
+background: #FFFFFF;
+
+
+/* Ver o produto */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 113px;
+top: 524px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 208px;
+height: 175.34px;
+left: 40px;
+top: 37px;
+
+background: url(image-removebg-preview (8));
+
+
+/* Vector */
+
+position: absolute;
+left: 21.08%;
+right: 77.25%;
+top: 2.67%;
+bottom: 93.95%;
+
+background: #616161;
+
+
+/* Produto */
+
+width: 288px;
+height: 562px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 112 */
+
+position: absolute;
+width: 288px;
+height: 562px;
+left: 304px;
+top: 0px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 365px;
+left: 304px;
+top: 0px;
+
+background: #F5F5F5;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 312px;
+left: 304px;
+top: 250px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* + = */
+
+position: absolute;
+width: 35px;
+height: 30px;
+left: 319px;
+top: 438px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 35px;
+height: 30px;
+left: 319px;
+top: 438px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 1 */
+
+position: absolute;
+width: 7px;
+height: 17px;
+left: 331px;
+top: 444px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* + */
+
+position: absolute;
+width: 4px;
+height: 4px;
+left: 345px;
+top: 444px;
+
+background: #616161;
+
+
+/* - */
+
+position: absolute;
+width: 4px;
+height: 1px;
+left: 345px;
+top: 458px;
+
+background: #616161;
+
+
+/* Injetor Hilux 2.5 2005 a 2010 */
+
+position: absolute;
+width: 226px;
+height: 19px;
+left: 319px;
+top: 271px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 095000-7761 2367030300 / 0L010 DAP */
+
+position: absolute;
+width: 197px;
+height: 12px;
+left: 319px;
+top: 293px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Especificação: */
+
+position: absolute;
+width: 71px;
+height: 12px;
+left: 319px;
+top: 317px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Valor */
+
+position: absolute;
+width: 196px;
+height: 64px;
+left: 319px;
+top: 356px;
+
+
+
+/* R$ 1.390,00 no pix */
+
+position: absolute;
+width: 137px;
+height: 19px;
+left: 319px;
+top: 372px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* De R$ 2.000,00 */
+
+position: absolute;
+width: 78px;
+height: 12px;
+left: 319px;
+top: 356px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+opacity: 0.5;
+
+
+/* até 3x de R$ 139,00 e no boleto abaixo. */
+
+position: absolute;
+width: 196px;
+height: 12px;
+left: 319px;
+top: 392px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Pix com desconto */
+
+position: absolute;
+width: 88px;
+height: 12px;
+left: 319px;
+top: 408px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Button */
+
+position: absolute;
+width: 208px;
+height: 30px;
+left: 369px;
+top: 438px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 208px;
+height: 30px;
+left: 369px;
+top: 438px;
+
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Adicionar ao carrinho */
+
+position: absolute;
+width: 145px;
+height: 17px;
+left: 401px;
+top: 444px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Button */
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 319px;
+top: 478px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 319px;
+top: 478px;
+
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Comprar pelo Whatsapp */
+
+position: absolute;
+width: 165px;
+height: 17px;
+left: 381px;
+top: 484px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* ic:baseline-whatsapp */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 351px;
+top: 483px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.54%;
+right: 8.54%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Button */
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 319px;
+top: 518px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 319px;
+top: 518px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.17%;
+right: 66.17%;
+top: 93.06%;
+bottom: 3.38%;
+
+background: #FFFFFF;
+
+
+/* Ver o produto */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 417px;
+top: 524px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 208px;
+height: 175.34px;
+left: 344px;
+top: 37px;
+
+background: url(image-removebg-preview (8));
+
+
+/* Vector */
+
+position: absolute;
+left: 46.42%;
+right: 51.92%;
+top: 2.67%;
+bottom: 93.95%;
+
+background: #616161;
+
+
+/* Produto */
+
+width: 288px;
+height: 562px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 112 */
+
+position: absolute;
+width: 288px;
+height: 562px;
+left: 608px;
+top: 0px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 365px;
+left: 608px;
+top: 0px;
+
+background: #F5F5F5;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 312px;
+left: 608px;
+top: 250px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* + = */
+
+position: absolute;
+width: 35px;
+height: 30px;
+left: 623px;
+top: 438px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 35px;
+height: 30px;
+left: 623px;
+top: 438px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 1 */
+
+position: absolute;
+width: 7px;
+height: 17px;
+left: 635px;
+top: 444px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* + */
+
+position: absolute;
+width: 4px;
+height: 4px;
+left: 649px;
+top: 444px;
+
+background: #616161;
+
+
+/* - */
+
+position: absolute;
+width: 4px;
+height: 1px;
+left: 649px;
+top: 458px;
+
+background: #616161;
+
+
+/* Injetor Hilux 2.5 2005 a 2010 */
+
+position: absolute;
+width: 226px;
+height: 19px;
+left: 623px;
+top: 271px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 095000-7761 2367030300 / 0L010 DAP */
+
+position: absolute;
+width: 197px;
+height: 12px;
+left: 623px;
+top: 293px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Especificação: */
+
+position: absolute;
+width: 71px;
+height: 12px;
+left: 623px;
+top: 317px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Valor */
+
+position: absolute;
+width: 196px;
+height: 64px;
+left: 623px;
+top: 356px;
+
+
+
+/* R$ 1.390,00 no pix */
+
+position: absolute;
+width: 137px;
+height: 19px;
+left: 623px;
+top: 372px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* De R$ 2.000,00 */
+
+position: absolute;
+width: 78px;
+height: 12px;
+left: 623px;
+top: 356px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+opacity: 0.5;
+
+
+/* até 3x de R$ 139,00 e no boleto abaixo. */
+
+position: absolute;
+width: 196px;
+height: 12px;
+left: 623px;
+top: 392px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Pix com desconto */
+
+position: absolute;
+width: 88px;
+height: 12px;
+left: 623px;
+top: 408px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Button */
+
+position: absolute;
+width: 208px;
+height: 30px;
+left: 673px;
+top: 438px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 208px;
+height: 30px;
+left: 673px;
+top: 438px;
+
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Adicionar ao carrinho */
+
+position: absolute;
+width: 145px;
+height: 17px;
+left: 705px;
+top: 444px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Button */
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 623px;
+top: 478px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 623px;
+top: 478px;
+
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Comprar pelo Whatsapp */
+
+position: absolute;
+width: 165px;
+height: 17px;
+left: 685px;
+top: 484px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* ic:baseline-whatsapp */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 655px;
+top: 483px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.54%;
+right: 8.54%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Button */
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 623px;
+top: 518px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 623px;
+top: 518px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.5%;
+right: 40.83%;
+top: 93.06%;
+bottom: 3.38%;
+
+background: #FFFFFF;
+
+
+/* Ver o produto */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 721px;
+top: 524px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 208px;
+height: 175.34px;
+left: 648px;
+top: 37px;
+
+background: url(image-removebg-preview (8));
+
+
+/* Vector */
+
+position: absolute;
+left: 71.75%;
+right: 26.58%;
+top: 2.67%;
+bottom: 93.95%;
+
+background: #616161;
+
+
+/* Produto */
+
+width: 288px;
+height: 562px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 112 */
+
+position: absolute;
+width: 288px;
+height: 562px;
+left: 912px;
+top: 0px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 365px;
+left: 912px;
+top: 0px;
+
+background: #F5F5F5;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 312px;
+left: 912px;
+top: 250px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* + = */
+
+position: absolute;
+width: 35px;
+height: 30px;
+left: 927px;
+top: 438px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 35px;
+height: 30px;
+left: 927px;
+top: 438px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 1 */
+
+position: absolute;
+width: 7px;
+height: 17px;
+left: 939px;
+top: 444px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* + */
+
+position: absolute;
+width: 4px;
+height: 4px;
+left: 953px;
+top: 444px;
+
+background: #616161;
+
+
+/* - */
+
+position: absolute;
+width: 4px;
+height: 1px;
+left: 953px;
+top: 458px;
+
+background: #616161;
+
+
+/* Injetor Hilux 2.5 2005 a 2010 */
+
+position: absolute;
+width: 226px;
+height: 19px;
+left: 927px;
+top: 271px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 095000-7761 2367030300 / 0L010 DAP */
+
+position: absolute;
+width: 197px;
+height: 12px;
+left: 927px;
+top: 293px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Especificação: */
+
+position: absolute;
+width: 71px;
+height: 12px;
+left: 927px;
+top: 317px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Valor */
+
+position: absolute;
+width: 196px;
+height: 64px;
+left: 927px;
+top: 356px;
+
+
+
+/* R$ 1.390,00 no pix */
+
+position: absolute;
+width: 137px;
+height: 19px;
+left: 927px;
+top: 372px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* De R$ 2.000,00 */
+
+position: absolute;
+width: 78px;
+height: 12px;
+left: 927px;
+top: 356px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+opacity: 0.5;
+
+
+/* até 3x de R$ 139,00 e no boleto abaixo. */
+
+position: absolute;
+width: 196px;
+height: 12px;
+left: 927px;
+top: 392px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Pix com desconto */
+
+position: absolute;
+width: 88px;
+height: 12px;
+left: 927px;
+top: 408px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Button */
+
+position: absolute;
+width: 208px;
+height: 30px;
+left: 977px;
+top: 438px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 208px;
+height: 30px;
+left: 977px;
+top: 438px;
+
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Adicionar ao carrinho */
+
+position: absolute;
+width: 145px;
+height: 17px;
+left: 1009px;
+top: 444px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Button */
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 927px;
+top: 478px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 927px;
+top: 478px;
+
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Comprar pelo Whatsapp */
+
+position: absolute;
+width: 165px;
+height: 17px;
+left: 989px;
+top: 484px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* ic:baseline-whatsapp */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 959px;
+top: 483px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.54%;
+right: 8.54%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Button */
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 927px;
+top: 518px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 258px;
+height: 30px;
+left: 927px;
+top: 518px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.83%;
+right: 15.5%;
+top: 93.06%;
+bottom: 3.38%;
+
+background: #FFFFFF;
+
+
+/* Ver o produto */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 1025px;
+top: 524px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 208px;
+height: 175.34px;
+left: 952px;
+top: 37px;
+
+background: url(image-removebg-preview (8));
+
+
+/* Vector */
+
+position: absolute;
+left: 97.08%;
+right: 1.25%;
+top: 2.67%;
+bottom: 93.95%;
+
+background: #616161;

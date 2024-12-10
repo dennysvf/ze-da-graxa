@@ -1,0 +1,67 @@
+@import '../../styles/tokens/colors';
+@import '../../styles/tokens/typography';
+@import '../../styles/tokens/spacing';
+@import '../../styles/tokens/effects';
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--spacing-4);
+  background: var(--color-background);
+  border-bottom: 1px solid var(--color-border);
+  height: 64px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.leftSection {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-4);
+  flex: 1;
+}
+
+.menuButton {
+  padding: var(--spacing-2);
+  border-radius: var(--border-radius-md);
+  
+  &:hover {
+    background: var(--color-background-hover);
+  }
+}
+
+.title {
+  margin: 0;
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.search {
+  max-width: 400px;
+  width: 100%;
+  transition: max-width 0.2s ease;
+
+  &.searchFocused {
+    max-width: 600px;
+  }
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+
+.rightSection {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-4);
+}
+
+.loading {
+  color: var(--color-primary);
+}

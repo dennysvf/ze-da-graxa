@@ -1,0 +1,411 @@
+/* Recuperação de senha - 2 */
+
+position: relative;
+width: 1440px;
+height: 1020px;
+
+background: #FFFFFF;
+
+
+/* Navbar */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Login */
+
+position: absolute;
+width: 367px;
+height: 239px;
+left: 171px;
+top: 390px;
+
+
+
+/* Texto */
+
+position: absolute;
+width: 305px;
+height: 60px;
+left: 202px;
+top: 390px;
+
+
+
+/* Digite o código */
+
+position: absolute;
+width: 185px;
+height: 30px;
+left: 262px;
+top: 390px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Confirme o codigo enviado para o seu e-mail */
+
+position: absolute;
+width: 305px;
+height: 17px;
+left: 202px;
+top: 433px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 73 */
+
+position: absolute;
+width: 47px;
+height: 55px;
+left: 171px;
+top: 489px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 47px;
+height: 55px;
+left: 171px;
+top: 489px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 */
+
+position: absolute;
+width: 9px;
+height: 17px;
+left: 190px;
+top: 508px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 76 */
+
+position: absolute;
+width: 47px;
+height: 55px;
+left: 235px;
+top: 489px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 47px;
+height: 55px;
+left: 235px;
+top: 489px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 */
+
+position: absolute;
+width: 9px;
+height: 17px;
+left: 254px;
+top: 508px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 77 */
+
+position: absolute;
+width: 47px;
+height: 55px;
+left: 299px;
+top: 489px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 47px;
+height: 55px;
+left: 299px;
+top: 489px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 */
+
+position: absolute;
+width: 9px;
+height: 17px;
+left: 318px;
+top: 508px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 78 */
+
+position: absolute;
+width: 47px;
+height: 55px;
+left: 363px;
+top: 489px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 47px;
+height: 55px;
+left: 363px;
+top: 489px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 */
+
+position: absolute;
+width: 9px;
+height: 17px;
+left: 382px;
+top: 508px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 79 */
+
+position: absolute;
+width: 47px;
+height: 55px;
+left: 427px;
+top: 489px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 47px;
+height: 55px;
+left: 427px;
+top: 489px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 */
+
+position: absolute;
+width: 9px;
+height: 17px;
+left: 446px;
+top: 508px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 80 */
+
+position: absolute;
+width: 47px;
+height: 55px;
+left: 491px;
+top: 489px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 47px;
+height: 55px;
+left: 491px;
+top: 489px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 */
+
+position: absolute;
+width: 9px;
+height: 17px;
+left: 510px;
+top: 508px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 75 */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 171px;
+top: 574px;
+
+
+
+/* image */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 171px;
+top: 574px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Confirmar */
+
+position: absolute;
+width: 88px;
+height: 22px;
+left: 310px;
+top: 591px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+

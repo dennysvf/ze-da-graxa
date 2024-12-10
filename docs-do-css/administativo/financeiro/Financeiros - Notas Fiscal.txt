@@ -1,0 +1,6616 @@
+/* Financeiros | Notas Fiscal */
+
+position: relative;
+width: 1440px;
+height: 1083px;
+
+background: #FFFFFF;
+
+
+/* Search */
+
+position: absolute;
+width: 1064px;
+height: 40px;
+left: 344px;
+top: 37px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 451px;
+height: 40px;
+left: 344px;
+top: 37px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 451px;
+height: 40px;
+left: 344px;
+top: 37px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* Pesquisar */
+
+position: absolute;
+width: 67px;
+height: 17px;
+left: 362px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* interface/so-find */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 759px;
+top: 47px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 12.5%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* ion:notifcations */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 1229px;
+top: 45px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.47%;
+right: 12.47%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #616161;
+
+
+/* Group 2 */
+
+position: absolute;
+left: 57.14%;
+right: 0%;
+top: 2.86%;
+bottom: 54.29%;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+left: 57.14%;
+right: 0%;
+top: 2.86%;
+bottom: 54.29%;
+
+background: #4EBF5F;
+
+
+/* 5 */
+
+position: absolute;
+left: 69.2%;
+right: 10.8%;
+top: 4%;
+bottom: 61.71%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* User */
+
+position: absolute;
+width: 122px;
+height: 40px;
+left: 1286px;
+top: 37px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1286px;
+top: 37px;
+
+background: url(Perfil 2.png);
+
+
+/* WiseCode */
+
+position: absolute;
+width: 71px;
+height: 17px;
+left: 1337px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Navbar */
+
+position: absolute;
+width: 312px;
+height: 1020px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 312px;
+height: 1020px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-right: 1px solid #EDEDED;
+
+
+/* Navbar */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+position: absolute;
+width: 311px;
+height: 525px;
+left: 0px;
+top: 124px;
+
+
+
+/* 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+width: nanpx;
+height: nanpx;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+visibility: hidden;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+visibility: hidden;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* ic:round-dashboard-customize */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Dashboard */
+
+width: 75px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+display: none;
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* mdi:cart */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Financeiro */
+
+width: 72px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 283px;
+top: 28px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 75.04%;
+bottom: -21.96%;
+
+background: #616161;
+border: 0.5px solid #616161;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Sub */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+width: 311px;
+height: 207px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 12 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* ep:list */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 9.38%;
+bottom: 9.38%;
+
+background: #616161;
+
+
+/* Lista de pedidos */
+
+width: 114px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* material-symbols:payments */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #555555;
+
+
+/* Pagamentos */
+
+width: 86px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 15 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* hugeicons:invoice */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.34%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 75%;
+right: 8.34%;
+top: 8.33%;
+bottom: 66.67%;
+
+border: 1.5625px solid #555555;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 16.67%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 1.5625px solid #555555;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 50%;
+top: 29.17%;
+bottom: 37.5%;
+
+border: 1.5625px solid #555555;
+
+
+/* Notas Fiscais */
+
+width: 92px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 12 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* mdi:shopping-outline */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 4.17%;
+bottom: 8.33%;
+
+background: #555555;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Edição de compras */
+
+width: 131px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* gridicons:product */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Produtos */
+
+width: 63px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 283px;
+top: 28px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 75.04%;
+bottom: -21.96%;
+
+background: #616161;
+border: 0.5px solid #616161;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* carbon:enterprise */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 50%;
+top: 25%;
+bottom: 25%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #616161;
+
+
+/* Fornecedores */
+
+width: 95px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 283px;
+top: 28px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 75.04%;
+bottom: -21.96%;
+
+background: #616161;
+border: 0.5px solid #616161;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 283px;
+top: 20px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 24.96%;
+bottom: 28.12%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* fluent:people-24-filled */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Clientes */
+
+width: 57px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 8 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* ph:credit-card */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Crédito do Zé */
+
+width: 94px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* hugeicons:web-design-01 */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.42%;
+right: 10.42%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5625px solid #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Editar */
+
+width: 48px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 829px;
+
+
+
+/* icon-park-outline:config */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2.08333px solid #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 2.08333px solid #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Configuração */
+
+width: 94px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 882px;
+
+
+
+/* material-symbols:logout */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Sair */
+
+width: 94px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 93px;
+top: 32px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 93px;
+top: 32px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Mais vendidos */
+
+position: absolute;
+width: 1064px;
+height: 937px;
+left: 344px;
+top: 124px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1064px;
+height: 937px;
+left: 344px;
+top: 124px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Titulo */
+
+position: absolute;
+width: 136px;
+height: 17px;
+left: 364px;
+top: 143px;
+
+
+
+/* Lista de pedidos */
+
+position: absolute;
+width: 113px;
+height: 17px;
+left: 387px;
+top: 143px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* mdi:cart */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 364px;
+top: 145px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Sessão */
+
+position: absolute;
+width: 508px;
+height: 17px;
+left: 364px;
+top: 196px;
+
+
+
+/* ID da fatura */
+
+position: absolute;
+width: 80px;
+height: 17px;
+left: 454px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Ordem */
+
+position: absolute;
+width: 46px;
+height: 17px;
+left: 364px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cliente */
+
+position: absolute;
+width: 48px;
+height: 17px;
+left: 579px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Valor */
+
+position: absolute;
+width: 35px;
+height: 17px;
+left: 757px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Data */
+
+position: absolute;
+width: 32px;
+height: 17px;
+left: 840px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+position: absolute;
+width: 1006px;
+height: 790px;
+left: 364px;
+top: 258px;
+
+
+
+/* Produto */
+
+width: 1006px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 90px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 215px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 50,00 */
+
+position: absolute;
+width: 62px;
+height: 17px;
+left: 393px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 0px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 0px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 0px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 100px;
+height: 17px;
+left: 639px;
+top: 6px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 639px;
+top: 7px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar PDF */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 665px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 643px;
+top: 11px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 0px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 0px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 0px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 774px;
+top: 6px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 774px;
+top: 7px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar XML */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 800px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 778px;
+top: 11px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 0px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 0px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 0px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 909px;
+top: 6px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 909px;
+top: 7px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Cancelar */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 935px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 913px;
+top: 11px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 477px;
+top: 6px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 55px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 90px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 215px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 50,00 */
+
+position: absolute;
+width: 62px;
+height: 17px;
+left: 393px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 76px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 76px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 76px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 100px;
+height: 17px;
+left: 639px;
+top: 82px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 639px;
+top: 83px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar PDF */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 665px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 643px;
+top: 87px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 76px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 76px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 76px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 774px;
+top: 82px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 774px;
+top: 83px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar XML */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 800px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 778px;
+top: 87px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 76px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 76px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 76px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 909px;
+top: 82px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 909px;
+top: 83px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Cancelar */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 935px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 913px;
+top: 87px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 477px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 131px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 90px;
+top: 158px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 158px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 215px;
+top: 158px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 50,00 */
+
+position: absolute;
+width: 62px;
+height: 17px;
+left: 393px;
+top: 158px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 152px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 152px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 152px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 100px;
+height: 17px;
+left: 639px;
+top: 158px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 639px;
+top: 159px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar PDF */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 665px;
+top: 158px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 643px;
+top: 163px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 152px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 152px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 152px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 774px;
+top: 158px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 774px;
+top: 159px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar XML */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 800px;
+top: 158px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 778px;
+top: 163px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 152px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 152px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 152px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 909px;
+top: 158px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 909px;
+top: 159px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Cancelar */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 935px;
+top: 158px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 913px;
+top: 163px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 477px;
+top: 158px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 207px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 90px;
+top: 234px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 234px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 215px;
+top: 234px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 50,00 */
+
+position: absolute;
+width: 62px;
+height: 17px;
+left: 393px;
+top: 234px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 228px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 228px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 228px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 100px;
+height: 17px;
+left: 639px;
+top: 234px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 639px;
+top: 235px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar PDF */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 665px;
+top: 234px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 643px;
+top: 239px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 228px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 228px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 228px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 774px;
+top: 234px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 774px;
+top: 235px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar XML */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 800px;
+top: 234px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 778px;
+top: 239px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 228px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 228px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 228px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 909px;
+top: 234px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 909px;
+top: 235px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Cancelar */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 935px;
+top: 234px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 913px;
+top: 239px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 477px;
+top: 234px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 283px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 90px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 215px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 50,00 */
+
+position: absolute;
+width: 62px;
+height: 17px;
+left: 393px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 304px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 304px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 304px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 100px;
+height: 17px;
+left: 639px;
+top: 310px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 639px;
+top: 311px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar PDF */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 665px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 643px;
+top: 315px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 304px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 304px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 304px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 774px;
+top: 310px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 774px;
+top: 311px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar XML */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 800px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 778px;
+top: 315px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 304px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 304px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 304px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 909px;
+top: 310px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 909px;
+top: 311px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Cancelar */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 935px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 913px;
+top: 315px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 477px;
+top: 310px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 359px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 90px;
+top: 386px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 386px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 215px;
+top: 386px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 50,00 */
+
+position: absolute;
+width: 62px;
+height: 17px;
+left: 393px;
+top: 386px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 380px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 380px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 380px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 100px;
+height: 17px;
+left: 639px;
+top: 386px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 639px;
+top: 387px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar PDF */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 665px;
+top: 386px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 643px;
+top: 391px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 380px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 380px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 380px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 774px;
+top: 386px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 774px;
+top: 387px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar XML */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 800px;
+top: 386px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 778px;
+top: 391px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 380px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 380px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 380px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 909px;
+top: 386px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 909px;
+top: 387px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Cancelar */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 935px;
+top: 386px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 913px;
+top: 391px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 477px;
+top: 386px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 435px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 90px;
+top: 462px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 462px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 215px;
+top: 462px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 50,00 */
+
+position: absolute;
+width: 62px;
+height: 17px;
+left: 393px;
+top: 462px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 456px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 456px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 456px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 100px;
+height: 17px;
+left: 639px;
+top: 462px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 639px;
+top: 463px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar PDF */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 665px;
+top: 462px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 643px;
+top: 467px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 456px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 456px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 456px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 774px;
+top: 462px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 774px;
+top: 463px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar XML */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 800px;
+top: 462px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 778px;
+top: 467px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 456px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 456px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 456px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 909px;
+top: 462px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 909px;
+top: 463px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Cancelar */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 935px;
+top: 462px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 913px;
+top: 467px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 477px;
+top: 462px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 511px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 90px;
+top: 538px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 538px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 215px;
+top: 538px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 50,00 */
+
+position: absolute;
+width: 62px;
+height: 17px;
+left: 393px;
+top: 538px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 532px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 532px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 532px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 100px;
+height: 17px;
+left: 639px;
+top: 538px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 639px;
+top: 539px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar PDF */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 665px;
+top: 538px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 643px;
+top: 543px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 532px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 532px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 532px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 774px;
+top: 538px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 774px;
+top: 539px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar XML */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 800px;
+top: 538px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 778px;
+top: 543px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 532px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 532px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 532px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 909px;
+top: 538px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 909px;
+top: 539px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Cancelar */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 935px;
+top: 538px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 913px;
+top: 543px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 477px;
+top: 538px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 587px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 90px;
+top: 614px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 614px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 215px;
+top: 614px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 50,00 */
+
+position: absolute;
+width: 62px;
+height: 17px;
+left: 393px;
+top: 614px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 608px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 608px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 608px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 100px;
+height: 17px;
+left: 639px;
+top: 614px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 639px;
+top: 615px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar PDF */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 665px;
+top: 614px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 643px;
+top: 619px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 608px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 608px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 608px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 774px;
+top: 614px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 774px;
+top: 615px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar XML */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 800px;
+top: 614px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 778px;
+top: 619px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 608px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 608px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 608px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 909px;
+top: 614px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 909px;
+top: 615px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Cancelar */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 935px;
+top: 614px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 913px;
+top: 619px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 477px;
+top: 614px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 663px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 90px;
+top: 690px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 690px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 215px;
+top: 690px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 50,00 */
+
+position: absolute;
+width: 62px;
+height: 17px;
+left: 393px;
+top: 690px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 684px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 684px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 630px;
+top: 684px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 100px;
+height: 17px;
+left: 639px;
+top: 690px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 639px;
+top: 691px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar PDF */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 665px;
+top: 690px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 643px;
+top: 695px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 684px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 684px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 765px;
+top: 684px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 774px;
+top: 690px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 774px;
+top: 691px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar XML */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 800px;
+top: 690px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 778px;
+top: 695px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 684px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 684px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 900px;
+top: 684px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 909px;
+top: 690px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 909px;
+top: 691px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Cancelar */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 935px;
+top: 690px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 913px;
+top: 695px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 477px;
+top: 690px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 739px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1001px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 86px;
+top: 766px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 0px;
+top: 766px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 211px;
+top: 766px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 50,00 */
+
+position: absolute;
+width: 62px;
+height: 17px;
+left: 389px;
+top: 766px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 626px;
+top: 760px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 626px;
+top: 760px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 626px;
+top: 760px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 100px;
+height: 17px;
+left: 635px;
+top: 766px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 635px;
+top: 767px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar PDF */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 661px;
+top: 766px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 639px;
+top: 771px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 761px;
+top: 760px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 761px;
+top: 760px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 122px;
+height: 30px;
+left: 761px;
+top: 760px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 770px;
+top: 766px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 770px;
+top: 767px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar XML */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 796px;
+top: 766px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 774px;
+top: 771px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 896px;
+top: 760px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 896px;
+top: 760px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 105px;
+height: 30px;
+left: 896px;
+top: 760px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 5px;
+
+
+/* Texto */
+
+position: absolute;
+width: 87px;
+height: 17px;
+left: 905px;
+top: 766px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 905px;
+top: 767px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Cancelar */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 931px;
+top: 766px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 909px;
+top: 771px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 473px;
+top: 766px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+

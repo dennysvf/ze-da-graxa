@@ -1,0 +1,3205 @@
+/* Produtos | Marcas */
+
+position: relative;
+width: 1440px;
+height: 1020px;
+
+background: #FFFFFF;
+
+
+/* Search */
+
+position: absolute;
+width: 1064px;
+height: 40px;
+left: 344px;
+top: 37px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 451px;
+height: 40px;
+left: 344px;
+top: 37px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 451px;
+height: 40px;
+left: 344px;
+top: 37px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* Pesquisar */
+
+position: absolute;
+width: 67px;
+height: 17px;
+left: 362px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* interface/so-find */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 759px;
+top: 47px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.34%;
+right: 12.5%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* ion:notifcations */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 1229px;
+top: 45px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.47%;
+right: 12.47%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #616161;
+
+
+/* Group 2 */
+
+position: absolute;
+left: 57.14%;
+right: 0%;
+top: 2.86%;
+bottom: 54.29%;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+left: 57.14%;
+right: 0%;
+top: 2.86%;
+bottom: 54.29%;
+
+background: #4EBF5F;
+
+
+/* 5 */
+
+position: absolute;
+left: 69.2%;
+right: 10.8%;
+top: 4%;
+bottom: 61.71%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* User */
+
+position: absolute;
+width: 122px;
+height: 40px;
+left: 1286px;
+top: 37px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1286px;
+top: 37px;
+
+background: url(Perfil 2.png);
+
+
+/* WiseCode */
+
+position: absolute;
+width: 71px;
+height: 17px;
+left: 1337px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Total de pedidos */
+
+position: absolute;
+width: 1064px;
+height: 189px;
+left: 344px;
+top: 230px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1064px;
+height: 189px;
+left: 344px;
+top: 230px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 1024px;
+height: 40px;
+left: 365px;
+top: 353px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1024px;
+height: 40px;
+left: 365px;
+top: 353px;
+
+background: #4EBF5F;
+border: 0.5px solid #1EB564;
+border-radius: 5px;
+
+
+/* Pesquisar */
+
+position: absolute;
+width: 67px;
+height: 17px;
+left: 842px;
+top: 364px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 424px;
+height: 40px;
+left: 365px;
+top: 291px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 357px;
+height: 40px;
+left: 432px;
+top: 291px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 357px;
+height: 40px;
+left: 432px;
+top: 291px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Nome da Marca */
+
+position: absolute;
+width: 108px;
+height: 17px;
+left: 450px;
+top: 303px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* interface/so-find */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 750px;
+top: 302px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.34%;
+right: 12.5%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Nome */
+
+position: absolute;
+width: 40px;
+height: 17px;
+left: 365px;
+top: 303px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Categoria */
+
+position: absolute;
+width: 493px;
+height: 40px;
+left: 896px;
+top: 291px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 357px;
+height: 40px;
+left: 1032px;
+top: 291px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 357px;
+height: 40px;
+left: 1032px;
+top: 291px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Icons */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1352px;
+top: 305px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.22%;
+right: 6.2%;
+top: 24.95%;
+bottom: 28.13%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 119px;
+height: 17px;
+left: 1050px;
+top: 303px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Tipo de produto */
+
+position: absolute;
+width: 109px;
+height: 17px;
+left: 896px;
+top: 303px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Titulo */
+
+position: absolute;
+width: 128px;
+height: 17px;
+left: 364px;
+top: 249px;
+
+
+
+/* Procurar Marca */
+
+position: absolute;
+width: 105px;
+height: 17px;
+left: 387px;
+top: 249px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* interface/so-find */
+
+position: absolute;
+left: 25.28%;
+right: 73.68%;
+top: 24.61%;
+bottom: 73.92%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.34%;
+right: 12.5%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Mais vendidos */
+
+position: absolute;
+width: 1064px;
+height: 338px;
+left: 344px;
+top: 451px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1064px;
+height: 338px;
+left: 344px;
+top: 451px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Titulo */
+
+position: absolute;
+width: 65px;
+height: 17px;
+left: 364px;
+top: 470px;
+
+
+
+/* Marca */
+
+position: absolute;
+width: 42px;
+height: 17px;
+left: 387px;
+top: 470px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* carbon:network-enterprise */
+
+position: absolute;
+left: 25.28%;
+right: 73.68%;
+top: 46.23%;
+bottom: 52.3%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -0.01%;
+right: 19.38%;
+top: 6.25%;
+bottom: 21.88%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.25%;
+right: 6.25%;
+top: 37.5%;
+bottom: 6.25%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 18.75%;
+top: 50%;
+bottom: 18.75%;
+
+background: #616161;
+
+
+/* Sessão */
+
+position: absolute;
+width: 1024px;
+height: 19.06px;
+left: 365px;
+top: 522px;
+
+
+
+/* Nome */
+
+position: absolute;
+width: 40px;
+height: 17px;
+left: 480px;
+top: 523px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 46 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 18px;
+height: 19.06px;
+left: 365px;
+top: 522px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Editar */
+
+position: absolute;
+width: 40px;
+height: 17px;
+left: 1349px;
+top: 523px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Produto */
+
+position: absolute;
+width: 1025px;
+height: 61px;
+left: 364px;
+top: 566px;
+
+
+
+/* akar-icons:edit */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 1355px;
+top: 573px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 16.67%;
+right: 12.5%;
+top: 12.5%;
+bottom: 16.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 12.5%;
+top: 12.5%;
+bottom: 45.83%;
+
+border: 2.08333px solid #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 20.83%;
+top: 20.83%;
+bottom: 16.67%;
+
+border: 2.08333px solid #616161;
+
+
+/* Ipiranga */
+
+position: absolute;
+width: 55px;
+height: 17px;
+left: 532px;
+top: 577px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Imagem */
+
+position: absolute;
+width: 155px;
+height: 40px;
+left: 365px;
+top: 566px;
+
+
+
+/* Rectangle 46 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 480px;
+top: 566px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* image-removebg-preview (14) 1 */
+
+position: absolute;
+width: 31px;
+height: 31px;
+left: 485px;
+top: 571px;
+
+background: url(image-removebg-preview (14).png);
+
+
+/* Rectangle 47 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 18px;
+height: 19.06px;
+left: 365px;
+top: 576px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1025px;
+height: 1px;
+left: 364px;
+top: 626px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+position: absolute;
+width: 1025px;
+height: 61px;
+left: 364px;
+top: 647px;
+
+
+
+/* akar-icons:edit */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 1358px;
+top: 654px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 16.67%;
+right: 12.5%;
+top: 12.5%;
+bottom: 16.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 12.5%;
+top: 12.5%;
+bottom: 45.83%;
+
+border: 2.08333px solid #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 20.83%;
+top: 20.83%;
+bottom: 16.67%;
+
+border: 2.08333px solid #616161;
+
+
+/* Ford */
+
+position: absolute;
+width: 31px;
+height: 17px;
+left: 533px;
+top: 658px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Imagem */
+
+position: absolute;
+width: 155px;
+height: 40px;
+left: 366px;
+top: 647px;
+
+
+
+/* Rectangle 46 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 481px;
+top: 647px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* image-removebg-preview (14) 1 */
+
+position: absolute;
+width: 31px;
+height: 31px;
+left: 486px;
+top: 652px;
+
+background: url(image-removebg-preview (14).png);
+
+
+/* Rectangle 47 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 18px;
+height: 19.06px;
+left: 366px;
+top: 657px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1025px;
+height: 1px;
+left: 364px;
+top: 707px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+position: absolute;
+width: 1017px;
+height: 40px;
+left: 366px;
+top: 728px;
+
+
+
+/* akar-icons:edit */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 1358px;
+top: 735px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 16.67%;
+right: 12.5%;
+top: 12.5%;
+bottom: 16.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 45.83%;
+right: 12.5%;
+top: 12.5%;
+bottom: 45.83%;
+
+border: 2.08333px solid #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 20.83%;
+top: 20.83%;
+bottom: 16.67%;
+
+border: 2.08333px solid #616161;
+
+
+/* Toyota */
+
+position: absolute;
+width: 46px;
+height: 17px;
+left: 533px;
+top: 739px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Imagem */
+
+position: absolute;
+width: 155px;
+height: 40px;
+left: 366px;
+top: 728px;
+
+
+
+/* Rectangle 46 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 481px;
+top: 728px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* image-removebg-preview (14) 1 */
+
+position: absolute;
+width: 31px;
+height: 31px;
+left: 486px;
+top: 733px;
+
+background: url(image-removebg-preview (14).png);
+
+
+/* Rectangle 47 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 18px;
+height: 19.06px;
+left: 366px;
+top: 738px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Navbar */
+
+position: absolute;
+width: 312px;
+height: 1020px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 312px;
+height: 1020px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-right: 1px solid #EDEDED;
+
+
+/* Navbar */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+position: absolute;
+width: 311px;
+height: 578px;
+left: 0px;
+top: 124px;
+
+
+
+/* 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+width: nanpx;
+height: nanpx;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+visibility: hidden;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+visibility: hidden;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* ic:round-dashboard-customize */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Dashboard */
+
+width: 75px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* mdi:cart */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Pedidos */
+
+width: 56px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 283px;
+top: 28px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.22%;
+right: 6.2%;
+top: 75.05%;
+bottom: -21.97%;
+
+background: #616161;
+border: 0.5px solid #616161;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* gridicons:product */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Produtos */
+
+width: 63px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 283px;
+top: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.22%;
+right: 6.2%;
+top: 24.95%;
+bottom: 28.13%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Sub */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+width: 311px;
+height: 207px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 12 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* ep:list */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 9.38%;
+bottom: 9.38%;
+
+background: #616161;
+
+
+/* Lista de produtos */
+
+width: 120px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 9 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* basil:add-solid */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.72%;
+right: 15.73%;
+top: 15.67%;
+bottom: 15.67%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Adicionar Produtos */
+
+width: 132px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* carbon:network-enterprise */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: -0.01%;
+right: 19.38%;
+top: 6.25%;
+bottom: 21.87%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.25%;
+right: 6.25%;
+top: 37.5%;
+bottom: 6.25%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 18.75%;
+top: 50%;
+bottom: 18.75%;
+
+background: #616161;
+
+
+/* Fabricantes */
+
+width: 81px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* tabler:brand-itch */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 12.53%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 12.53%;
+
+border: 2.08333px solid #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 41.67%;
+top: 58.33%;
+bottom: 25%;
+
+border: 2.08333px solid #616161;
+
+
+/* Marcas */
+
+width: 51px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* carbon:enterprise */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 50%;
+top: 25%;
+bottom: 25%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Fornecedores */
+
+width: 95px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* fluent:people-24-filled */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Clientes */
+
+width: 57px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 8 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* ph:credit-card */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Crédito do Zé */
+
+width: 94px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* hugeicons:web-design-01 */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.42%;
+right: 10.42%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5625px solid #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Editar */
+
+width: 48px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 829px;
+
+
+
+/* icon-park-outline:config */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2.08333px solid #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 2.08333px solid #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Configuração */
+
+width: 94px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 882px;
+
+
+
+/* material-symbols:logout */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Sair */
+
+width: 94px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 93px;
+top: 32px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 93px;
+top: 32px;
+
+background: url(LogoPrancheta 11Versão.png);
+
+
+/* Infos */
+
+position: absolute;
+width: 1064px;
+height: 74px;
+left: 344px;
+top: 124px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 1064px;
+height: 74px;
+left: 344px;
+top: 124px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1064px;
+height: 74px;
+left: 344px;
+top: 124px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 226px;
+height: 44px;
+left: 359px;
+top: 139px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 226px;
+height: 44px;
+left: 359px;
+top: 139px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 226px;
+height: 44px;
+left: 359px;
+top: 139px;
+
+background: #4EBF5F;
+border: 1px solid #1EB564;
+border-radius: 10px;
+
+
+/* Texto */
+
+position: absolute;
+width: 130px;
+height: 17px;
+left: 407px;
+top: 152px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 407px;
+top: 153px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Adicionar Novo */
+
+position: absolute;
+width: 104px;
+height: 17px;
+left: 433px;
+top: 152px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* + */
+
+position: absolute;
+width: 6.56px;
+height: 6.56px;
+left: 412px;
+top: 158px;
+
+background: #4EBF5F;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 226px;
+height: 44px;
+left: 605px;
+top: 139px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 226px;
+height: 44px;
+left: 605px;
+top: 139px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 226px;
+height: 44px;
+left: 605px;
+top: 139px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 10px;
+
+
+/* Texto */
+
+position: absolute;
+width: 188px;
+height: 17px;
+left: 624px;
+top: 152px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 624px;
+top: 153px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Baixar catálogo em PDF */
+
+position: absolute;
+width: 162px;
+height: 17px;
+left: 650px;
+top: 152px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 628px;
+top: 157px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 148px;
+height: 44px;
+left: 851px;
+top: 139px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 148px;
+height: 44px;
+left: 851px;
+top: 139px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 148px;
+height: 44px;
+left: 851px;
+top: 139px;
+
+background: #A2BF4E;
+border: 1px solid #AFBF4E;
+border-radius: 10px;
+
+
+/* Icons */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 969px;
+top: 155px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.22%;
+right: 6.2%;
+top: 24.95%;
+bottom: 28.13%;
+
+background: #FFFFFF;
+border: 0.5px solid #FFFFFF;
+
+
+/* Texto */
+
+position: absolute;
+width: 85px;
+height: 17px;
+left: 870px;
+top: 152px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 870px;
+top: 153px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Exportar */
+
+position: absolute;
+width: 59px;
+height: 17px;
+left: 896px;
+top: 152px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* foundation:page-export */
+
+position: absolute;
+left: 60.69%;
+right: 38.75%;
+top: 15.39%;
+bottom: 83.82%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.84%;
+right: 5.23%;
+top: 52.17%;
+bottom: 18.9%;
+
+background: #A2BF4E;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.24%;
+right: 34.21%;
+top: 6.75%;
+bottom: 6.75%;
+
+background: #A2BF4E;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 148px;
+height: 44px;
+left: 1019px;
+top: 139px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 148px;
+height: 44px;
+left: 1019px;
+top: 139px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 148px;
+height: 44px;
+left: 1019px;
+top: 139px;
+
+background: #BFAD4E;
+border: 1px solid #BF994E;
+border-radius: 10px;
+
+
+/* Texto */
+
+position: absolute;
+width: 85px;
+height: 17px;
+left: 1050px;
+top: 152px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1050px;
+top: 153px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Importar */
+
+position: absolute;
+width: 59px;
+height: 17px;
+left: 1076px;
+top: 152px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* ph:export */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 1054px;
+top: 157px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 6.25%;
+bottom: 12.5%;
+
+background: #BFAD4E;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 202px;
+height: 44px;
+left: 1187px;
+top: 139px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 202px;
+height: 44px;
+left: 1187px;
+top: 139px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 202px;
+height: 44px;
+left: 1187px;
+top: 139px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 10px;
+
+
+/* Texto */
+
+position: absolute;
+width: 169px;
+height: 17px;
+left: 1206px;
+top: 152px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1206px;
+top: 153px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Excluir (Selecionado) */
+
+position: absolute;
+width: 143px;
+height: 17px;
+left: 1232px;
+top: 152px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* typcn:delete */
+
+position: absolute;
+left: 84.03%;
+right: 15.42%;
+top: 15.39%;
+bottom: 83.82%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.66%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #B51E1E;

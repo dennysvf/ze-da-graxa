@@ -1,0 +1,829 @@
+/* Política de Troca e devolução */
+
+position: relative;
+width: 1440px;
+height: 1351px;
+
+background: #FFFFFF;
+
+
+/* Catégorias */
+
+position: absolute;
+width: 1200px;
+height: 83px;
+left: 120px;
+top: 140px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 1200px;
+height: 1px;
+left: 120px;
+top: 140px;
+
+background: #F5FBF3;
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 1200px;
+height: 1px;
+left: 120px;
+top: 222px;
+
+background: #F5FBF3;
+
+
+/* Menus */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 50px;
+
+position: absolute;
+width: 693px;
+height: 15px;
+left: 373px;
+top: 174px;
+
+
+
+/* Acessórios */
+
+width: 75px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Motor */
+
+width: 41px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Suspensão */
+
+width: 75px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Freios */
+
+width: 42px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Transmissão */
+
+width: 86px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Direção Hidráulica */
+
+width: 124px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Navbar */
+
+position: absolute;
+width: 1200px;
+height: 40px;
+left: 120px;
+top: 70px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 630px;
+height: 40px;
+left: 405px;
+top: 70px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 630px;
+height: 40px;
+left: 405px;
+top: 70px;
+
+background: #F5F5F5;
+border-radius: 15px;
+
+
+/* Encontre seu produto... */
+
+position: absolute;
+width: 159px;
+height: 17px;
+left: 423px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* interface/so-find */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 997px;
+top: 80px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 12.5%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Icones */
+
+position: absolute;
+width: 230px;
+height: 25px;
+left: 1090px;
+top: 77px;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 121px;
+height: 25px;
+left: 1090px;
+top: 77px;
+
+
+
+/* Minha Conta */
+
+position: absolute;
+width: 86px;
+height: 15px;
+left: 1125px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* icon-park-outline:people */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 1090px;
+top: 77px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #616161;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 88px;
+height: 25px;
+left: 1232px;
+top: 77px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 85.56%;
+right: 12.71%;
+top: 5.7%;
+bottom: 92.45%;
+
+background: #616161;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 10.71px;
+height: 10.71px;
+left: 1246.29px;
+top: 77.71px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 10.71px;
+height: 10.71px;
+left: 1246.29px;
+top: 77.71px;
+
+background: #58D899;
+
+
+/* 5 */
+
+position: absolute;
+width: 5px;
+height: 8.57px;
+left: 1249.3px;
+top: 78px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* R$ 0,00 */
+
+position: absolute;
+width: 53px;
+height: 15px;
+left: 1267px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 120px;
+top: 74px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 120px;
+top: 74px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Footer */
+
+position: absolute;
+width: 1440px;
+height: 361px;
+left: 0px;
+top: 990px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 1440px;
+height: 361px;
+left: 0px;
+top: 990px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 32 */
+
+position: absolute;
+width: 1200px;
+height: 1px;
+left: 120px;
+top: 1247px;
+
+background: #F5FBF3;
+opacity: 0.34;
+
+
+/* Zé da graxa - 2024 © Todos os direitos reservados */
+
+position: absolute;
+width: 325px;
+height: 16px;
+left: 120px;
+top: 1280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Categorias */
+
+position: absolute;
+width: 187px;
+height: 149px;
+left: 867px;
+top: 1053px;
+
+
+
+/* Conteúdo */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 867px;
+top: 1053px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Fale conosco */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 867px;
+top: 1082px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Garantias */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 867px;
+top: 1108px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Política de Privacidade */
+
+position: absolute;
+width: 146px;
+height: 16px;
+left: 867px;
+top: 1134px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Política de Troca e Devolução */
+
+position: absolute;
+width: 187px;
+height: 16px;
+left: 867px;
+top: 1160px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Quem somos */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 867px;
+top: 1186px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Categorias */
+
+position: absolute;
+width: 146px;
+height: 97px;
+left: 1113px;
+top: 1053px;
+
+
+
+/* Quem somos? */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 1113px;
+top: 1053px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Fale conosco */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 1113px;
+top: 1082px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Sobre nós */
+
+position: absolute;
+width: 113px;
+height: 16px;
+left: 1113px;
+top: 1108px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Contatos */
+
+position: absolute;
+width: 146px;
+height: 16px;
+left: 1113px;
+top: 1134px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Sobre */
+
+position: absolute;
+width: 295px;
+height: 130px;
+left: 120px;
+top: 1053px;
+
+
+
+/* Peças Originais com o melhor preço e garantia para o seu veículo. Trabalhamos com os principais fornecedores de peças originais do mercado. Somos o maior estoque digital de peças do país! */
+
+position: absolute;
+width: 295px;
+height: 80px;
+left: 120px;
+top: 1103px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 120px;
+top: 1053px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 120px;
+top: 1053px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Home / Política de Troca e devolução */
+
+position: absolute;
+width: 253px;
+height: 15px;
+left: 120px;
+top: 244px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 1200px;
+height: 621px;
+left: 120px;
+top: 314px;
+
+
+
+/* Rectangle 45 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1200px;
+height: 621px;
+left: 120px;
+top: 314px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like). There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. Prazo e entrega Política de Privacidade Garantia Trocas e Devoluções */
+
+position: absolute;
+width: 1157px;
+height: 496px;
+left: 145px;
+top: 408px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Política de Troca e devolução */
+
+position: absolute;
+width: 352px;
+height: 30px;
+left: 145px;
+top: 345px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.2px;
+
+color: #616161;
+

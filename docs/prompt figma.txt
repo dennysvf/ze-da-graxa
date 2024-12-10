@@ -1,0 +1,236 @@
+PROMPT DE ANÁLISE E IMPLEMENTAÇÃO - ZÉ DA GRAXA
+
+1. VISÃO GERAL DO PROJETO
+Nome: Zé da Graxa E-commerce
+Tipo: E-commerce de Peças Automotivas
+Stack: React + TypeScript + Next.js
+Estilo: CSS Modules
+Design System: Tokens e Componentes Base
+
+2. DESIGN SYSTEM
+
+2.1 Tokens de Cor
+```typescript
+colors: {
+  primary: '#58D899',
+  secondary: '#2C3E50',
+  accent: '#E74C3C',
+  background: {
+    default: '#F8F9FA',
+    light: '#F5F5F5',
+    dark: '#2D3436'
+  },
+  text: {
+    primary: '#2D3436',
+    secondary: '#616161',
+    muted: '#9998A5'
+  },
+  border: {
+    default: '#DFE6E9',
+    light: '#F5FBF3'
+  },
+  success: '#27AE60',
+  error: '#E74C3C',
+  warning: '#F1C40F'
+}
+```
+
+2.2 Tokens de Espaçamento
+```typescript
+spacing: {
+  xs: '4px',
+  sm: '8px',
+  md: '16px',
+  lg: '24px',
+  xl: '32px',
+  '2xl': '48px',
+  '3xl': '64px'
+}
+```
+
+2.3 Tokens de Tipografia
+```typescript
+typography: {
+  fontFamily: "'Inter', sans-serif",
+  fontSize: {
+    xs: '12px',    // Caption
+    sm: '14px',    // Body small
+    md: '16px',    // Body
+    lg: '18px',    // Subtitle
+    xl: '24px',    // Title
+    '2xl': '32px', // Heading
+  },
+  fontWeight: {
+    regular: 400,
+    medium: 500,
+    semibold: 600,
+    bold: 700
+  },
+  lineHeight: {
+    tight: 1.2,
+    base: 1.5,
+    relaxed: 1.75
+  }
+}
+```
+
+2.4 Tokens de Border Radius
+```typescript
+borderRadius: {
+  none: '0',
+  sm: '4px',
+  md: '8px',
+  lg: '16px',
+  full: '9999px'
+}
+```
+
+2.5 Breakpoints
+```typescript
+breakpoints: {
+  sm: '640px',   // Mobile landscape
+  md: '768px',   // Tablet
+  lg: '1024px',  // Desktop
+  xl: '1280px',  // Large desktop
+  '2xl': '1536px' // Extra large desktop
+}
+```
+
+3. COMPONENTES BASE
+
+3.1 Button
+```typescript
+interface ButtonProps {
+  variant: 'primary' | 'secondary' | 'outline' | 'ghost';
+  size: 'sm' | 'md' | 'lg';
+  fullWidth?: boolean;
+  icon?: ReactNode;
+  iconPosition?: 'left' | 'right';
+  loading?: boolean;
+  disabled?: boolean;
+  onClick?: () => void;
+  children: ReactNode;
+}
+```
+
+3.2 Input
+```typescript
+interface InputProps {
+  type: 'text' | 'email' | 'password' | 'number';
+  label?: string;
+  placeholder?: string;
+  error?: string;
+  helperText?: string;
+  leftIcon?: ReactNode;
+  rightIcon?: ReactNode;
+  mask?: string;
+  value: string;
+  onChange: (value: string) => void;
+}
+```
+
+3.3 Select
+```typescript
+interface SelectProps {
+  options: Option[];
+  value: string | string[];
+  onChange: (value: string | string[]) => void;
+  label?: string;
+  placeholder?: string;
+  error?: string;
+  multiple?: boolean;
+  searchable?: boolean;
+  loading?: boolean;
+}
+```
+
+4. LAYOUTS
+
+4.1 PublicLayout
+- Header com navegação
+- Menu de categorias
+- Container responsivo (max-width: 1280px)
+- Footer completo
+
+4.2 CheckoutLayout
+- Header simplificado
+- Barra de progresso
+- Layout em duas colunas (desktop)
+- Footer minimalista
+
+4.3 CustomerLayout
+- Header com menu do usuário
+- Navegação lateral
+- Área de conteúdo principal
+- Breadcrumb
+
+5. COMPONENTES DE PRODUTO
+
+5.1 ProductCard
+```typescript
+interface ProductCardProps {
+  product: Product;
+  variant: 'grid' | 'list' | 'compact';
+  onAddToCart?: () => void;
+  onAddToWishlist?: () => void;
+  showActions?: boolean;
+}
+```
+
+5.2 ProductGrid
+```typescript
+interface ProductGridProps {
+  products: Product[];
+  loading?: boolean;
+  columns?: {
+    sm?: number;
+    md?: number;
+    lg?: number;
+  };
+  gap?: 'sm' | 'md' | 'lg';
+}
+```
+
+6. ESTRUTURA DE DIRETÓRIOS
+
+src/
+├── components/
+│   ├── base/           # Componentes base (Button, Input, etc)
+│   ├── layout/         # Layouts (Public, Checkout, etc)
+│   ├── product/        # Componentes de produto
+│   ├── cart/           # Componentes do carrinho
+│   ├── checkout/       # Componentes do checkout
+│   ├── customer/       # Componentes da área do cliente
+│   └── feedback/       # Componentes de feedback (Toast, etc)
+├── hooks/              # Hooks personalizados
+├── services/           # Serviços e APIs
+├── styles/            # Estilos globais e tokens
+├── types/             # Tipos TypeScript
+└── utils/             # Funções utilitárias
+
+7. CHECKLIST DE IMPLEMENTAÇÃO
+
+7.1 Desenvolvimento
+□ Usar TypeScript com tipos apropriados
+□ Seguir estrutura de componentes definida
+□ Implementar CSS Modules com tokens
+□ Adicionar testes unitários
+□ Documentar props e uso
+
+7.2 Acessibilidade
+□ Implementar ARIA labels
+□ Garantir navegação por teclado
+□ Manter contraste adequado
+□ Testar com screen readers
+
+7.3 Performance
+□ Otimizar imagens com Next/Image
+□ Implementar lazy loading
+□ Minimizar re-renders
+□ Medir performance com Lighthouse
+
+7.4 Responsividade
+□ Seguir abordagem mobile-first
+□ Usar breakpoints definidos
+□ Testar em múltiplos dispositivos
+□ Garantir usabilidade touch

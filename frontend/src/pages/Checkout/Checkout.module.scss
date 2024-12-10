@@ -1,0 +1,145 @@
+@import '../../styles/tokens.scss';
+
+.checkout {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--spacing-6);
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 1fr 380px;
+  gap: var(--spacing-6);
+}
+
+.title {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-6);
+}
+
+.section {
+  margin-bottom: var(--spacing-6);
+}
+
+.sectionTitle {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-4);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--spacing-4);
+
+  > :nth-child(1) {
+    grid-column: span 1;
+  }
+
+  > :nth-child(2) {
+    grid-column: span 2;
+  }
+
+  > :nth-child(3),
+  > :nth-child(4) {
+    grid-column: span 1;
+  }
+}
+
+.paymentMethods {
+  display: flex;
+  gap: var(--spacing-4);
+  margin-bottom: var(--spacing-4);
+}
+
+.paymentMethod {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-2);
+  padding: var(--spacing-3);
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius-lg);
+  cursor: pointer;
+  transition: all 0.2s;
+
+  &:has(input:checked) {
+    border-color: var(--color-primary-600);
+    background-color: var(--color-primary-50);
+  }
+
+  input {
+    width: 20px;
+    height: 20px;
+    accent-color: var(--color-primary-600);
+  }
+
+  span {
+    font-weight: var(--font-weight-medium);
+    color: var(--color-text-primary);
+  }
+}
+
+.pixInfo {
+  padding: var(--spacing-4);
+  background-color: var(--color-background-alt);
+  border-radius: var(--border-radius-lg);
+  margin-bottom: var(--spacing-4);
+
+  p {
+    color: var(--color-text-secondary);
+    line-height: 1.5;
+  }
+}
+
+.submitButton {
+  width: 100%;
+  margin-top: var(--spacing-6);
+}
+
+.empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  text-align: center;
+  color: var(--color-text-secondary);
+
+  h1 {
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-semibold);
+    margin-bottom: var(--spacing-4);
+  }
+}
+
+@media (max-width: 1024px) {
+  .content {
+    grid-template-columns: 1fr;
+  }
+
+  .summary {
+    order: -1;
+  }
+}
+
+@media (max-width: 768px) {
+  .checkout {
+    padding: var(--spacing-4);
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+
+    > * {
+      grid-column: span 1 !important;
+    }
+  }
+
+  .paymentMethods {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,4540 @@
+/* Financeiros | Pagamentos */
+
+position: relative;
+width: 1440px;
+height: 1083px;
+
+background: #FFFFFF;
+
+
+/* Search */
+
+position: absolute;
+width: 1064px;
+height: 40px;
+left: 344px;
+top: 37px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 451px;
+height: 40px;
+left: 344px;
+top: 37px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 451px;
+height: 40px;
+left: 344px;
+top: 37px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* Pesquisar */
+
+position: absolute;
+width: 67px;
+height: 17px;
+left: 362px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* interface/so-find */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 759px;
+top: 47px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 12.5%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* ion:notifcations */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 1229px;
+top: 45px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.47%;
+right: 12.47%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #616161;
+
+
+/* Group 2 */
+
+position: absolute;
+left: 57.14%;
+right: 0%;
+top: 2.86%;
+bottom: 54.29%;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+left: 57.14%;
+right: 0%;
+top: 2.86%;
+bottom: 54.29%;
+
+background: #4EBF5F;
+
+
+/* 5 */
+
+position: absolute;
+left: 69.2%;
+right: 10.8%;
+top: 4%;
+bottom: 61.71%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* User */
+
+position: absolute;
+width: 122px;
+height: 40px;
+left: 1286px;
+top: 37px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1286px;
+top: 37px;
+
+background: url(Perfil 2.png);
+
+
+/* WiseCode */
+
+position: absolute;
+width: 71px;
+height: 17px;
+left: 1337px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Navbar */
+
+position: absolute;
+width: 312px;
+height: 1020px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 312px;
+height: 1020px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-right: 1px solid #EDEDED;
+
+
+/* Navbar */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+position: absolute;
+width: 311px;
+height: 525px;
+left: 0px;
+top: 124px;
+
+
+
+/* 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+width: nanpx;
+height: nanpx;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+visibility: hidden;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+visibility: hidden;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* ic:round-dashboard-customize */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Dashboard */
+
+width: 75px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+display: none;
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* mdi:cart */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Financeiro */
+
+width: 72px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 283px;
+top: 28px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 75.04%;
+bottom: -21.96%;
+
+background: #616161;
+border: 0.5px solid #616161;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Sub */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+width: 311px;
+height: 207px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 12 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* ep:list */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 9.38%;
+bottom: 9.38%;
+
+background: #616161;
+
+
+/* Lista de pedidos */
+
+width: 114px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* material-symbols:payments */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #555555;
+
+
+/* Pagamentos */
+
+width: 86px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 15 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* hugeicons:invoice */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.34%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 75%;
+right: 8.34%;
+top: 8.33%;
+bottom: 66.67%;
+
+border: 1.5625px solid #555555;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 16.67%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 1.5625px solid #555555;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 50%;
+top: 29.17%;
+bottom: 37.5%;
+
+border: 1.5625px solid #555555;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Notas Fiscais */
+
+width: 92px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 12 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* mdi:shopping-outline */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 4.17%;
+bottom: 8.33%;
+
+background: #555555;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Edição de compras */
+
+width: 131px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* gridicons:product */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Produtos */
+
+width: 63px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 283px;
+top: 28px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 75.04%;
+bottom: -21.96%;
+
+background: #616161;
+border: 0.5px solid #616161;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* carbon:enterprise */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 50%;
+top: 25%;
+bottom: 25%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #616161;
+
+
+/* Fornecedores */
+
+width: 95px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 283px;
+top: 28px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 75.04%;
+bottom: -21.96%;
+
+background: #616161;
+border: 0.5px solid #616161;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 283px;
+top: 20px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 24.96%;
+bottom: 28.12%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* fluent:people-24-filled */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Clientes */
+
+width: 57px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 8 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* ph:credit-card */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Crédito do Zé */
+
+width: 94px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* hugeicons:web-design-01 */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.42%;
+right: 10.42%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5625px solid #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Editar */
+
+width: 48px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 829px;
+
+
+
+/* icon-park-outline:config */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2.08333px solid #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 2.08333px solid #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Configuração */
+
+width: 94px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 882px;
+
+
+
+/* material-symbols:logout */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Sair */
+
+width: 94px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 93px;
+top: 32px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 93px;
+top: 32px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Mais vendidos */
+
+position: absolute;
+width: 1064px;
+height: 937px;
+left: 344px;
+top: 124px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1064px;
+height: 937px;
+left: 344px;
+top: 124px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Titulo */
+
+position: absolute;
+width: 136px;
+height: 17px;
+left: 364px;
+top: 143px;
+
+
+
+/* Lista de pedidos */
+
+position: absolute;
+width: 113px;
+height: 17px;
+left: 387px;
+top: 143px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* mdi:cart */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 364px;
+top: 145px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Sessão */
+
+position: absolute;
+width: 998px;
+height: 34px;
+left: 364px;
+top: 196px;
+
+
+
+/* ID da fatura */
+
+position: absolute;
+width: 80px;
+height: 17px;
+left: 433px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Ordem */
+
+position: absolute;
+width: 46px;
+height: 17px;
+left: 364px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Valor do pagamento */
+
+position: absolute;
+width: 78px;
+height: 34px;
+left: 541px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Valor de cancelamento */
+
+position: absolute;
+width: 96px;
+height: 34px;
+left: 643px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Valor Reembolsado */
+
+position: absolute;
+width: 96px;
+height: 34px;
+left: 758px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cliente */
+
+position: absolute;
+width: 48px;
+height: 17px;
+left: 878px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Tipo de pagamento */
+
+position: absolute;
+width: 77px;
+height: 34px;
+left: 1048px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Vencimento do Boleto */
+
+position: absolute;
+width: 80px;
+height: 34px;
+left: 1144px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Status */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 1318px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+position: absolute;
+width: 1006px;
+height: 787px;
+left: 364px;
+top: 258px;
+
+
+
+/* Produto */
+
+width: 1006px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 69px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 177px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 279px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 394px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 514px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 684px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 781px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* PAGO */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 953px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 49px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 69px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 177px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 279px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 394px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 514px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 684px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 781px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* PAGO */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 953px;
+top: 70px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 119px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 69px;
+top: 140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 177px;
+top: 140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 279px;
+top: 140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 394px;
+top: 140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 514px;
+top: 140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 684px;
+top: 140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 781px;
+top: 140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* PAGO */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 953px;
+top: 140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 189px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 69px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 177px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 279px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 394px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 514px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 684px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 781px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* PAGO */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 953px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 259px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 69px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 177px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 279px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 394px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 514px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 684px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 781px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* PAGO */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 953px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 329px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 69px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 177px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 279px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 394px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 514px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 684px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 781px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* PAGO */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 953px;
+top: 350px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 399px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 69px;
+top: 420px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 420px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 177px;
+top: 420px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 279px;
+top: 420px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 394px;
+top: 420px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 514px;
+top: 420px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 684px;
+top: 420px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 781px;
+top: 420px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* PAGO */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 953px;
+top: 420px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 469px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 69px;
+top: 490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 177px;
+top: 490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 279px;
+top: 490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 394px;
+top: 490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 514px;
+top: 490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 684px;
+top: 490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 781px;
+top: 490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* PAGO */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 953px;
+top: 490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 539px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 69px;
+top: 560px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 560px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 177px;
+top: 560px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 279px;
+top: 560px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 394px;
+top: 560px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 514px;
+top: 560px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 684px;
+top: 560px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 781px;
+top: 560px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* PAGO */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 953px;
+top: 560px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 609px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 69px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 177px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 279px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 394px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 514px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 684px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 781px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* PAGO */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 953px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 679px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 1006px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 69px;
+top: 700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 4px;
+top: 700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 177px;
+top: 700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 279px;
+top: 700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 394px;
+top: 700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 514px;
+top: 700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 684px;
+top: 700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 781px;
+top: 700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* PAGO */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 953px;
+top: 700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 1006px;
+height: 1px;
+left: 0px;
+top: 749px;
+
+background: #EDEDED;
+
+
+/* Produto */
+
+width: 988px;
+height: 17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 11;
+flex-grow: 0;
+
+
+/* #372189312 */
+
+position: absolute;
+width: 84px;
+height: 17px;
+left: 65px;
+top: 770px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 12781 */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 0px;
+top: 770px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 173px;
+top: 770px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 275px;
+top: 770px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 280,27 */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 390px;
+top: 770px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* wisecode@gmail.com */
+
+position: absolute;
+width: 148px;
+height: 17px;
+left: 510px;
+top: 770px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 680px;
+top: 770px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* 27/08/2024 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 777px;
+top: 770px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* PAGO */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 949px;
+top: 770px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+

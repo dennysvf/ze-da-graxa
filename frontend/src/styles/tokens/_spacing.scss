@@ -1,0 +1,42 @@
+// Container
+$container-width: 1440px;
+$content-max-width: 1200px;
+
+// Padding
+$padding-container-top: 77px;
+$padding-container-bottom: 369px;
+$padding-container-left: 172px;
+$padding-container-right: 902px;
+
+// Gaps
+$gap-large: 138px;
+$gap-medium: 97px;
+$gap-small: 16px;
+
+// Component Spacing
+$input-padding: 19px;
+$card-padding: 15px;
+
+// Border Radius
+$border-radius-default: 5px;
+$border-radius-large: 15px;
+
+// Border Width
+$border-width-default: 1px;
+
+:export {
+  containerWidth: $container-width;
+  contentMaxWidth: $content-max-width;
+  paddingContainerTop: $padding-container-top;
+  paddingContainerBottom: $padding-container-bottom;
+  paddingContainerLeft: $padding-container-left;
+  paddingContainerRight: $padding-container-right;
+  gapLarge: $gap-large;
+  gapMedium: $gap-medium;
+  gapSmall: $gap-small;
+  inputPadding: $input-padding;
+  cardPadding: $card-padding;
+  borderRadiusDefault: $border-radius-default;
+  borderRadiusLarge: $border-radius-large;
+  borderWidthDefault: $border-width-default;
+}

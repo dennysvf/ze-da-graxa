@@ -1,0 +1,130 @@
+.card {
+  background-color: var(--white);
+  border-radius: var(--radius-lg);
+  transition: all var(--transition-fast);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Variants */
+.elevated {
+  box-shadow: var(--shadow-sm);
+}
+
+.elevated:hover {
+  box-shadow: var(--shadow-md);
+}
+
+.outlined {
+  border: 1px solid var(--border);
+}
+
+.outlined:hover {
+  border-color: var(--color-primary);
+}
+
+.filled {
+  background-color: var(--background);
+}
+
+.filled:hover {
+  background-color: color-mix(in srgb, var(--background) 80%, black);
+}
+
+/* Padding */
+.sm {
+  padding: var(--spacing-sm);
+}
+
+.md {
+  padding: var(--spacing-md);
+}
+
+.lg {
+  padding: var(--spacing-lg);
+}
+
+/* Interactive */
+.clickable {
+  cursor: pointer;
+  user-select: none;
+}
+
+.clickable:active {
+  transform: scale(0.98);
+}
+
+/* States */
+.disabled {
+  opacity: var(--opacity-disabled);
+  pointer-events: none;
+}
+
+.selected {
+  border: 2px solid var(--color-primary);
+}
+
+/* Header */
+.header {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+}
+
+.headerContent {
+  flex: 1;
+}
+
+.headerActions {
+  display: flex;
+  gap: var(--spacing-sm);
+}
+
+/* Media */
+.media {
+  margin: calc(-1 * var(--spacing-md));
+  margin-bottom: var(--spacing-md);
+}
+
+.media img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Content */
+.content {
+  color: var(--text-primary);
+}
+
+/* Footer */
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--spacing-sm);
+  margin-top: var(--spacing-md);
+  padding-top: var(--spacing-md);
+  border-top: 1px solid var(--border);
+}
+
+/* Loading State */
+.loading {
+  position: relative;
+}
+
+.loading::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: color-mix(in srgb, var(--background) 80%, transparent);
+  border-radius: inherit;
+  z-index: var(--z-index-overlay);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    transition: none;
+  }
+}

@@ -1,0 +1,44 @@
+@import '../../styles/tokens/colors';
+@import '../../styles/tokens/typography';
+@import '../../styles/tokens/spacing';
+
+.group {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-xs;
+}
+
+.label {
+  color: $text;
+  font-size: $font-size-body;
+  font-weight: $font-weight-medium;
+  line-height: $line-height-tight;
+}
+
+.required {
+  margin-left: $spacing-xxs;
+  color: $error;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-sm;
+}
+
+.hint {
+  color: $text-secondary;
+  font-size: $font-size-small;
+  line-height: $line-height-relaxed;
+}
+
+.error {
+  .hint {
+    color: $error;
+  }
+}
+
+.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

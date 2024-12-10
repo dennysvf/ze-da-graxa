@@ -1,0 +1,432 @@
+openapi: 3.0.0
+info:
+  title: Zé da Graxa API
+  description: API do e-commerce de peças automotivas Zé da Graxa
+  version: 1.0.0
+
+servers:
+  - url: http://localhost:3001/api
+    description: Servidor de desenvolvimento
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+
+  schemas:
+    Product:
+      type: object
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        description:
+          type: string
+        price:
+          type: number
+        oldPrice:
+          type: number
+        images:
+          type: array
+          items:
+            type: string
+        brand:
+          type: string
+        category:
+          type: object
+          properties:
+            id:
+              type: string
+            name:
+              type: string
+            slug:
+              type: string
+        stock:
+          type: integer
+        rating:
+          type: number
+        reviewCount:
+          type: integer
+        specifications:
+          type: object
+          additionalProperties:
+            type: string
+
+    CartItem:
+      type: object
+      properties:
+        productId:
+          type: string
+        quantity:
+          type: integer
+        product:
+          $ref: '#/components/schemas/Product'
+        total:
+          type: number
+
+    Cart:
+      type: object
+      properties:
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/CartItem'
+        subtotal:
+          type: number
+        shipping:
+          type: number
+        total:
+          type: number
+
+    Order:
+      type: object
+      properties:
+        id:
+          type: string
+        userId:
+          type: string
+        items:
+          type: array
+          items:
+            type: object
+            properties:
+              productId:
+                type: string
+              quantity:
+                type: integer
+              price:
+                type: number
+              total:
+                type: number
+        status:
+          type: string
+          enum: [pending_payment, paid, processing, shipped, delivered, cancelled]
+        shipping:
+          type: object
+          properties:
+            address:
+              $ref: '#/components/schemas/Address'
+            method:
+              type: string
+              enum: [PAC, SEDEX]
+            price:
+              type: number
+            trackingCode:
+              type: string
+            estimatedDelivery:
+              type: string
+              format: date-time
+        payment:
+          type: object
+          properties:
+            method:
+              type: string
+              enum: [credit_card, pix, boleto]
+            status:
+              type: string
+              enum: [pending, success, failed]
+            total:
+              type: number
+            paidAt:
+              type: string
+              format: date-time
+        total:
+          type: number
+        createdAt:
+          type: string
+          format: date-time
+        updatedAt:
+          type: string
+          format: date-time
+
+    Address:
+      type: object
+      properties:
+        street:
+          type: string
+        number:
+          type: string
+        complement:
+          type: string
+        district:
+          type: string
+        city:
+          type: string
+        state:
+          type: string
+        zipCode:
+          type: string
+
+paths:
+  /products:
+    get:
+      summary: Lista produtos
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: integer
+            default: 1
+        - in: query
+          name: limit
+          schema:
+            type: integer
+            default: 20
+        - in: query
+          name: search
+          schema:
+            type: string
+        - in: query
+          name: category
+          schema:
+            type: string
+        - in: query
+          name: minPrice
+          schema:
+            type: number
+        - in: query
+          name: maxPrice
+          schema:
+            type: number
+        - in: query
+          name: sort
+          schema:
+            type: string
+            enum: [price_asc, price_desc, name_asc, name_desc]
+      responses:
+        '200':
+          description: Lista de produtos
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  items:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Product'
+                  total:
+                    type: integer
+                  page:
+                    type: integer
+                  totalPages:
+                    type: integer
+
+  /products/{id}:
+    get:
+      summary: Obtém detalhes de um produto
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Detalhes do produto
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+        '404':
+          description: Produto não encontrado
+
+  /cart:
+    get:
+      summary: Obtém o carrinho do usuário
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: Carrinho do usuário
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Cart'
+
+  /cart/items:
+    post:
+      summary: Adiciona item ao carrinho
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                productId:
+                  type: string
+                quantity:
+                  type: integer
+      responses:
+        '201':
+          description: Item adicionado ao carrinho
+        '404':
+          description: Produto não encontrado
+
+  /cart/items/{productId}:
+    put:
+      summary: Atualiza quantidade de um item
+      security:
+        - bearerAuth: []
+      parameters:
+        - in: path
+          name: productId
+          required: true
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                quantity:
+                  type: integer
+      responses:
+        '200':
+          description: Item atualizado
+        '404':
+          description: Item não encontrado
+
+    delete:
+      summary: Remove item do carrinho
+      security:
+        - bearerAuth: []
+      parameters:
+        - in: path
+          name: productId
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Item removido
+        '404':
+          description: Item não encontrado
+
+  /orders:
+    get:
+      summary: Lista pedidos do usuário
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: Lista de pedidos
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  items:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Order'
+                  total:
+                    type: integer
+
+    post:
+      summary: Cria novo pedido
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                shippingAddress:
+                  $ref: '#/components/schemas/Address'
+                paymentMethod:
+                  type: string
+                  enum: [credit_card, pix, boleto]
+      responses:
+        '201':
+          description: Pedido criado
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  orderId:
+                    type: string
+                  status:
+                    type: string
+        '400':
+          description: Carrinho vazio
+
+  /orders/{id}:
+    get:
+      summary: Obtém detalhes de um pedido
+      security:
+        - bearerAuth: []
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Detalhes do pedido
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Order'
+        '404':
+          description: Pedido não encontrado
+
+  /orders/{id}/tracking:
+    get:
+      summary: Obtém informações de rastreamento do pedido
+      security:
+        - bearerAuth: []
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Informações de rastreamento
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                  timeline:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        status:
+                          type: string
+                        date:
+                          type: string
+                          format: date-time
+                        description:
+                          type: string
+                        trackingCode:
+                          type: string
+                  shipping:
+                    type: object
+                    properties:
+                      method:
+                        type: string
+                      trackingCode:
+                        type: string
+                      estimatedDelivery:
+                        type: string
+                        format: date-time
+        '404':
+          description: Pedido não encontrado

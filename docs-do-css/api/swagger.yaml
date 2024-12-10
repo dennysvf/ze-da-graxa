@@ -1,0 +1,342 @@
+openapi: 3.0.0
+info:
+  title: Zé da Graxa API
+  description: API para o e-commerce Zé da Graxa
+  version: 1.0.0
+  contact:
+    name: Time de Desenvolvimento
+servers:
+  - url: http://localhost:3001/api
+    description: Desenvolvimento
+  - url: https://api.zedagraxa.com/api
+    description: Produção
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+
+  schemas:
+    User:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        name:
+          type: string
+        email:
+          type: string
+          format: email
+        role:
+          type: string
+          enum: [admin, customer, guest]
+        createdAt:
+          type: string
+          format: date-time
+        updatedAt:
+          type: string
+          format: date-time
+
+    Product:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        name:
+          type: string
+        description:
+          type: string
+        price:
+          type: number
+          format: float
+        images:
+          type: array
+          items:
+            type: string
+        category:
+          $ref: '#/components/schemas/Category'
+        stock:
+          type: integer
+        specifications:
+          type: object
+          additionalProperties:
+            type: string
+        createdAt:
+          type: string
+          format: date-time
+        updatedAt:
+          type: string
+          format: date-time
+
+    Order:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        userId:
+          type: string
+          format: uuid
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/OrderItem'
+        status:
+          type: string
+          enum: [pending_payment, paid, processing, shipped, delivered, cancelled]
+        shipping:
+          $ref: '#/components/schemas/ShippingInfo'
+        payment:
+          $ref: '#/components/schemas/PaymentInfo'
+        total:
+          type: number
+          format: float
+        createdAt:
+          type: string
+          format: date-time
+
+paths:
+  /auth/login:
+    post:
+      tags:
+        - Autenticação
+      summary: Login de usuário
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - email
+                - password
+              properties:
+                email:
+                  type: string
+                  format: email
+                password:
+                  type: string
+                  format: password
+      responses:
+        '200':
+          description: Login bem sucedido
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  user:
+                    $ref: '#/components/schemas/User'
+                  token:
+                    type: string
+        '401':
+          description: Credenciais inválidas
+
+  /products:
+    get:
+      tags:
+        - Produtos
+      summary: Lista produtos
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: integer
+            default: 1
+        - in: query
+          name: limit
+          schema:
+            type: integer
+            default: 20
+        - in: query
+          name: search
+          schema:
+            type: string
+        - in: query
+          name: category
+          schema:
+            type: string
+        - in: query
+          name: minPrice
+          schema:
+            type: number
+        - in: query
+          name: maxPrice
+          schema:
+            type: number
+        - in: query
+          name: sort
+          schema:
+            type: string
+            enum: [price_asc, price_desc, name_asc, name_desc]
+      responses:
+        '200':
+          description: Lista de produtos
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  items:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Product'
+                  total:
+                    type: integer
+                  page:
+                    type: integer
+                  totalPages:
+                    type: integer
+
+  /cart:
+    get:
+      tags:
+        - Carrinho
+      summary: Obtém carrinho atual
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: Carrinho
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  items:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/CartItem'
+                  subtotal:
+                    type: number
+                  shipping:
+                    type: number
+                  discount:
+                    type: number
+                  total:
+                    type: number
+
+  /orders:
+    get:
+      tags:
+        - Pedidos
+      summary: Lista pedidos do usuário
+      security:
+        - bearerAuth: []
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: integer
+            default: 1
+        - in: query
+          name: limit
+          schema:
+            type: integer
+            default: 20
+      responses:
+        '200':
+          description: Lista de pedidos
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  items:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Order'
+                  total:
+                    type: integer
+                  page:
+                    type: integer
+                  totalPages:
+                    type: integer
+
+  /admin/dashboard:
+    get:
+      tags:
+        - Admin
+      summary: Obtém dados do dashboard
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: Dados do dashboard
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  metrics:
+                    type: object
+                    properties:
+                      totalSales:
+                        type: number
+                      totalOrders:
+                        type: integer
+                      averageOrderValue:
+                        type: number
+                      newCustomers:
+                        type: integer
+                  charts:
+                    type: object
+                    properties:
+                      salesByDay:
+                        type: array
+                        items:
+                          type: object
+                          properties:
+                            date:
+                              type: string
+                              format: date
+                            value:
+                              type: number
+                      ordersByStatus:
+                        type: array
+                        items:
+                          type: object
+                          properties:
+                            status:
+                              type: string
+                            count:
+                              type: integer
+
+  /webhooks/payment:
+    post:
+      tags:
+        - Webhooks
+      summary: Webhook de pagamento
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - type
+                - orderId
+                - paymentId
+                - amount
+                - status
+              properties:
+                type:
+                  type: string
+                  enum: [payment.success, payment.failed, payment.refunded]
+                orderId:
+                  type: string
+                  format: uuid
+                paymentId:
+                  type: string
+                amount:
+                  type: number
+                status:
+                  type: string
+                  enum: [pending, processing, success, failed, refunded]
+      responses:
+        '200':
+          description: Webhook processado com sucesso

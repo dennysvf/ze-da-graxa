@@ -1,0 +1,65 @@
+@import '../../styles/tokens.scss';
+
+.timeline {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-3);
+}
+
+.event {
+  display: flex;
+  gap: var(--spacing-3);
+}
+
+.iconContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-background-alt);
+  border-radius: 50%;
+  font-size: var(--font-size-sm);
+}
+
+.line {
+  flex: 1;
+  width: 2px;
+  background-color: var(--color-border);
+  margin: var(--spacing-2) 0;
+}
+
+.content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-1);
+  padding-bottom: var(--spacing-3);
+}
+
+.status {
+  font-weight: var(--font-weight-medium);
+  color: var(--color-text-primary);
+}
+
+.date {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+}
+
+.current {
+  .icon {
+    background-color: var(--color-primary-100);
+    color: var(--color-primary-700);
+  }
+
+  .status {
+    color: var(--color-primary-700);
+  }
+}

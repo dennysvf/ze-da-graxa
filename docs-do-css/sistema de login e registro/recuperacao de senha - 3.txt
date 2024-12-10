@@ -1,0 +1,313 @@
+/* Recuperação de senha - 3 */
+
+position: relative;
+width: 1440px;
+height: 1020px;
+
+background: #FFFFFF;
+
+
+/* Navbar */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Group 74 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 175px;
+top: 437px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 175px;
+top: 466px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* mdi:password-off */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 505px;
+top: 482px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.62%;
+right: 7.88%;
+top: 4.17%;
+bottom: 5.29%;
+
+background: #616161;
+
+
+/* Senha */
+
+position: absolute;
+width: 43px;
+height: 17px;
+left: 194px;
+top: 485px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Digite sua nova senha */
+
+position: absolute;
+width: 150px;
+height: 17px;
+left: 175px;
+top: 437px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 76 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 175px;
+top: 534px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 175px;
+top: 563px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* mdi:password-off */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 505px;
+top: 579px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.62%;
+right: 7.88%;
+top: 4.17%;
+bottom: 5.29%;
+
+background: #616161;
+
+
+/* Senha */
+
+position: absolute;
+width: 43px;
+height: 17px;
+left: 194px;
+top: 582px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Confirme sua senha */
+
+position: absolute;
+width: 136px;
+height: 17px;
+left: 175px;
+top: 534px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Login */
+
+position: absolute;
+width: 366px;
+height: 386px;
+left: 175px;
+top: 317px;
+
+
+
+/* Texto */
+
+position: absolute;
+width: 256px;
+height: 60px;
+left: 229px;
+top: 317px;
+
+
+
+/* Crie uma nova senha */
+
+position: absolute;
+width: 256px;
+height: 30px;
+left: 229px;
+top: 317px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Agora só falta criar uma nova senha */
+
+position: absolute;
+width: 244px;
+height: 17px;
+left: 235px;
+top: 360px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 75 */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 175px;
+top: 648px;
+
+
+
+/* image */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 175px;
+top: 648px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Confirmar */
+
+position: absolute;
+width: 88px;
+height: 22px;
+left: 314px;
+top: 665px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+

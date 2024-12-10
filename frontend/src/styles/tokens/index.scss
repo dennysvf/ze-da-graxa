@@ -1,0 +1,15 @@
+// Design System Tokens
+// Sistema Híbrido - Mantém compatibilidade com tokens existentes
+
+// Sistema Atual
+@forward 'colors';
+@forward 'typography';
+@forward 'spacing';
+@forward 'effects';
+
+// Novo Sistema
+@forward 'system/colors';
+@forward 'system/typography';
+@forward 'system/spacing';
+@forward 'system/shadows';
+@forward 'system/breakpoints';

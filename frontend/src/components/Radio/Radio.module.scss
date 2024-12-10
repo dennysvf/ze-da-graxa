@@ -1,0 +1,141 @@
+@import '../../styles/tokens/colors';
+@import '../../styles/tokens/typography';
+@import '../../styles/tokens/spacing';
+@import '../../styles/tokens/effects';
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-xs;
+  width: 100%;
+  margin-bottom: $spacing-md;
+}
+
+.wrapper {
+  display: inline-flex;
+  cursor: pointer;
+
+  &:has(input:disabled) {
+    cursor: not-allowed;
+  }
+}
+
+.inputWrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: $spacing-xs;
+}
+
+.radio {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+
+  &:focus-visible + .customRadio {
+    box-shadow: $focus-ring;
+  }
+
+  &.error + .customRadio {
+    border-color: $error;
+  }
+
+  &:disabled + .customRadio {
+    background: $background;
+    border-color: $border;
+  }
+
+  &:checked:disabled + .customRadio {
+    .dot {
+      background: $text-placeholder;
+    }
+  }
+}
+
+.customRadio {
+  width: 20px;
+  height: 20px;
+  border: $border-width-default solid $border;
+  border-radius: 50%;
+  background: $white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: $transition-fast;
+
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: $primary-green;
+    transition: $transition-fast;
+    transform: scale(0);
+    opacity: 0;
+  }
+
+  input:checked + & {
+    border-color: $primary-green;
+
+    .dot {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+
+  input:hover:not(:disabled) + & {
+    border-color: $primary-green;
+  }
+}
+
+.label {
+  color: $text-primary;
+  font-size: $font-size-body;
+  font-weight: $font-weight-regular;
+  letter-spacing: $letter-spacing-default;
+  user-select: none;
+
+  input:disabled ~ & {
+    color: $text-placeholder;
+  }
+}
+
+.required {
+  color: $error;
+  margin-left: $spacing-xxs;
+}
+
+.errorMessage {
+  color: $error;
+  font-size: $font-size-small;
+  font-weight: $font-weight-medium;
+}
+
+.hint {
+  color: $text-placeholder;
+  font-size: $font-size-small;
+  font-weight: $font-weight-regular;
+}
+
+// RadioGroup styles
+.group {
+  display: flex;
+  gap: $spacing-sm;
+
+  &.vertical {
+    flex-direction: column;
+  }
+
+  &.horizontal {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}
+
+.groupLabel {
+  color: $text-primary;
+  font-size: $font-size-body;
+  font-weight: $font-weight-medium;
+  letter-spacing: $letter-spacing-default;
+  margin-bottom: $spacing-xs;
+  display: block;
+}

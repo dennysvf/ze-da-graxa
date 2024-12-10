@@ -1,0 +1,45 @@
+// Design System - Breakpoint Tokens
+// Este arquivo define os breakpoints mantendo compatibilidade com o sistema atual
+
+$breakpoints: (
+  'xs': 320px,
+  'sm': 640px,
+  'md': 768px,
+  'lg': 1024px,
+  'xl': 1280px,
+  '2xl': 1440px
+);
+
+// Sistema de Aliases (Compatibilidade com sistema atual)
+$mobile: map-get($breakpoints, 'xs');
+$tablet: map-get($breakpoints, 'md');
+$desktop: map-get($breakpoints, 'lg');
+$desktop-large: map-get($breakpoints, '2xl');
+
+// Mixins para media queries
+@mixin respond-to($breakpoint) {
+  @if map-has-key($breakpoints, $breakpoint) {
+    @media (min-width: map-get($breakpoints, $breakpoint)) {
+      @content;
+    }
+  } @else {
+    @warn "Breakpoint '#{$breakpoint}' não encontrado no mapa $breakpoints.";
+  }
+}
+
+// Exportação para JavaScript
+:export {
+  // Sistema atual (mantendo compatibilidade)
+  mobile: $mobile;
+  tablet: $tablet;
+  desktop: $desktop;
+  desktopLarge: $desktop-large;
+  
+  // Novo sistema (escala completa)
+  xs: map-get($breakpoints, 'xs');
+  sm: map-get($breakpoints, 'sm');
+  md: map-get($breakpoints, 'md');
+  lg: map-get($breakpoints, 'lg');
+  xl: map-get($breakpoints, 'xl');
+  xxl: map-get($breakpoints, '2xl');
+}

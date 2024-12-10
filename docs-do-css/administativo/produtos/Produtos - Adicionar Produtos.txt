@@ -1,0 +1,5407 @@
+/* Produtos | Adicionar Produtos */
+
+position: relative;
+width: 1440px;
+height: 2747px;
+
+background: #FFFFFF;
+
+
+/* Search */
+
+position: absolute;
+width: 1064px;
+height: 40px;
+left: 344px;
+top: 37px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 451px;
+height: 40px;
+left: 344px;
+top: 37px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 451px;
+height: 40px;
+left: 344px;
+top: 37px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* Pesquisar */
+
+position: absolute;
+width: 67px;
+height: 17px;
+left: 362px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* interface/so-find */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 759px;
+top: 47px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 12.5%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* ion:notifcations */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 1229px;
+top: 45px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.47%;
+right: 12.47%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #616161;
+
+
+/* Group 2 */
+
+position: absolute;
+left: 57.14%;
+right: 0%;
+top: 2.86%;
+bottom: 54.29%;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+left: 57.14%;
+right: 0%;
+top: 2.86%;
+bottom: 54.29%;
+
+background: #4EBF5F;
+
+
+/* 5 */
+
+position: absolute;
+left: 69.2%;
+right: 10.8%;
+top: 4%;
+bottom: 61.71%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* User */
+
+position: absolute;
+width: 122px;
+height: 40px;
+left: 1286px;
+top: 37px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1286px;
+top: 37px;
+
+background: url(Perfil 2.png);
+
+
+/* WiseCode */
+
+position: absolute;
+width: 71px;
+height: 17px;
+left: 1337px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Total de pedidos */
+
+position: absolute;
+width: 1064px;
+height: 942px;
+left: 344px;
+top: 230px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1064px;
+height: 942px;
+left: 344px;
+top: 230px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 954px;
+height: 40px;
+left: 435px;
+top: 595px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 595px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 595px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Código do produto */
+
+position: absolute;
+width: 128px;
+height: 17px;
+left: 529px;
+top: 607px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Código */
+
+position: absolute;
+width: 49px;
+height: 17px;
+left: 435px;
+top: 607px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 947px;
+height: 40px;
+left: 442px;
+top: 652px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 652px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 652px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Marca do produto */
+
+position: absolute;
+width: 122px;
+height: 17px;
+left: 529px;
+top: 664px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Marca */
+
+position: absolute;
+width: 42px;
+height: 17px;
+left: 442px;
+top: 664px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 983px;
+height: 40px;
+left: 406px;
+top: 709px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 709px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 709px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Icons */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1357px;
+top: 723px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.22%;
+right: 6.2%;
+top: 24.95%;
+bottom: 28.13%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Fornecedor do produto */
+
+position: absolute;
+width: 157px;
+height: 17px;
+left: 529px;
+top: 721px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Fornecedor */
+
+position: absolute;
+width: 78px;
+height: 17px;
+left: 406px;
+top: 721px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 985px;
+height: 40px;
+left: 404px;
+top: 766px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 766px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 766px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Icons */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1357px;
+top: 780px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.22%;
+right: 6.2%;
+top: 24.96%;
+bottom: 28.12%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Fabricante do produto */
+
+position: absolute;
+width: 152px;
+height: 17px;
+left: 529px;
+top: 778px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Fabricantes */
+
+position: absolute;
+width: 80px;
+height: 17px;
+left: 404px;
+top: 778px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 1018px;
+height: 40px;
+left: 371px;
+top: 823px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 823px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 823px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Número da peça do fabricante */
+
+position: absolute;
+width: 207px;
+height: 17px;
+left: 529px;
+top: 835px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Número da Peça */
+
+position: absolute;
+width: 113px;
+height: 17px;
+left: 371px;
+top: 835px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 972px;
+height: 40px;
+left: 417px;
+top: 880px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 880px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 880px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Categoria do Produto */
+
+position: absolute;
+width: 146px;
+height: 17px;
+left: 529px;
+top: 892px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Catégoria */
+
+position: absolute;
+width: 67px;
+height: 17px;
+left: 417px;
+top: 892px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 979px;
+height: 40px;
+left: 410px;
+top: 937px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 937px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 937px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Montadora do Produto */
+
+position: absolute;
+width: 154px;
+height: 17px;
+left: 529px;
+top: 949px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Montadora */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 410px;
+top: 949px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 956px;
+height: 40px;
+left: 433px;
+top: 994px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 994px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 994px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Modelo do Produto */
+
+position: absolute;
+width: 130px;
+height: 17px;
+left: 529px;
+top: 1006px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Modelo */
+
+position: absolute;
+width: 51px;
+height: 17px;
+left: 433px;
+top: 1006px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 932px;
+height: 40px;
+left: 457px;
+top: 1051px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 1051px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 1051px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Ano do Produto */
+
+position: absolute;
+width: 106px;
+height: 17px;
+left: 529px;
+top: 1063px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Ano */
+
+position: absolute;
+width: 27px;
+height: 17px;
+left: 457px;
+top: 1063px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 946px;
+height: 40px;
+left: 443px;
+top: 1108px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 1108px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 1108px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Modelo do motor */
+
+position: absolute;
+width: 117px;
+height: 17px;
+left: 529px;
+top: 1120px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Motor */
+
+position: absolute;
+width: 41px;
+height: 17px;
+left: 443px;
+top: 1120px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 1024px;
+height: 40px;
+left: 365px;
+top: 291px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 291px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 291px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 119px;
+height: 17px;
+left: 529px;
+top: 303px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 119px;
+height: 17px;
+left: 365px;
+top: 303px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Categoria */
+
+position: absolute;
+width: 973px;
+height: 230px;
+left: 416px;
+top: 348px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 230px;
+left: 511px;
+top: 348px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 230px;
+left: 511px;
+top: 348px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Texto.... */
+
+position: absolute;
+width: 54px;
+height: 17px;
+left: 529px;
+top: 454px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Rectangle 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 1px;
+left: 511px;
+top: 389px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Rectangle 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 1px;
+left: 511px;
+top: 435px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* tabler:italic */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 953px;
+top: 402px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 2.08333px solid #616161;
+
+
+/* B */
+
+position: absolute;
+width: 13px;
+height: 14px;
+left: 927px;
+top: 405px;
+
+background: #616161;
+
+
+/* Parágrafo */
+
+position: absolute;
+width: 90px;
+height: 17px;
+left: 618px;
+top: 405px;
+
+
+
+/* Parágrafo */
+
+position: absolute;
+width: 67px;
+height: 17px;
+left: 618px;
+top: 405px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 700px;
+top: 410px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 24.95%;
+bottom: 28.13%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Fontes */
+
+position: absolute;
+width: 69px;
+height: 17px;
+left: 745px;
+top: 405px;
+
+
+
+/* Fontes */
+
+position: absolute;
+width: 46px;
+height: 17px;
+left: 745px;
+top: 405px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 806px;
+top: 410px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 24.95%;
+bottom: 28.13%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Tamanho */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 851px;
+top: 405px;
+
+
+
+/* 12 */
+
+position: absolute;
+width: 16px;
+height: 17px;
+left: 851px;
+top: 405px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 882px;
+top: 410px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 24.95%;
+bottom: 28.13%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Sessao */
+
+position: absolute;
+width: 474px;
+height: 17px;
+left: 529px;
+top: 360px;
+
+
+
+/* Arquivo */
+
+position: absolute;
+width: 52px;
+height: 17px;
+left: 529px;
+top: 360px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Editar */
+
+position: absolute;
+width: 40px;
+height: 17px;
+left: 596px;
+top: 360px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Visualizar */
+
+position: absolute;
+width: 66px;
+height: 17px;
+left: 651px;
+top: 360px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Inserir */
+
+position: absolute;
+width: 43px;
+height: 17px;
+left: 732px;
+top: 360px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Formatar */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 790px;
+top: 360px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Ferramentas */
+
+position: absolute;
+width: 85px;
+height: 17px;
+left: 866px;
+top: 360px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Mesa */
+
+position: absolute;
+width: 37px;
+height: 17px;
+left: 966px;
+top: 360px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Desfazer | Refazer */
+
+position: absolute;
+width: 52px;
+height: 20px;
+left: 529px;
+top: 403px;
+
+
+
+/* mdi:arrow-up-left */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 529px;
+top: 403px;
+
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 10.42%;
+top: 10.42%;
+bottom: 22.92%;
+
+background: #616161;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* mdi:arrow-up-left */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 581px;
+top: 403px;
+
+transform: rotate(90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 83.33%;
+right: -56.25%;
+top: 10.42%;
+bottom: 22.92%;
+
+background: #616161;
+transform: rotate(90deg);
+
+
+/* Rectangle 61 */
+
+position: absolute;
+width: 1px;
+height: 46px;
+left: 599px;
+top: 389px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 62 */
+
+position: absolute;
+width: 1px;
+height: 46px;
+left: 726px;
+top: 389px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 63 */
+
+position: absolute;
+width: 1px;
+height: 46px;
+left: 832px;
+top: 389px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 64 */
+
+position: absolute;
+width: 1px;
+height: 46px;
+left: 908px;
+top: 389px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 65 */
+
+position: absolute;
+width: 1px;
+height: 46px;
+left: 991px;
+top: 389px;
+
+background: #D9D9D9;
+
+
+/* Descrição */
+
+position: absolute;
+width: 68px;
+height: 17px;
+left: 416px;
+top: 360px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Titulo */
+
+position: absolute;
+width: 187px;
+height: 17px;
+left: 364px;
+top: 249px;
+
+
+
+/* Informações do produto */
+
+position: absolute;
+width: 164px;
+height: 17px;
+left: 387px;
+top: 249px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* interface/so-find */
+
+position: absolute;
+left: 25.28%;
+right: 73.68%;
+top: 9.14%;
+bottom: 90.32%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.34%;
+right: 12.5%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Total de pedidos */
+
+position: absolute;
+width: 1064px;
+height: 186px;
+left: 344px;
+top: 1204px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1064px;
+height: 186px;
+left: 344px;
+top: 1204px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 944px;
+height: 40px;
+left: 445px;
+top: 1265px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 1265px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 1265px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* R$ 0,00 */
+
+position: absolute;
+width: 53px;
+height: 17px;
+left: 529px;
+top: 1277px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Preço */
+
+position: absolute;
+width: 39px;
+height: 17px;
+left: 445px;
+top: 1277px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 978px;
+height: 40px;
+left: 413px;
+top: 1322px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 1322px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 1322px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0% */
+
+position: absolute;
+width: 21px;
+height: 17px;
+left: 531px;
+top: 1334px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Descontos */
+
+position: absolute;
+width: 73px;
+height: 17px;
+left: 413px;
+top: 1334px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Titulo */
+
+position: absolute;
+width: 142px;
+height: 17px;
+left: 364px;
+top: 1223px;
+
+
+
+/* solar:tag-price-broken */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 364px;
+top: 1224px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 27.53%;
+right: 33.8%;
+top: 28.66%;
+bottom: 33.81%;
+
+border: 1.5625px solid #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 1.5625px solid #616161;
+
+
+/* Preço do produto */
+
+position: absolute;
+width: 119px;
+height: 17px;
+left: 387px;
+top: 1223px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Total de pedidos */
+
+position: absolute;
+width: 1064px;
+height: 449px;
+left: 344px;
+top: 1422px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1064px;
+height: 449px;
+left: 344px;
+top: 1422px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Categoria */
+
+position: absolute;
+width: 120px;
+height: 17px;
+left: 408px;
+top: 1825px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 513px;
+top: 1826px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 513px;
+top: 1826px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 78px;
+height: 17px;
+left: 408px;
+top: 1825px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 939px;
+height: 40px;
+left: 450px;
+top: 1483px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 1483px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 1483px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 KG */
+
+position: absolute;
+width: 33px;
+height: 17px;
+left: 529px;
+top: 1495px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Peso */
+
+position: absolute;
+width: 34px;
+height: 17px;
+left: 450px;
+top: 1495px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 997px;
+height: 40px;
+left: 394px;
+top: 1540px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 1540px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 1540px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 CM */
+
+position: absolute;
+width: 36px;
+height: 17px;
+left: 531px;
+top: 1552px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Comprimento */
+
+position: absolute;
+width: 92px;
+height: 17px;
+left: 394px;
+top: 1552px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 957px;
+height: 40px;
+left: 434px;
+top: 1597px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 1597px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 1597px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 CM */
+
+position: absolute;
+width: 36px;
+height: 17px;
+left: 531px;
+top: 1609px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Largura */
+
+position: absolute;
+width: 52px;
+height: 17px;
+left: 434px;
+top: 1609px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 946px;
+height: 40px;
+left: 445px;
+top: 1654px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 1654px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 1654px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 CM */
+
+position: absolute;
+width: 36px;
+height: 17px;
+left: 531px;
+top: 1666px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Altura */
+
+position: absolute;
+width: 41px;
+height: 17px;
+left: 445px;
+top: 1666px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 999px;
+height: 40px;
+left: 392px;
+top: 1711px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 1711px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 1711px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* R$ 0,00 | Taxa Adicional */
+
+position: absolute;
+width: 164px;
+height: 17px;
+left: 531px;
+top: 1723px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Taxa de envio */
+
+position: absolute;
+width: 94px;
+height: 17px;
+left: 392px;
+top: 1723px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 1015px;
+height: 40px;
+left: 376px;
+top: 1768px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 1768px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 1768px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Icons */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1359px;
+top: 1782px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.22%;
+right: 6.2%;
+top: 24.96%;
+bottom: 28.12%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Nenhum */
+
+position: absolute;
+width: 57px;
+height: 17px;
+left: 531px;
+top: 1780px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Data de entrega */
+
+position: absolute;
+width: 110px;
+height: 17px;
+left: 376px;
+top: 1780px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Titulo */
+
+position: absolute;
+width: 60px;
+height: 17px;
+left: 364px;
+top: 1441px;
+
+
+
+/* la:shipping-fast */
+
+position: absolute;
+left: 25.28%;
+right: 73.68%;
+top: 52.49%;
+bottom: 46.96%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 18.75%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Envio */
+
+position: absolute;
+width: 37px;
+height: 17px;
+left: 387px;
+top: 1441px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Total de pedidos */
+
+position: absolute;
+width: 1064px;
+height: 269px;
+left: 344px;
+top: 1903px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1064px;
+height: 269px;
+left: 344px;
+top: 1903px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Categoria */
+
+position: absolute;
+width: 164px;
+height: 17px;
+left: 364px;
+top: 2135px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 513px;
+top: 2136px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 513px;
+top: 2136px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Não reembolsável */
+
+position: absolute;
+width: 122px;
+height: 17px;
+left: 364px;
+top: 2135px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 983px;
+height: 40px;
+left: 406px;
+top: 1964px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 1964px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 511px;
+top: 1964px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 | Quantidade Mínima no carrinho */
+
+position: absolute;
+width: 235px;
+height: 17px;
+left: 529px;
+top: 1976px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Qtd Mínima */
+
+position: absolute;
+width: 78px;
+height: 17px;
+left: 406px;
+top: 1976px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 987px;
+height: 40px;
+left: 404px;
+top: 2021px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 2021px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 2021px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 | Quantidade Máxima no carrinho */
+
+position: absolute;
+width: 239px;
+height: 17px;
+left: 531px;
+top: 2033px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Qtd Máxima */
+
+position: absolute;
+width: 82px;
+height: 17px;
+left: 404px;
+top: 2033px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome do produto */
+
+position: absolute;
+width: 1006px;
+height: 40px;
+left: 385px;
+top: 2078px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 2078px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 878px;
+height: 40px;
+left: 513px;
+top: 2078px;
+
+background: #FFFFFF;
+border: 0.5px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 0 | Quantidade Permitidas */
+
+position: absolute;
+width: 177px;
+height: 17px;
+left: 531px;
+top: 2090px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* Qtd Permitidas */
+
+position: absolute;
+width: 101px;
+height: 17px;
+left: 385px;
+top: 2090px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Titulo */
+
+position: absolute;
+width: 91px;
+height: 17px;
+left: 364px;
+top: 1922px;
+
+
+
+/* gridicons:product */
+
+position: absolute;
+left: 25.28%;
+right: 73.68%;
+top: 70.02%;
+bottom: 29.43%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Inventário */
+
+position: absolute;
+width: 68px;
+height: 17px;
+left: 387px;
+top: 1922px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Total de pedidos */
+
+position: absolute;
+width: 1064px;
+height: 285px;
+left: 344px;
+top: 2204px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1064px;
+height: 285px;
+left: 344px;
+top: 2204px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Imagens */
+
+position: absolute;
+width: 1044px;
+height: 102px;
+left: 354px;
+top: 2256px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1044px;
+height: 102px;
+left: 354px;
+top: 2256px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1044px;
+height: 1px;
+left: 354px;
+top: 2306px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Sessao */
+
+position: absolute;
+width: 662px;
+height: 69px;
+left: 708px;
+top: 2272px;
+
+
+
+/* Ordem de exibição */
+
+position: absolute;
+width: 128px;
+height: 17px;
+left: 708px;
+top: 2272px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Não há imagens disponíveis */
+
+position: absolute;
+width: 190px;
+height: 17px;
+left: 781px;
+top: 2324px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Excluir */
+
+position: absolute;
+width: 45px;
+height: 17px;
+left: 1325px;
+top: 2272px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Imagens */
+
+position: absolute;
+width: 58px;
+height: 17px;
+left: 366px;
+top: 2272px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Imagens */
+
+position: absolute;
+width: 1044px;
+height: 102px;
+left: 354px;
+top: 2374px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1044px;
+height: 102px;
+left: 354px;
+top: 2374px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 1024px;
+height: 40px;
+left: 365px;
+top: 2430px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1024px;
+height: 40px;
+left: 365px;
+top: 2430px;
+
+background: #4EBF5F;
+border: 0.5px solid #1EB564;
+border-radius: 5px;
+
+
+/* Carregar Arquivos */
+
+position: absolute;
+width: 123px;
+height: 17px;
+left: 814px;
+top: 2441px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1044px;
+height: 1px;
+left: 354px;
+top: 2424px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Adicionar imagens */
+
+position: absolute;
+width: 125px;
+height: 17px;
+left: 366px;
+top: 2390px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Titulo */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 364px;
+top: 2223px;
+
+
+
+/* clarity:picture-line */
+
+position: absolute;
+left: 25.28%;
+right: 73.68%;
+top: 80.96%;
+bottom: 18.49%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 5.55%;
+right: 5.56%;
+top: 11.11%;
+bottom: 11.11%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.45%;
+right: 66.89%;
+top: 22.22%;
+bottom: 61.11%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.45%;
+right: 16.67%;
+top: 41.89%;
+bottom: 27.97%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Imagens */
+
+position: absolute;
+width: 58px;
+height: 17px;
+left: 387px;
+top: 2223px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Total de pedidos */
+
+position: absolute;
+width: 1064px;
+height: 177px;
+left: 344px;
+top: 2521px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1064px;
+height: 177px;
+left: 344px;
+top: 2521px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Imagens */
+
+position: absolute;
+width: 1044px;
+height: 102px;
+left: 354px;
+top: 2573px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1044px;
+height: 102px;
+left: 354px;
+top: 2573px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1044px;
+height: 1px;
+left: 354px;
+top: 2623px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Sessao */
+
+position: absolute;
+width: 101px;
+height: 17px;
+left: 826px;
+top: 2641px;
+
+
+
+/* Não há vendas */
+
+position: absolute;
+width: 101px;
+height: 17px;
+left: 826px;
+top: 2641px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Aqui você pode ver uma lista de pedidos nos quais este produto foi comprado. */
+
+position: absolute;
+width: 535px;
+height: 17px;
+left: 366px;
+top: 2589px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Titulo */
+
+position: absolute;
+width: 73px;
+height: 17px;
+left: 364px;
+top: 2540px;
+
+
+
+/* clarity:picture-line */
+
+position: absolute;
+left: 25.28%;
+right: 73.68%;
+top: 92.5%;
+bottom: 6.95%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 5.55%;
+right: 5.56%;
+top: 11.11%;
+bottom: 11.11%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.45%;
+right: 66.89%;
+top: 22.22%;
+bottom: 61.11%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.45%;
+right: 16.67%;
+top: 41.89%;
+bottom: 27.97%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vendas */
+
+position: absolute;
+width: 50px;
+height: 17px;
+left: 387px;
+top: 2540px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Navbar */
+
+position: absolute;
+width: 312px;
+height: 1020px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 312px;
+height: 1020px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-right: 1px solid #EDEDED;
+
+
+/* Navbar */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+position: absolute;
+width: 311px;
+height: 578px;
+left: 0px;
+top: 124px;
+
+
+
+/* 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+width: nanpx;
+height: nanpx;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+visibility: hidden;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+visibility: hidden;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* ic:round-dashboard-customize */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Dashboard */
+
+width: 75px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* mdi:cart */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Pedidos */
+
+width: 56px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 283px;
+top: 28px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 75.05%;
+bottom: -21.97%;
+
+background: #616161;
+border: 0.5px solid #616161;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* gridicons:product */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 12.5%;
+bottom: 8.33%;
+
+background: #616161;
+
+
+/* Produtos */
+
+width: 63px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Icons */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 283px;
+top: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 24.95%;
+bottom: 28.13%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Sub */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+width: 311px;
+height: 207px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 12 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* ep:list */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 9.38%;
+bottom: 9.38%;
+
+background: #616161;
+
+
+/* Lista de produtos */
+
+width: 120px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 9 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* basil:add-solid */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.73%;
+right: 15.72%;
+top: 15.67%;
+bottom: 15.67%;
+
+background: #616161;
+
+
+/* Adicionar Produtos */
+
+width: 132px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* carbon:network-enterprise */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Vector */
+
+position: absolute;
+left: -0.02%;
+right: 19.38%;
+top: 6.25%;
+bottom: 21.87%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.25%;
+right: 6.25%;
+top: 37.5%;
+bottom: 6.25%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 18.75%;
+top: 50%;
+bottom: 18.75%;
+
+background: #616161;
+
+
+/* Fabricantes */
+
+width: 81px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px 12px 62px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* tabler:brand-itch */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 12.53%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 12.53%;
+
+border: 2.08333px solid #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.66%;
+right: 41.67%;
+top: 58.33%;
+bottom: 25%;
+
+border: 2.08333px solid #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Marcas */
+
+width: 51px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* carbon:enterprise */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 50%;
+top: 25%;
+bottom: 25%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Fornecedores */
+
+width: 95px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* fluent:people-24-filled */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Clientes */
+
+width: 57px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 8 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* ph:credit-card */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Crédito do Zé */
+
+width: 94px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+width: 311px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* hugeicons:web-design-01 */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.42%;
+right: 10.42%;
+top: 10.42%;
+bottom: 10.42%;
+
+border: 1.5625px solid #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Editar */
+
+width: 48px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 829px;
+
+
+
+/* icon-park-outline:config */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2.08333px solid #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 2.08333px solid #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Configuração */
+
+width: 94px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 27px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 882px;
+
+
+
+/* material-symbols:logout */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Group 86 */
+
+position: absolute;
+display: none;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 311px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 311px;
+top: 0px;
+
+background: #4EBF5F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Sair */
+
+width: 94px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 93px;
+top: 32px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 93px;
+top: 32px;
+
+background: url(LogoPrancheta 11Versão.png);
+
+
+/* Infos */
+
+position: absolute;
+width: 750px;
+height: 74px;
+left: 344px;
+top: 124px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 750px;
+height: 74px;
+left: 344px;
+top: 124px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 750px;
+height: 74px;
+left: 344px;
+top: 124px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 226px;
+height: 44px;
+left: 359px;
+top: 139px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 226px;
+height: 44px;
+left: 359px;
+top: 139px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 226px;
+height: 44px;
+left: 359px;
+top: 139px;
+
+background: #4EBF5F;
+border: 1px solid #1EB564;
+border-radius: 10px;
+
+
+/* Texto */
+
+position: absolute;
+width: 68px;
+height: 17px;
+left: 438px;
+top: 152px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 438px;
+top: 153px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Salvar */
+
+position: absolute;
+width: 42px;
+height: 17px;
+left: 464px;
+top: 152px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* + */
+
+position: absolute;
+width: 6.56px;
+height: 6.56px;
+left: 443px;
+top: 158px;
+
+background: #4EBF5F;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 246px;
+height: 44px;
+left: 605px;
+top: 139px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 246px;
+height: 44px;
+left: 605px;
+top: 139px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 246px;
+height: 44px;
+left: 605px;
+top: 139px;
+
+background: #4EBF82;
+border: 1px solid #1EB564;
+border-radius: 10px;
+
+
+/* Texto */
+
+position: absolute;
+width: 213px;
+height: 17px;
+left: 624px;
+top: 152px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 624px;
+top: 153px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Salvar e continuar editando */
+
+position: absolute;
+width: 187px;
+height: 17px;
+left: 650px;
+top: 152px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* teenyicons:pdf-outline */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 628px;
+top: 157px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 6.67%;
+top: 0%;
+bottom: 0%;
+
+background: #4EBF82;
+
+
+/* Adicionar Produto */
+
+position: absolute;
+width: 202px;
+height: 44px;
+left: 871px;
+top: 139px;
+
+
+
+/* Infos */
+
+position: absolute;
+width: 202px;
+height: 44px;
+left: 871px;
+top: 139px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 202px;
+height: 44px;
+left: 871px;
+top: 139px;
+
+background: #B51E1E;
+border: 1px solid #9E1313;
+border-radius: 10px;
+
+
+/* Texto */
+
+position: absolute;
+width: 71px;
+height: 17px;
+left: 936px;
+top: 152px;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 936px;
+top: 153px;
+
+background: #FFFFFF;
+border-radius: 5px;
+
+
+/* Excluir */
+
+position: absolute;
+width: 45px;
+height: 17px;
+left: 962px;
+top: 152px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* typcn:delete */
+
+position: absolute;
+left: 65.28%;
+right: 34.17%;
+top: 5.72%;
+bottom: 93.99%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.66%;
+right: 16.67%;
+top: 16.66%;
+bottom: 16.67%;
+
+background: #B51E1E;
+
+
+/* tabler:italic */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 908px;
+top: 287px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 2.08333px solid #616161;

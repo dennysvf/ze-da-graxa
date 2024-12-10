@@ -1,0 +1,14 @@
+// Shadows
+$shadow-card: 0px 2px 4px rgba(0, 0, 0, 0.05);
+$shadow-dropdown: 0px 4px 6px rgba(0, 0, 0, 0.1);
+
+// Transitions
+$transition-default: all 0.3s ease;
+$transition-fast: all 0.2s ease;
+
+:export {
+  shadowCard: $shadow-card;
+  shadowDropdown: $shadow-dropdown;
+  transitionDefault: $transition-default;
+  transitionFast: $transition-fast;
+}

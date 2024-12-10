@@ -1,0 +1,73 @@
+@import '../../styles/tokens/colors';
+@import '../../styles/tokens/typography';
+@import '../../styles/tokens/spacing';
+@import '../../styles/tokens/effects';
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  padding: 32px;
+}
+
+.content {
+  text-align: center;
+  max-width: 480px;
+}
+
+.icon {
+  color: #FF4D4F;
+  margin-bottom: 24px;
+}
+
+.title {
+  margin: 0 0 16px;
+  color: $text-primary;
+  font-size: $font-size-h2;
+  font-weight: $font-weight-semibold;
+}
+
+.message {
+  margin: 0 0 24px;
+  color: $text-primary;
+  font-size: $font-size-body;
+  line-height: 1.5;
+}
+
+.errorDetails {
+  margin: 24px 0;
+  padding: 16px;
+  background: rgba(#FF4D4F, 0.1);
+  border-radius: $border-radius-default;
+  color: #CF1322;
+  font-size: $font-size-small;
+  text-align: left;
+  overflow-x: auto;
+  white-space: pre-wrap;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  padding: 0 24px;
+  background: $primary-green;
+  color: $white;
+  border: none;
+  border-radius: $border-radius-default;
+  font-size: $font-size-body;
+  font-weight: $font-weight-medium;
+  cursor: pointer;
+  transition: $transition-fast;
+
+  &:hover {
+    opacity: $hover-opacity;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $primary-green;
+    outline-offset: 2px;
+  }
+}

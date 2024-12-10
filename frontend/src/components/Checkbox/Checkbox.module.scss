@@ -1,0 +1,152 @@
+@import '../../styles/tokens/colors';
+@import '../../styles/tokens/typography';
+@import '../../styles/tokens/spacing';
+@import '../../styles/tokens/effects';
+
+.container {
+  display: inline-flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+  margin: var(--spacing-md) 0;
+}
+
+.inputWrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  position: relative;
+  min-height: 44px;
+  padding: var(--spacing-unit);
+}
+
+.input {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+
+  &:focus-visible + .checkbox {
+    box-shadow: var(--focus-ring);
+  }
+
+  &:checked + .checkbox {
+    background-color: var(--primary-green);
+    border-color: var(--primary-green);
+
+    .checkmark {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+}
+
+.checkbox {
+  width: 20px;
+  height: 20px;
+  border: 2px solid var(--border);
+  border-radius: var(--border-radius-sm);
+  background-color: var(--background);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--transition-fast);
+  flex-shrink: 0;
+
+  &:hover:not([data-state='disabled']) {
+    box-shadow: var(--shadow-sm);
+    border-color: var(--primary-green);
+  }
+
+  .checkmark {
+    width: 14px;
+    height: 14px;
+    stroke: var(--background);
+    opacity: 0;
+    transform: scale(0.8);
+    transition: all var(--transition-fast);
+  }
+}
+
+.label {
+  font-family: var(--font-family-primary);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-regular);
+  color: var(--text-primary);
+  user-select: none;
+  cursor: pointer;
+}
+
+.required {
+  color: var(--error);
+  margin-left: var(--spacing-xs);
+}
+
+.hint {
+  font-size: var(--font-size-xs);
+  color: var(--text-secondary);
+  margin-left: calc(20px + var(--spacing-xs));
+}
+
+.errorHint {
+  color: var(--error);
+}
+
+// Estados
+.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+
+  .label,
+  .checkbox {
+    cursor: not-allowed;
+  }
+
+  .checkbox {
+    background-color: var(--text-disabled);
+    border-color: var(--text-disabled);
+  }
+}
+
+.error {
+  .checkbox {
+    border-color: var(--error);
+  }
+
+  .input:checked + .checkbox {
+    background-color: var(--error);
+    border-color: var(--error);
+  }
+}
+
+// Animações
+@keyframes checkmark {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+// Responsividade
+@media (max-width: 768px) {
+  .inputWrapper {
+    min-height: 40px;
+  }
+
+  .checkbox {
+    width: 18px;
+    height: 18px;
+  }
+}

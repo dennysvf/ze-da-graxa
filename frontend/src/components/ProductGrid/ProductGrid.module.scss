@@ -1,0 +1,43 @@
+@use '../../styles/tokens' as *;
+
+.grid {
+  display: grid;
+  gap: $spacing-large;
+  width: 100%;
+}
+
+.grid.grid {
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+.grid.list {
+  grid-template-columns: 1fr;
+}
+
+.loading,
+.empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: $spacing-xlarge;
+  color: $text-secondary;
+  text-align: center;
+  min-height: 300px;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid $background;
+  border-top-color: $primary-green;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: $spacing-medium;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

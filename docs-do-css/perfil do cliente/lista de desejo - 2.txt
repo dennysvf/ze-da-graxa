@@ -1,0 +1,1195 @@
+/* Lista de desejo - 2 */
+
+position: relative;
+width: 1440px;
+height: 1020px;
+
+background: #FFFFFF;
+
+
+/* Catégorias */
+
+position: absolute;
+width: 1200px;
+height: 49px;
+left: 120px;
+top: 140px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 1200px;
+height: 1px;
+left: 120px;
+top: 140px;
+
+background: #F5FBF3;
+
+
+/* Menus */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 50px;
+
+position: absolute;
+width: 693px;
+height: 15px;
+left: 373px;
+top: 174px;
+
+
+
+/* Acessórios */
+
+width: 75px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Motor */
+
+width: 41px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Suspensão */
+
+width: 75px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Freios */
+
+width: 42px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Transmissão */
+
+width: 86px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Direção Hidráulica */
+
+width: 124px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Navbar */
+
+position: absolute;
+width: 1200px;
+height: 40px;
+left: 120px;
+top: 70px;
+
+
+
+/* Barra de pesquisa */
+
+position: absolute;
+width: 630px;
+height: 40px;
+left: 405px;
+top: 70px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 630px;
+height: 40px;
+left: 405px;
+top: 70px;
+
+background: #F5F5F5;
+border-radius: 15px;
+
+
+/* Encontre seu produto... */
+
+position: absolute;
+width: 159px;
+height: 17px;
+left: 423px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #9998A5;
+
+
+
+/* interface/so-find */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 997px;
+top: 80px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.34%;
+right: 12.5%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #616161;
+
+
+/* Icones */
+
+position: absolute;
+width: 230px;
+height: 25px;
+left: 1090px;
+top: 77px;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 121px;
+height: 25px;
+left: 1090px;
+top: 77px;
+
+
+
+/* Minha Conta */
+
+position: absolute;
+width: 86px;
+height: 15px;
+left: 1125px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* icon-park-outline:people */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 1090px;
+top: 77px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #616161;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 88px;
+height: 25px;
+left: 1232px;
+top: 77px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 85.56%;
+right: 12.71%;
+top: 7.55%;
+bottom: 90%;
+
+background: #616161;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 10.71px;
+height: 10.71px;
+left: 1246.29px;
+top: 77.71px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 10.71px;
+height: 10.71px;
+left: 1246.29px;
+top: 77.71px;
+
+background: #58D899;
+
+
+/* 5 */
+
+position: absolute;
+width: 5px;
+height: 8.57px;
+left: 1249.3px;
+top: 78px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 8px;
+line-height: 10px;
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* R$ 0,00 */
+
+position: absolute;
+width: 53px;
+height: 15px;
+left: 1267px;
+top: 82px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 120px;
+top: 74px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 120px;
+top: 74px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Home / Minha conta */
+
+position: absolute;
+width: 137px;
+height: 15px;
+left: 120px;
+top: 244px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Filtro */
+
+position: absolute;
+width: 288px;
+height: 228px;
+left: 120px;
+top: 303px;
+
+
+
+/* Rectangle 33 */
+
+position: absolute;
+width: 288px;
+height: 228px;
+left: 120px;
+top: 303px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* Catégorias */
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 303px;
+
+
+
+/* Group 63 */
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 303px;
+
+
+
+/* Rectangle 34 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 303px;
+
+background: #F5F5F5;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Group 83 */
+
+position: absolute;
+width: 61px;
+height: 17px;
+left: 135px;
+top: 314px;
+
+
+
+/* Perfil */
+
+position: absolute;
+width: 36px;
+height: 17px;
+left: 160px;
+top: 314px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* icon-park-solid:people */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 135px;
+top: 315px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #616161;
+border: 3.33333px solid #616161;
+
+
+/* Catégorias */
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 350px;
+
+
+
+/* Group 63 */
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 350px;
+
+
+
+/* Rectangle 34 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 350px;
+
+background: #F5F5F5;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Group 83 */
+
+position: absolute;
+width: 121px;
+height: 17px;
+left: 135px;
+top: 361px;
+
+
+
+/* Meus Pedidos */
+
+position: absolute;
+width: 96px;
+height: 17px;
+left: 160px;
+top: 361px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 89.51%;
+top: 35.39%;
+bottom: 63.04%;
+
+background: #616161;
+
+
+/* Catégorias */
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 397px;
+
+
+
+/* Group 63 */
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 397px;
+
+
+
+/* Rectangle 34 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 397px;
+
+background: #F5F5F5;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Group 83 */
+
+position: absolute;
+width: 118px;
+height: 17px;
+left: 135px;
+top: 408px;
+
+
+
+/* Alterar Senha */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 160px;
+top: 408px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* mdi:password-off */
+
+position: absolute;
+left: 9.38%;
+right: 89.58%;
+top: 40.1%;
+bottom: 58.43%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.63%;
+right: 7.87%;
+top: 4.17%;
+bottom: 5.29%;
+
+background: #616161;
+
+
+/* Catégorias */
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 444px;
+
+
+
+/* Group 63 */
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 444px;
+
+
+
+/* Rectangle 34 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 444px;
+
+background: #F5F5F5;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Rectangle 35 */
+
+position: absolute;
+width: 4px;
+height: 40px;
+left: 404px;
+top: 444px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Group 83 */
+
+position: absolute;
+width: 128px;
+height: 17px;
+left: 135px;
+top: 455px;
+
+
+
+/* Lista de desejo */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 160px;
+top: 455px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 89.58%;
+top: 44.71%;
+bottom: 53.9%;
+
+background: #616161;
+
+
+/* Catégorias */
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 491px;
+
+
+
+/* Group 63 */
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 491px;
+
+
+
+/* Rectangle 34 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 40px;
+left: 120px;
+top: 491px;
+
+background: #F5F5F5;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Group 83 */
+
+position: absolute;
+width: 118px;
+height: 17px;
+left: 135px;
+top: 502px;
+
+
+
+/* Crédito do Zé */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 160px;
+top: 502px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* icon-park-solid:people */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 135px;
+top: 503px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 0%;
+top: 20%;
+bottom: 17.78%;
+
+background: #616161;
+
+
+/* Minha conta */
+
+position: absolute;
+width: 896px;
+height: 280px;
+left: 424px;
+top: 303px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 896px;
+height: 228px;
+left: 424px;
+top: 329px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Minha conta */
+
+position: absolute;
+width: 896px;
+height: 280px;
+left: 424px;
+top: 303px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 896px;
+height: 280px;
+left: 424px;
+top: 303px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* + = */
+
+position: absolute;
+width: 4px;
+height: 1px;
+left: 784px;
+top: 502px;
+
+
+
+/* - */
+
+position: absolute;
+width: 4px;
+height: 1px;
+left: 784px;
+top: 502px;
+
+background: #616161;
+
+
+/* -------------------------------------------------------------------------------------------------------------------------------- */
+
+position: absolute;
+width: 850px;
+height: 17px;
+left: 444px;
+top: 409px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: rgba(97, 97, 97, 0.3);
+
+
+
+/* -------------------------------------------------------------------------------------------------------------------------------- */
+
+position: absolute;
+width: 850px;
+height: 17px;
+left: 444px;
+top: 547px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: rgba(97, 97, 97, 0.3);
+
+
+
+/* Produto */
+
+position: absolute;
+width: 850px;
+height: 85px;
+left: 444px;
+top: 444px;
+
+
+
+/* Group 69 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 444px;
+top: 444px;
+
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 444px;
+top: 444px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 62px;
+height: 64.31px;
+left: 456px;
+top: 455px;
+
+background: url(image-removebg-preview (10).png);
+
+
+/* Group 84 */
+
+position: absolute;
+width: 120px;
+height: 30px;
+left: 1174px;
+top: 472px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 88.96%;
+right: 10.14%;
+top: 47.06%;
+bottom: 51.67%;
+
+background: #616161;
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 94px;
+height: 30px;
+left: 1174px;
+top: 472px;
+
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Ver Produto */
+
+position: absolute;
+width: 59px;
+height: 12px;
+left: 1192px;
+top: 481px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 86 */
+
+position: absolute;
+width: 583px;
+height: 30px;
+left: 543px;
+top: 472px;
+
+
+
+/* Bomba de Alta Pressão CP3 Cummins ISB 0445020007 / 0445020175 AFTERMARKET */
+
+position: absolute;
+width: 274px;
+height: 30px;
+left: 543px;
+top: 472px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Marca: Ford */
+
+position: absolute;
+width: 70px;
+height: 15px;
+left: 864px;
+top: 479px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Código: AF-0445020175 */
+
+position: absolute;
+width: 145px;
+height: 15px;
+left: 981px;
+top: 479px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Produto */
+
+position: absolute;
+width: 54px;
+height: 17px;
+left: 542px;
+top: 369px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Lista de Desejo */
+
+position: absolute;
+width: 106px;
+height: 17px;
+left: 444px;
+top: 323px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+

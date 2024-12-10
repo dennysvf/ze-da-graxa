@@ -1,0 +1,1142 @@
+/* Finalizar comprar - Boleto */
+
+position: relative;
+width: 1440px;
+height: 1049px;
+
+background: #FFFFFF;
+
+
+/* Navbar */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 656px;
+top: 77px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 656px;
+top: 77px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 656px;
+top: 77px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Minha conta */
+
+position: absolute;
+width: 206px;
+height: 196px;
+left: 120px;
+top: 188px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 206px;
+height: 196px;
+left: 120px;
+top: 188px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 158px;
+height: 39px;
+left: 140px;
+top: 246px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 158px;
+height: 39px;
+left: 140px;
+top: 246px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 1001 */
+
+position: absolute;
+width: 32px;
+height: 17px;
+left: 158px;
+top: 257px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 105 */
+
+position: absolute;
+width: 158px;
+height: 59px;
+left: 140px;
+top: 305px;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 158px;
+height: 39px;
+left: 140px;
+top: 325px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 158px;
+height: 39px;
+left: 140px;
+top: 325px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Situação do pedido */
+
+position: absolute;
+width: 95px;
+height: 12px;
+left: 140px;
+top: 305px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Aguardando pagamento */
+
+position: absolute;
+width: 118px;
+height: 12px;
+left: 153px;
+top: 339px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Número do pedido */
+
+position: absolute;
+width: 127px;
+height: 17px;
+left: 140px;
+top: 208px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 206px;
+height: 196px;
+left: 346px;
+top: 188px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 206px;
+height: 196px;
+left: 346px;
+top: 188px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 158px;
+height: 39px;
+left: 366px;
+top: 246px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 158px;
+height: 39px;
+left: 366px;
+top: 246px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 4 dias úteis */
+
+position: absolute;
+width: 80px;
+height: 17px;
+left: 384px;
+top: 257px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 105 */
+
+position: absolute;
+width: 153px;
+height: 12px;
+left: 366px;
+top: 297px;
+
+
+
+/* Após aprovação do pagamento */
+
+position: absolute;
+width: 153px;
+height: 12px;
+left: 366px;
+top: 297px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Prazo do pedido */
+
+position: absolute;
+width: 112px;
+height: 17px;
+left: 366px;
+top: 208px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 110 */
+
+position: absolute;
+width: 748px;
+height: 196px;
+left: 572px;
+top: 188px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 748px;
+height: 196px;
+left: 572px;
+top: 188px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Group 87 */
+
+position: absolute;
+width: 426px;
+height: 37px;
+left: 789px;
+top: 292px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 426px;
+height: 37px;
+left: 789px;
+top: 292px;
+
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 12351.1238192.12873182.37458912 1827391274 1 91278340 12781424 */
+
+position: absolute;
+width: 346px;
+height: 12px;
+left: 813px;
+top: 305px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Clique no botão para imprimir o boleto e pague em qualquer banco da rede bancária. */
+
+position: absolute;
+width: 617px;
+height: 18px;
+left: 598px;
+top: 252px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Boleto Bancário */
+
+position: absolute;
+width: 191px;
+height: 30px;
+left: 598px;
+top: 208px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 111 */
+
+position: absolute;
+width: 172px;
+height: 37px;
+left: 598px;
+top: 292px;
+
+
+
+/* image */
+
+position: absolute;
+width: 172px;
+height: 37px;
+left: 598px;
+top: 292px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Imprimir Boleto */
+
+position: absolute;
+width: 103px;
+height: 17px;
+left: 628px;
+top: 302px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 432px;
+height: 326px;
+left: 120px;
+top: 596px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 432px;
+height: 326px;
+left: 120px;
+top: 596px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 384px;
+height: 39px;
+left: 140px;
+top: 671px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 384px;
+height: 39px;
+left: 140px;
+top: 671px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Rua Sumida, 072 */
+
+position: absolute;
+width: 114px;
+height: 17px;
+left: 245px;
+top: 682px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Endereço: */
+
+position: absolute;
+width: 70px;
+height: 17px;
+left: 157px;
+top: 682px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 384px;
+height: 39px;
+left: 140px;
+top: 720px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 384px;
+height: 39px;
+left: 140px;
+top: 720px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* São Listão */
+
+position: absolute;
+width: 71px;
+height: 17px;
+left: 215px;
+top: 731px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Bairro: */
+
+position: absolute;
+width: 45px;
+height: 17px;
+left: 157px;
+top: 731px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 384px;
+height: 39px;
+left: 140px;
+top: 769px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 384px;
+height: 39px;
+left: 140px;
+top: 769px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Rio de Janeiro */
+
+position: absolute;
+width: 97px;
+height: 17px;
+left: 224px;
+top: 780px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cidade: */
+
+position: absolute;
+width: 53px;
+height: 17px;
+left: 157px;
+top: 780px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 384px;
+height: 39px;
+left: 140px;
+top: 818px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 384px;
+height: 39px;
+left: 140px;
+top: 818px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Rio de Janeiro */
+
+position: absolute;
+width: 97px;
+height: 17px;
+left: 224px;
+top: 829px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Estado: */
+
+position: absolute;
+width: 52px;
+height: 17px;
+left: 157px;
+top: 829px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 384px;
+height: 39px;
+left: 140px;
+top: 867px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 384px;
+height: 39px;
+left: 140px;
+top: 867px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 12345-678 */
+
+position: absolute;
+width: 75px;
+height: 17px;
+left: 205px;
+top: 878px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cep: */
+
+position: absolute;
+width: 32px;
+height: 17px;
+left: 157px;
+top: 878px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Endereço Principal */
+
+position: absolute;
+width: 129px;
+height: 17px;
+left: 140px;
+top: 616px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 432px;
+height: 70px;
+left: 120px;
+top: 408px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 432px;
+height: 70px;
+left: 120px;
+top: 408px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 289px;
+height: 39px;
+left: 243px;
+top: 423px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 289px;
+height: 39px;
+left: 243px;
+top: 423px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* ic:baseline-qrcode */
+
+position: absolute;
+left: 17.99%;
+right: 80.69%;
+top: 41.28%;
+bottom: 56.91%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.16%;
+right: 54.17%;
+top: 4.17%;
+bottom: 54.17%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.84%;
+right: 70.83%;
+top: 20.83%;
+bottom: 70.83%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.16%;
+right: 4.17%;
+top: 4.17%;
+bottom: 54.17%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.84%;
+right: 20.83%;
+top: 20.83%;
+bottom: 70.83%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.16%;
+right: 54.17%;
+top: 54.17%;
+bottom: 4.17%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.84%;
+right: 70.83%;
+top: 70.83%;
+bottom: 20.83%;
+
+background: #616161;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.16%;
+right: 4.17%;
+top: 54.17%;
+bottom: 4.17%;
+
+background: #616161;
+
+
+/* Boleto Bancário */
+
+position: absolute;
+width: 109px;
+height: 17px;
+left: 289px;
+top: 434px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Pagamento */
+
+position: absolute;
+width: 78px;
+height: 17px;
+left: 140px;
+top: 434px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 432px;
+height: 70px;
+left: 120px;
+top: 502px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 432px;
+height: 70px;
+left: 120px;
+top: 502px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 289px;
+height: 39px;
+left: 243px;
+top: 517px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 289px;
+height: 39px;
+left: 243px;
+top: 517px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Lalamoove */
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 289px;
+top: 528px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* image-removebg-preview (13) 1 */
+
+position: absolute;
+width: 20px;
+height: 19.37px;
+left: 258px;
+top: 527px;
+
+background: url(image-removebg-preview (13).png);
+
+
+/* Entrega */
+
+position: absolute;
+width: 54px;
+height: 17px;
+left: 140px;
+top: 528px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 748px;
+height: 514px;
+left: 572px;
+top: 408px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image 1 */
+
+position: absolute;
+width: 682px;
+height: 407px;
+left: 600px;
+top: 443px;
+
+background: url(image.png);

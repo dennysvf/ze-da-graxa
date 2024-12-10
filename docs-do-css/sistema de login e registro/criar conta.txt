@@ -1,0 +1,377 @@
+/* Criar conta - 01 */
+
+position: relative;
+width: 1440px;
+height: 1020px;
+
+background: #FFFFFF;
+
+
+/* Navbar */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Login */
+
+position: absolute;
+width: 366px;
+height: 496px;
+left: 172px;
+top: 262px;
+
+
+
+/* Texto */
+
+position: absolute;
+width: 241px;
+height: 77px;
+left: 234px;
+top: 262px;
+
+
+
+/* Criação da conta */
+
+position: absolute;
+width: 208px;
+height: 30px;
+left: 250px;
+top: 262px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Faça o seu login ou crie uma conta caso ainda não possua cadastro */
+
+position: absolute;
+width: 241px;
+height: 34px;
+left: 234px;
+top: 305px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 73 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 396px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 425px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* E-mail */
+
+position: absolute;
+width: 43px;
+height: 17px;
+left: 191px;
+top: 444px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Digite seu e-mail */
+
+position: absolute;
+width: 115px;
+height: 17px;
+left: 172px;
+top: 396px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 74 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 493px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 522px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* mdi:password-off */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 502px;
+top: 538px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.63%;
+right: 7.87%;
+top: 4.17%;
+bottom: 5.29%;
+
+background: #616161;
+
+
+/* Senha */
+
+position: absolute;
+width: 43px;
+height: 17px;
+left: 191px;
+top: 541px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Digite sua senha */
+
+position: absolute;
+width: 113px;
+height: 17px;
+left: 172px;
+top: 493px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 76 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 590px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 619px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* mdi:password-off */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 502px;
+top: 635px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.63%;
+right: 7.87%;
+top: 4.17%;
+bottom: 5.29%;
+
+background: #616161;
+
+
+/* Senha */
+
+position: absolute;
+width: 43px;
+height: 17px;
+left: 191px;
+top: 638px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Confirme sua senha */
+
+position: absolute;
+width: 136px;
+height: 17px;
+left: 172px;
+top: 590px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 75 */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 703px;
+
+
+
+/* image */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 703px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Continuar */
+
+position: absolute;
+width: 87px;
+height: 22px;
+left: 328px;
+top: 720px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+

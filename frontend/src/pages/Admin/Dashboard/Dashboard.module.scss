@@ -1,0 +1,61 @@
+@use '../../../styles/tokens' as *;
+
+.search {
+  width: 100%;
+  max-width: 1064px;
+  margin: 0 auto;
+  background-color: var(--background-secondary);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-sm);
+  transition: all 0.2s ease;
+  
+  input {
+    &::placeholder {
+      color: var(--text-muted);
+    }
+  }
+}
+
+.activitySection {
+  grid-column: span 4;
+  
+  @media (max-width: 1024px) {
+    grid-column: span 6;
+  }
+  
+  @media (max-width: 768px) {
+    grid-column: span 12;
+  }
+}
+
+// Responsividade
+@media (max-width: 768px) {
+  .search {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    margin: calc(var(--spacing-3) * -1);
+    width: calc(100% + var(--spacing-3) * 2);
+    border-radius: 0;
+    
+    &:focus-within {
+      position: fixed;
+      top: 64px;
+      left: 0;
+      right: 0;
+      margin: 0;
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .search {
+    width: 60%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .search {
+    width: 40%;
+  }
+}

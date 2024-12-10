@@ -1,0 +1,580 @@
+/* Criar conta - 2 Física */
+
+position: relative;
+width: 1440px;
+height: 1020px;
+
+background: #FFFFFF;
+
+
+/* Navbar */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Login */
+
+position: absolute;
+width: 366px;
+height: 729px;
+left: 172px;
+top: 187px;
+
+
+
+/* Texto */
+
+position: absolute;
+width: 165px;
+height: 60px;
+left: 272px;
+top: 187px;
+
+
+
+/* Identificação */
+
+position: absolute;
+width: 160px;
+height: 30px;
+left: 274px;
+top: 187px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Confirme os seus dados */
+
+position: absolute;
+width: 165px;
+height: 17px;
+left: 272px;
+top: 230px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 73 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 369px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 398px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Nome */
+
+position: absolute;
+width: 40px;
+height: 17px;
+left: 191px;
+top: 417px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Digite seu nome completo */
+
+position: absolute;
+width: 177px;
+height: 17px;
+left: 172px;
+top: 369px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 74 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 466px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 495px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 123.456.789-00 */
+
+position: absolute;
+width: 109px;
+height: 17px;
+left: 191px;
+top: 514px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Digite seu CPF */
+
+position: absolute;
+width: 100px;
+height: 17px;
+left: 172px;
+top: 466px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 76 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 563px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 592px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* (21) 12345-6789 */
+
+position: absolute;
+width: 114px;
+height: 17px;
+left: 191px;
+top: 611px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Celular */
+
+position: absolute;
+width: 48px;
+height: 17px;
+left: 172px;
+top: 563px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 78 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 757px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 786px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* (21) 12345-6789 */
+
+position: absolute;
+width: 114px;
+height: 17px;
+left: 191px;
+top: 805px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Data de nascimento */
+
+position: absolute;
+width: 136px;
+height: 17px;
+left: 172px;
+top: 757px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 77 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 660px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 689px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Icons */
+
+position: absolute;
+left: 35.49%;
+right: 63.96%;
+top: 69.9%;
+bottom: 29.31%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.21%;
+right: 6.21%;
+top: 24.95%;
+bottom: 28.13%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Identificar */
+
+position: absolute;
+width: 69px;
+height: 17px;
+left: 191px;
+top: 708px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Sexo */
+
+position: absolute;
+width: 34px;
+height: 17px;
+left: 172px;
+top: 660px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 75 */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 861px;
+
+
+
+/* image */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 861px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Continuar */
+
+position: absolute;
+width: 87px;
+height: 22px;
+left: 328px;
+top: 878px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* Group 82 */
+
+position: absolute;
+width: 268px;
+height: 17px;
+left: 221px;
+top: 296px;
+
+
+
+/* Group 81 */
+
+position: absolute;
+width: 112px;
+height: 17px;
+left: 221px;
+top: 296px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 221px;
+top: 300px;
+
+background: #58D899;
+
+
+/* Pessoa Física */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 240px;
+top: 296px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 80 */
+
+position: absolute;
+width: 126px;
+height: 17px;
+left: 363px;
+top: 296px;
+
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 363px;
+top: 300px;
+
+background: #D9D9D9;
+
+
+/* Pessoa Jurídica */
+
+position: absolute;
+width: 107px;
+height: 17px;
+left: 382px;
+top: 296px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+

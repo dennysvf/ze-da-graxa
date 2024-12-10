@@ -1,0 +1,29 @@
+@import '../../../styles/tokens/spacing';
+
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 16px;
+  padding-left: 16px;
+
+  &.sm {
+    max-width: 640px;
+  }
+
+  &.md {
+    max-width: 768px;
+  }
+
+  &.lg {
+    max-width: $content-max-width;
+  }
+
+  &.xl {
+    max-width: $container-width;
+  }
+
+  &.fluid {
+    max-width: none;
+  }
+}

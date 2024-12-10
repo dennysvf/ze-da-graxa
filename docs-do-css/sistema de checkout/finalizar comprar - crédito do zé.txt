@@ -1,0 +1,1914 @@
+/* Finalizar comprar - Crédito do Zé */
+
+position: relative;
+width: 1440px;
+height: 1049px;
+
+background: #FFFFFF;
+
+
+/* Navbar */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 656px;
+top: 77px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 656px;
+top: 77px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 656px;
+top: 77px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Produto */
+
+position: absolute;
+width: 1199px;
+height: 340px;
+left: 120px;
+top: 148px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1199px;
+height: 340px;
+left: 120px;
+top: 148px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Group 101 */
+
+position: absolute;
+width: 1156px;
+height: 136px;
+left: 139px;
+top: 163px;
+
+
+
+/* Group 92 */
+
+position: absolute;
+width: 1108px;
+height: 15px;
+left: 139px;
+top: 163px;
+
+
+
+/* Quantidade */
+
+position: absolute;
+width: 68px;
+height: 15px;
+left: 1050px;
+top: 163px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Preço */
+
+position: absolute;
+width: 34px;
+height: 15px;
+left: 1213px;
+top: 163px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Produto */
+
+position: absolute;
+width: 47px;
+height: 15px;
+left: 139px;
+top: 163px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Produto */
+
+position: absolute;
+width: 1156px;
+height: 100px;
+left: 139px;
+top: 199px;
+
+
+
+/* Group 93 */
+
+position: absolute;
+width: 82px;
+height: 17px;
+left: 1213px;
+top: 231px;
+
+
+
+/* R$ 2.700,00 */
+
+position: absolute;
+width: 82px;
+height: 17px;
+left: 1213px;
+top: 231px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* + = */
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1062px;
+top: 219px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1062px;
+top: 219px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 1 */
+
+position: absolute;
+width: 10px;
+height: 24px;
+left: 1079px;
+top: 229px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Produto */
+
+position: absolute;
+width: 441px;
+height: 100px;
+left: 139px;
+top: 199px;
+
+
+
+/* Group 69 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 139px;
+top: 199px;
+
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 139px;
+top: 199px;
+
+background: #F5F5F5;
+border-radius: 5px;
+
+
+/* image-removebg-preview (7) 1 */
+
+position: absolute;
+width: 72.94px;
+height: 75.66px;
+left: 153.12px;
+top: 211.94px;
+
+background: url(image-removebg-preview (10).png);
+
+
+/* Bomba de Alta Pressão CP3 Cummins ISB 0445020007 / 0445020175 AFTERMARKET */
+
+position: absolute;
+width: 313px;
+height: 34px;
+left: 267px;
+top: 215px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Marca: Ford */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 267px;
+top: 265px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Código: AF-0445020175 */
+
+position: absolute;
+width: 168px;
+height: 17px;
+left: 368px;
+top: 265px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* image */
+
+position: absolute;
+width: 1199px;
+height: 1px;
+left: 120px;
+top: 332px;
+
+background: #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+position: absolute;
+width: 1199px;
+height: 1px;
+left: 120px;
+top: 429px;
+
+background: #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+position: absolute;
+width: 1199px;
+height: 1px;
+left: 120px;
+top: 382px;
+
+background: #EDEDED;
+border-radius: 5px;
+
+
+/* Group 103 */
+
+position: absolute;
+width: 163px;
+height: 17px;
+left: 1132px;
+top: 352px;
+
+
+
+/* Subtotal: */
+
+position: absolute;
+width: 53px;
+height: 15px;
+left: 1132px;
+top: 353px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 2.700,00 */
+
+position: absolute;
+width: 82px;
+height: 17px;
+left: 1213px;
+top: 352px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Group 102 */
+
+position: absolute;
+width: 163px;
+height: 17px;
+left: 1132px;
+top: 396px;
+
+
+
+/* Frete: */
+
+position: absolute;
+width: 34px;
+height: 15px;
+left: 1132px;
+top: 397px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 44,42 */
+
+position: absolute;
+width: 63px;
+height: 17px;
+left: 1232px;
+top: 396px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Group 104 */
+
+position: absolute;
+width: 163px;
+height: 17px;
+left: 1132px;
+top: 450px;
+
+
+
+/* Total: */
+
+position: absolute;
+width: 33px;
+height: 15px;
+left: 1132px;
+top: 451px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 2.744,42 */
+
+position: absolute;
+width: 82px;
+height: 17px;
+left: 1213px;
+top: 450px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 1199px;
+height: 461px;
+left: 120px;
+top: 515px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 290px;
+height: 239px;
+left: 120px;
+top: 515px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 136px;
+height: 17px;
+left: 140px;
+top: 630px;
+
+
+
+/* João Pedro */
+
+position: absolute;
+width: 77px;
+height: 17px;
+left: 199px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nome: */
+
+position: absolute;
+width: 45px;
+height: 17px;
+left: 140px;
+top: 630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 128px;
+height: 17px;
+left: 140px;
+top: 659px;
+
+
+
+/* Masculino */
+
+position: absolute;
+width: 69px;
+height: 17px;
+left: 199px;
+top: 659px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Sexo: */
+
+position: absolute;
+width: 38px;
+height: 17px;
+left: 140px;
+top: 659px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 173px;
+height: 17px;
+left: 140px;
+top: 717px;
+
+
+
+/* (21) 97133-6065 */
+
+position: absolute;
+width: 114px;
+height: 17px;
+left: 199px;
+top: 717px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Celular: */
+
+position: absolute;
+width: 53px;
+height: 17px;
+left: 140px;
+top: 717px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 185px;
+height: 17px;
+left: 140px;
+top: 688px;
+
+
+
+/* 26/07/2004 */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 244px;
+top: 688px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Nascimento: */
+
+position: absolute;
+width: 86px;
+height: 17px;
+left: 140px;
+top: 688px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 85px;
+height: 17px;
+left: 140px;
+top: 535px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Dados Cadastrais */
+
+position: absolute;
+width: 121px;
+height: 17px;
+left: 140px;
+top: 587px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 328px;
+height: 132px;
+left: 430px;
+top: 515px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 328px;
+height: 132px;
+left: 430px;
+top: 515px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 181px;
+height: 17px;
+left: 450px;
+top: 576px;
+
+
+
+/* Pessoa Física */
+
+position: absolute;
+width: 93px;
+height: 17px;
+left: 538px;
+top: 576px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cadastro: */
+
+position: absolute;
+width: 67px;
+height: 17px;
+left: 450px;
+top: 576px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 141px;
+height: 17px;
+left: 450px;
+top: 605px;
+
+
+
+/* 161.05.412.61 */
+
+position: absolute;
+width: 91px;
+height: 17px;
+left: 500px;
+top: 605px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* CPF: */
+
+position: absolute;
+width: 33px;
+height: 17px;
+left: 450px;
+top: 605px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Tipo de cadastro */
+
+position: absolute;
+width: 116px;
+height: 17px;
+left: 450px;
+top: 535px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 541px;
+height: 363px;
+left: 778px;
+top: 515px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 541px;
+height: 363px;
+left: 778px;
+top: 515px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 497px;
+height: 39px;
+left: 798px;
+top: 573px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 497px;
+height: 39px;
+left: 798px;
+top: 573px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.31%;
+right: 39.58%;
+top: 56.05%;
+bottom: 42.93%;
+
+background: #616161;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: 812px;
+top: 587px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* ic:baseline-qrcode */
+
+position: absolute;
+left: 59.17%;
+right: 39.51%;
+top: 55.58%;
+bottom: 42.61%;
+
+
+
+/* Crédito do Zé */
+
+position: absolute;
+width: 94px;
+height: 17px;
+left: 882px;
+top: 584px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 104 */
+
+position: absolute;
+width: 163px;
+height: 17px;
+left: 1132px;
+top: 711px;
+
+
+
+/* Total: */
+
+position: absolute;
+width: 33px;
+height: 15px;
+left: 1132px;
+top: 712px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 2.744,42 */
+
+position: absolute;
+width: 82px;
+height: 17px;
+left: 1213px;
+top: 711px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: right;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Group 105 */
+
+position: absolute;
+width: 242px;
+height: 59px;
+left: 798px;
+top: 632px;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 242px;
+height: 39px;
+left: 798px;
+top: 652px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 39px;
+left: 798px;
+top: 652px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Icons */
+
+position: absolute;
+left: 70.62%;
+right: 28.82%;
+top: 63.68%;
+bottom: 35.56%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.23%;
+right: 6.2%;
+top: 24.96%;
+bottom: 28.12%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Número de Parcelas */
+
+position: absolute;
+width: 99px;
+height: 12px;
+left: 798px;
+top: 632px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Selecione o número de parcelas */
+
+position: absolute;
+width: 157px;
+height: 12px;
+left: 811px;
+top: 666px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 106 */
+
+position: absolute;
+width: 242px;
+height: 59px;
+left: 1053px;
+top: 632px;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 242px;
+height: 39px;
+left: 1053px;
+top: 652px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 39px;
+left: 1053px;
+top: 652px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Icons */
+
+position: absolute;
+left: 88.33%;
+right: 11.11%;
+top: 63.68%;
+bottom: 35.56%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.23%;
+right: 6.2%;
+top: 24.96%;
+bottom: 28.12%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Validade */
+
+position: absolute;
+width: 42px;
+height: 12px;
+left: 1053px;
+top: 632px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Pagamento Semanal */
+
+position: absolute;
+width: 101px;
+height: 12px;
+left: 1066px;
+top: 666px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 497px;
+height: 39px;
+left: 798px;
+top: 754px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 497px;
+height: 39px;
+left: 798px;
+top: 754px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Alterar forma de pagamento */
+
+position: absolute;
+width: 194px;
+height: 17px;
+left: 952px;
+top: 765px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Pagamento */
+
+position: absolute;
+width: 78px;
+height: 17px;
+left: 798px;
+top: 535px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 99 */
+
+position: absolute;
+width: 497px;
+height: 37px;
+left: 798px;
+top: 816px;
+
+
+
+/* image */
+
+position: absolute;
+width: 497px;
+height: 37px;
+left: 798px;
+top: 816px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Finalizar Compra */
+
+position: absolute;
+width: 115px;
+height: 17px;
+left: 989px;
+top: 826px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 328px;
+height: 132px;
+left: 430px;
+top: 665px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 328px;
+height: 132px;
+left: 430px;
+top: 665px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Group 95 */
+
+position: absolute;
+width: 289px;
+height: 17px;
+left: 450px;
+top: 764px;
+
+
+
+/* 7 dias úteis R$ 33,37 Lalamoove - Express */
+
+position: absolute;
+width: 289px;
+height: 17px;
+left: 450px;
+top: 764px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 113px;
+height: 17px;
+left: 450px;
+top: 726px;
+
+
+
+/* Tipo de entrega: */
+
+position: absolute;
+width: 113px;
+height: 17px;
+left: 450px;
+top: 726px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Entrega */
+
+position: absolute;
+width: 54px;
+height: 17px;
+left: 450px;
+top: 685px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 328px;
+height: 161px;
+left: 430px;
+top: 815px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 328px;
+height: 161px;
+left: 430px;
+top: 815px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 288px;
+height: 74px;
+left: 450px;
+top: 892px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 269px;
+height: 17px;
+left: 450px;
+top: 861px;
+
+
+
+/* Gostaria de enviar alguma observação? */
+
+position: absolute;
+width: 269px;
+height: 17px;
+left: 450px;
+top: 861px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Mensagem */
+
+position: absolute;
+width: 76px;
+height: 17px;
+left: 450px;
+top: 835px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 290px;
+height: 212px;
+left: 120px;
+top: 764px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 290px;
+height: 212px;
+left: 120px;
+top: 764px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Frame 84 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 24px;
+gap: 10px;
+
+position: absolute;
+width: 41px;
+height: 18px;
+left: 355px;
+top: 784px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Editar */
+
+width: 29px;
+height: 12px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cartões */
+
+position: absolute;
+width: 202px;
+height: 17px;
+left: 140px;
+top: 821px;
+
+
+
+/* Rua Sumida, 072 */
+
+position: absolute;
+width: 114px;
+height: 17px;
+left: 228px;
+top: 821px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Endereço: */
+
+position: absolute;
+width: 70px;
+height: 17px;
+left: 140px;
+top: 821px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 129px;
+height: 17px;
+left: 140px;
+top: 851px;
+
+
+
+/* São Listão */
+
+position: absolute;
+width: 71px;
+height: 17px;
+left: 198px;
+top: 851px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Bairro: */
+
+position: absolute;
+width: 45px;
+height: 17px;
+left: 140px;
+top: 851px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 164px;
+height: 17px;
+left: 140px;
+top: 881px;
+
+
+
+/* Rio de Janeiro */
+
+position: absolute;
+width: 97px;
+height: 17px;
+left: 207px;
+top: 881px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cidade: */
+
+position: absolute;
+width: 53px;
+height: 17px;
+left: 140px;
+top: 881px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 164px;
+height: 17px;
+left: 140px;
+top: 911px;
+
+
+
+/* Rio de Janeiro */
+
+position: absolute;
+width: 97px;
+height: 17px;
+left: 207px;
+top: 911px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Estado: */
+
+position: absolute;
+width: 52px;
+height: 17px;
+left: 140px;
+top: 911px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 123px;
+height: 17px;
+left: 140px;
+top: 941px;
+
+
+
+/* 12345-678 */
+
+position: absolute;
+width: 75px;
+height: 17px;
+left: 188px;
+top: 941px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cep: */
+
+position: absolute;
+width: 32px;
+height: 17px;
+left: 140px;
+top: 941px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Endereço Principal */
+
+position: absolute;
+width: 129px;
+height: 17px;
+left: 140px;
+top: 784px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+

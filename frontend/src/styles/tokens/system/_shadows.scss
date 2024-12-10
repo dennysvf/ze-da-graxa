@@ -1,0 +1,41 @@
+// Design System - Shadow Tokens
+// Este arquivo define as sombras mantendo compatibilidade com o sistema atual
+
+// Função utilitária para converter px para rem
+@function px-to-rem($px) {
+  $base: 16px;
+  @return ($px / $base) * 1rem;
+}
+
+// Escala de sombras
+$shadows: (
+  'none': none,
+  'sm': (0 px-to-rem(1px) px-to-rem(2px) rgba(0, 0, 0, 0.05)),
+  'base': (0 px-to-rem(1px) px-to-rem(3px) rgba(0, 0, 0, 0.1), 0 px-to-rem(1px) px-to-rem(2px) rgba(0, 0, 0, 0.06)),
+  'md': (0 px-to-rem(4px) px-to-rem(6px) rgba(0, 0, 0, 0.1), 0 px-to-rem(2px) px-to-rem(4px) rgba(0, 0, 0, 0.06)),
+  'lg': (0 px-to-rem(10px) px-to-rem(15px) rgba(0, 0, 0, 0.1), 0 px-to-rem(4px) px-to-rem(6px) rgba(0, 0, 0, 0.05)),
+  'xl': (0 px-to-rem(20px) px-to-rem(25px) rgba(0, 0, 0, 0.1), 0 px-to-rem(8px) px-to-rem(10px) rgba(0, 0, 0, 0.04)),
+  'inner': (inset 0 px-to-rem(2px) px-to-rem(4px) rgba(0, 0, 0, 0.06))
+);
+
+// Sistema de Aliases (Compatibilidade com sistema atual)
+$box-shadow-default: map-get($shadows, 'base');
+$box-shadow-hover: map-get($shadows, 'md');
+$box-shadow-active: map-get($shadows, 'inner');
+
+// Exportação para JavaScript
+:export {
+  // Sistema atual (mantendo compatibilidade)
+  boxShadowDefault: $box-shadow-default;
+  boxShadowHover: $box-shadow-hover;
+  boxShadowActive: $box-shadow-active;
+  
+  // Novo sistema (escala completa)
+  shadowNone: map-get($shadows, 'none');
+  shadowSm: map-get($shadows, 'sm');
+  shadowBase: map-get($shadows, 'base');
+  shadowMd: map-get($shadows, 'md');
+  shadowLg: map-get($shadows, 'lg');
+  shadowXl: map-get($shadows, 'xl');
+  shadowInner: map-get($shadows, 'inner');
+}

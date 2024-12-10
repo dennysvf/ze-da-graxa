@@ -1,0 +1,683 @@
+/* Criar conta - 3 Física */
+
+position: relative;
+width: 1440px;
+height: 1020px;
+
+background: #FFFFFF;
+
+
+/* Navbar */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Login */
+
+position: absolute;
+width: 366px;
+height: 759px;
+left: 172px;
+top: 176px;
+
+
+
+/* Texto */
+
+position: absolute;
+width: 159px;
+height: 60px;
+left: 275px;
+top: 176px;
+
+
+
+/* Endereço */
+
+position: absolute;
+width: 117px;
+height: 30px;
+left: 296px;
+top: 176px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Confirme seu endereço */
+
+position: absolute;
+width: 159px;
+height: 17px;
+left: 275px;
+top: 219px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 73 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 281px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 310px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* CEP */
+
+position: absolute;
+width: 28px;
+height: 17px;
+left: 191px;
+top: 329px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* CEP */
+
+position: absolute;
+width: 28px;
+height: 17px;
+left: 172px;
+top: 281px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 74 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 378px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 407px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Endereço */
+
+position: absolute;
+width: 65px;
+height: 17px;
+left: 191px;
+top: 426px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Endereço */
+
+position: absolute;
+width: 65px;
+height: 17px;
+left: 172px;
+top: 378px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 76 */
+
+position: absolute;
+width: 179px;
+height: 84px;
+left: 172px;
+top: 475px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 179px;
+height: 55px;
+left: 172px;
+top: 504px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Número */
+
+position: absolute;
+width: 54px;
+height: 17px;
+left: 191px;
+top: 523px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Número */
+
+position: absolute;
+width: 54px;
+height: 17px;
+left: 172px;
+top: 475px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 80 */
+
+position: absolute;
+width: 179px;
+height: 84px;
+left: 172px;
+top: 766px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 179px;
+height: 55px;
+left: 172px;
+top: 795px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cidade */
+
+position: absolute;
+width: 48px;
+height: 17px;
+left: 191px;
+top: 814px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Cidade */
+
+position: absolute;
+width: 48px;
+height: 17px;
+left: 172px;
+top: 766px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 79 */
+
+position: absolute;
+width: 179px;
+height: 84px;
+left: 359px;
+top: 475px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 179px;
+height: 55px;
+left: 359px;
+top: 504px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Complemento */
+
+position: absolute;
+width: 95px;
+height: 17px;
+left: 378px;
+top: 523px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Complemento */
+
+position: absolute;
+width: 95px;
+height: 17px;
+left: 359px;
+top: 475px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 81 */
+
+position: absolute;
+width: 179px;
+height: 84px;
+left: 359px;
+top: 766px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 179px;
+height: 55px;
+left: 359px;
+top: 795px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Icons */
+
+position: absolute;
+left: 35.76%;
+right: 63.68%;
+top: 80.29%;
+bottom: 18.92%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.23%;
+right: 6.2%;
+top: 24.95%;
+bottom: 28.13%;
+
+background: #616161;
+border: 0.5px solid #616161;
+
+
+/* Estado */
+
+position: absolute;
+width: 47px;
+height: 17px;
+left: 378px;
+top: 814px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Estado */
+
+position: absolute;
+width: 47px;
+height: 17px;
+left: 359px;
+top: 766px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 78 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 669px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 698px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Bairro */
+
+position: absolute;
+width: 40px;
+height: 17px;
+left: 191px;
+top: 717px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Bairro */
+
+position: absolute;
+width: 40px;
+height: 17px;
+left: 172px;
+top: 669px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 77 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 572px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 601px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Identificar */
+
+position: absolute;
+width: 69px;
+height: 17px;
+left: 191px;
+top: 620px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Referência */
+
+position: absolute;
+width: 73px;
+height: 17px;
+left: 172px;
+top: 572px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 75 */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 880px;
+
+
+
+/* image */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 880px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Criar conta */
+
+position: absolute;
+width: 98px;
+height: 22px;
+left: 310px;
+top: 897px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+

@@ -1,0 +1,206 @@
+/* Recuperação de senha */
+
+position: relative;
+width: 1440px;
+height: 1020px;
+
+background: #FFFFFF;
+
+
+/* Navbar */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 291px;
+top: 77px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Login */
+
+position: absolute;
+width: 366px;
+height: 303px;
+left: 172px;
+top: 358px;
+
+
+
+/* Texto */
+
+position: absolute;
+width: 279px;
+height: 60px;
+left: 215px;
+top: 358px;
+
+
+
+/* Recuperar conta */
+
+position: absolute;
+width: 203px;
+height: 30px;
+left: 253px;
+top: 358px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Seja bem vindo ao recuperação de conta */
+
+position: absolute;
+width: 279px;
+height: 17px;
+left: 215px;
+top: 401px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 73 */
+
+position: absolute;
+width: 366px;
+height: 84px;
+left: 172px;
+top: 492px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 521px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* E-mail */
+
+position: absolute;
+width: 43px;
+height: 17px;
+left: 191px;
+top: 540px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Digite seu e-mail */
+
+position: absolute;
+width: 115px;
+height: 17px;
+left: 172px;
+top: 492px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 75 */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 606px;
+
+
+
+/* image */
+
+position: absolute;
+width: 366px;
+height: 55px;
+left: 172px;
+top: 606px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Recuperar conta */
+
+position: absolute;
+width: 145px;
+height: 22px;
+left: 282px;
+top: 623px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+

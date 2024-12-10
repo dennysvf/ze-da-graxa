@@ -1,0 +1,600 @@
+/* Finalizar comprar - PIX */
+
+position: relative;
+width: 1440px;
+height: 1049px;
+
+background: #FFFFFF;
+
+
+/* Navbar */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 656px;
+top: 77px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 656px;
+top: 77px;
+
+
+
+/* LogoPrancheta 11Versão 1 */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 656px;
+top: 77px;
+
+background: url(LogoPrancheta 11Versão);
+
+
+/* Minha conta */
+
+position: absolute;
+width: 206px;
+height: 196px;
+left: 120px;
+top: 188px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 206px;
+height: 196px;
+left: 120px;
+top: 188px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 158px;
+height: 39px;
+left: 140px;
+top: 246px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 158px;
+height: 39px;
+left: 140px;
+top: 246px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 1001 */
+
+position: absolute;
+width: 32px;
+height: 17px;
+left: 158px;
+top: 257px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 105 */
+
+position: absolute;
+width: 158px;
+height: 59px;
+left: 140px;
+top: 305px;
+
+
+
+/* Cartões */
+
+position: absolute;
+width: 158px;
+height: 39px;
+left: 140px;
+top: 325px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 158px;
+height: 39px;
+left: 140px;
+top: 325px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Situação do pedido */
+
+position: absolute;
+width: 95px;
+height: 12px;
+left: 140px;
+top: 305px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Aguardando pagamento */
+
+position: absolute;
+width: 118px;
+height: 12px;
+left: 153px;
+top: 339px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Número do pedido */
+
+position: absolute;
+width: 127px;
+height: 17px;
+left: 140px;
+top: 208px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Minha conta */
+
+position: absolute;
+width: 206px;
+height: 196px;
+left: 346px;
+top: 188px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 206px;
+height: 196px;
+left: 346px;
+top: 188px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Cartões */
+
+position: absolute;
+width: 158px;
+height: 39px;
+left: 366px;
+top: 246px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 158px;
+height: 39px;
+left: 366px;
+top: 246px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 4 dias úteis */
+
+position: absolute;
+width: 80px;
+height: 17px;
+left: 384px;
+top: 257px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 105 */
+
+position: absolute;
+width: 153px;
+height: 12px;
+left: 366px;
+top: 297px;
+
+
+
+/* Após aprovação do pagamento */
+
+position: absolute;
+width: 153px;
+height: 12px;
+left: 366px;
+top: 297px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Prazo do pedido */
+
+position: absolute;
+width: 112px;
+height: 17px;
+left: 366px;
+top: 208px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 110 */
+
+position: absolute;
+width: 748px;
+height: 709px;
+left: 572px;
+top: 188px;
+
+
+
+/* image */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 748px;
+height: 709px;
+left: 572px;
+top: 188px;
+
+background: #FFFFFF;
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Group 85 */
+
+position: absolute;
+width: 343px;
+height: 30px;
+left: 774px;
+top: 831px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 343px;
+height: 30px;
+left: 774px;
+top: 831px;
+
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* 00020101021226820014br.gov.bcb.pix2560pix.stone.com.b */
+
+position: absolute;
+width: 295px;
+height: 12px;
+left: 798px;
+top: 840px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Group 86 */
+
+position: absolute;
+width: 343px;
+height: 30px;
+left: 774px;
+top: 792px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 343px;
+height: 30px;
+left: 774px;
+top: 792px;
+
+border: 1px solid #EDEDED;
+border-radius: 5px;
+
+
+/* Copiar código do QR Code */
+
+position: absolute;
+width: 131px;
+height: 12px;
+left: 880px;
+top: 801px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* image */
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 846px;
+top: 413px;
+
+background: url(image.png);
+
+
+/* Utilize o QR code para efetuar o pagamento */
+
+position: absolute;
+width: 319px;
+height: 18px;
+left: 786px;
+top: 280px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Valor da compra */
+
+position: absolute;
+width: 119px;
+height: 18px;
+left: 886px;
+top: 327px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Expira em 1 hora, 55 minutos e 6s  (12/09/2024, 17:18:45) */
+
+position: absolute;
+width: 250px;
+height: 36px;
+left: 821px;
+top: 642px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Você também pode pagar escolhendo a opção PIX copia e cola no aplicativo que você usa. */
+
+position: absolute;
+width: 343px;
+height: 36px;
+left: 774px;
+top: 734px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* Pagamento via PIX */
+
+position: absolute;
+width: 227px;
+height: 30px;
+left: 832px;
+top: 236px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.2px;
+
+color: #616161;
+
+
+
+/* R$ 2.700,00 */
+
+position: absolute;
+width: 148px;
+height: 30px;
+left: 872px;
+top: 354px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.2px;
+
+color: #58D899;
+
+
+
+/* Group 99 */
+
+position: absolute;
+width: 748px;
+height: 37px;
+left: 572px;
+top: 929px;
+
+
+
+/* image */
+
+position: absolute;
+width: 748px;
+height: 37px;
+left: 572px;
+top: 929px;
+
+background: #58D899;
+border-radius: 5px;
+
+
+/* Pagamento Realizado */
+
+position: absolute;
+width: 147px;
+height: 17px;
+left: 872px;
+top: 939px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+

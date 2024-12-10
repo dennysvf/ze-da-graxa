@@ -1,0 +1,162 @@
+@import '../../styles/tokens/colors';
+@import '../../styles/tokens/spacing';
+@import '../../styles/tokens/typography';
+@import '../../styles/tokens/shadows';
+
+.menu {
+  width: 100%;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: var(--spacing-2);
+}
+
+.horizontal {
+  .list {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .submenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    min-width: 200px;
+    background: var(--color-background-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--border-radius-md);
+    box-shadow: var(--shadow-md);
+    padding: var(--spacing-2);
+    margin-top: var(--spacing-2);
+  }
+}
+
+.vertical {
+  .list {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .submenu {
+    margin-left: var(--spacing-6);
+    margin-top: var(--spacing-2);
+  }
+}
+
+.listItem {
+  position: relative;
+  width: 100%;
+}
+
+.item {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-2);
+  width: 100%;
+  border: none;
+  background: none;
+  font-family: inherit;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2s ease;
+
+  &:disabled,
+  &[aria-disabled="true"] {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+  }
+}
+
+// Variantes
+.primary {
+  .item {
+    color: var(--color-text-primary);
+    
+    &:hover:not(:disabled) {
+      color: var(--color-primary);
+      background: var(--color-background-hover);
+    }
+
+    &.active {
+      color: var(--color-primary);
+      background: var(--color-background-selected);
+      font-weight: var(--font-weight-medium);
+    }
+  }
+}
+
+.secondary {
+  .item {
+    color: var(--color-text-secondary);
+    
+    &:hover:not(:disabled) {
+      color: var(--color-text-primary);
+      background: var(--color-background-hover);
+    }
+
+    &.active {
+      color: var(--color-text-primary);
+      background: var(--color-background-selected);
+    }
+  }
+}
+
+// Tamanhos
+.small {
+  .item {
+    padding: var(--spacing-1) var(--spacing-2);
+    font-size: var(--font-size-sm);
+  }
+
+  .icon {
+    font-size: var(--font-size-lg);
+  }
+}
+
+.medium {
+  .item {
+    padding: var(--spacing-2) var(--spacing-3);
+    font-size: var(--font-size-base);
+  }
+
+  .icon {
+    font-size: var(--font-size-xl);
+  }
+}
+
+.large {
+  .item {
+    padding: var(--spacing-3) var(--spacing-4);
+    font-size: var(--font-size-lg);
+  }
+
+  .icon {
+    font-size: var(--font-size-2xl);
+  }
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  color: currentColor;
+}
+
+.label {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.submenu {
+  list-style: none;
+  padding: 0;
+  z-index: var(--z-dropdown);
+}

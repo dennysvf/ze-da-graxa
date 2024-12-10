@@ -1,0 +1,235 @@
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-2);
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.label {
+  color: var(--color-text-primary);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-1);
+  user-select: none;
+}
+
+.required {
+  color: var(--color-error);
+  margin-left: var(--spacing-1);
+}
+
+.inputWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+/* Base input styles */
+.input {
+  width: 100%;
+  font-family: var(--font-family);
+  font-size: var(--font-size-md);
+  color: var(--color-text-primary);
+  background-color: var(--color-background);
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius-md);
+  transition: all 0.2s ease;
+  padding: 0 var(--spacing-3);
+  margin: 0;
+  outline: none;
+}
+
+.input::placeholder {
+  color: var(--color-text-disabled);
+}
+
+.input:hover:not(:disabled) {
+  border-color: var(--color-border-hover);
+}
+
+.input:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 2px var(--color-primary-light);
+}
+
+/* Variants */
+.default {
+  background-color: var(--color-background);
+}
+
+.filled {
+  background-color: var(--color-background-alt);
+  border-color: transparent;
+}
+
+.filled:hover:not(:disabled) {
+  background-color: var(--color-background-hover);
+}
+
+.filled:focus {
+  background-color: var(--color-background);
+}
+
+.outlined {
+  background-color: transparent;
+}
+
+/* Sizes */
+.sm {
+  height: 32px;
+  font-size: var(--font-size-sm);
+  padding: 0 var(--spacing-2);
+  border-radius: var(--border-radius-sm);
+}
+
+.md {
+  height: 40px;
+}
+
+.lg {
+  height: 48px;
+  font-size: var(--font-size-lg);
+  padding: 0 var(--spacing-4);
+  border-radius: var(--border-radius-lg);
+}
+
+/* States */
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.error .input {
+  border-color: var(--color-error);
+  background-color: var(--color-error-light);
+}
+
+.error .input:focus {
+  box-shadow: 0 0 0 2px var(--color-error-light);
+}
+
+.success .input {
+  border-color: var(--color-success);
+  background-color: var(--color-success-light);
+}
+
+.success .input:focus {
+  box-shadow: 0 0 0 2px var(--color-success-light);
+}
+
+.warning .input {
+  border-color: var(--color-warning);
+  background-color: var(--color-warning-light);
+}
+
+.warning .input:focus {
+  box-shadow: 0 0 0 2px var(--color-warning-light);
+}
+
+/* Icons */
+.leftIcon,
+.rightIcon {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  color: var(--color-text-secondary);
+  pointer-events: none;
+}
+
+.leftIcon {
+  left: var(--spacing-3);
+}
+
+.rightIcon {
+  right: var(--spacing-3);
+}
+
+.hasLeftIcon {
+  padding-left: calc(var(--spacing-3) * 2 + 20px);
+}
+
+.hasRightIcon {
+  padding-right: calc(var(--spacing-3) * 2 + 20px);
+}
+
+/* Clear button */
+.clearButton {
+  position: absolute;
+  right: var(--spacing-3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--color-text-secondary);
+  opacity: 0.6;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.clearButton:hover {
+  opacity: 1;
+  color: var(--color-text-primary);
+}
+
+.clearButton:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+  border-radius: var(--border-radius-sm);
+}
+
+.clearIcon {
+  width: 16px;
+  height: 16px;
+}
+
+/* Helper text */
+.helperText {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  margin-top: var(--spacing-1);
+}
+
+.error .helperText {
+  color: var(--color-error);
+}
+
+.success .helperText {
+  color: var(--color-success);
+}
+
+.warning .helperText {
+  color: var(--color-warning);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .input {
+    font-size: var(--font-size-md);
+  }
+
+  .lg {
+    height: 44px;
+    font-size: var(--font-size-md);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .input,
+  .clearButton {
+    transition: none;
+  }
+}
